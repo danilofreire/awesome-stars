@@ -267,6 +267,9 @@
 
 ## Python 
 
+- [anomaly-detection-resources](https://github.com/yzhao062/anomaly-detection-resources) - Anomaly detection related books, papers, videos, and toolboxes
+- [jupytext](https://github.com/mwouts/jupytext) - Jupyter notebooks as Markdown documents, Julia, Python or R scripts
+- [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [keras-image-captioning](https://github.com/danieljl/keras-image-captioning) - An implementation of image captioning in Keras
 - [faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
 - [pcalg](https://github.com/keiichishima/pcalg) - CPDAG Estimation using PC-Algorithm
