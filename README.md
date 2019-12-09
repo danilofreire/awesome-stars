@@ -25,6 +25,7 @@
   - [Python](#python)
   - [R](#r)
   - [Ruby](#ruby)
+  - [Rust](#rust)
   - [Shell](#shell)
   - [Stan](#stan)
   - [Stata](#stata)
@@ -51,7 +52,7 @@
 ## C++ 
 
 - [ranger](https://github.com/imbs-hl/ranger) - A Fast Implementation of Random Forests
-- [interpret](https://github.com/interpretml/interpret) - Fit interpretable models. Explain blackbox machine learning.
+- [interpret](https://github.com/interpretml/interpret) - Fit interpretable machine learning models. Explain blackbox machine learning.
 - [pdftools](https://github.com/ropensci/pdftools) - Text Extraction, Rendering and Converting of PDF Documents
 - [catboost](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.
 - [tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
@@ -69,6 +70,7 @@
 
 ## CSS 
 
+- [supervised-ML-case-studies-course](https://github.com/juliasilge/supervised-ML-case-studies-course) - Supervised machine learning case studies in R! 💫 A free interactive course
 - [pandoc-templates](https://github.com/kjhealy/pandoc-templates) - Some templates for Pandoc.
 - [prettydoc](https://github.com/yixuan/prettydoc) - Creating Pretty HTML From R Markdown
 - [course-website](https://github.com/svmiller/course-website) - This is a Jekyll template, patterned off my main Jekyll template, for organizing a course website and hosting it on Github.
@@ -96,6 +98,10 @@
 
 ## HTML 
 
+- [awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
+- [recipes](https://github.com/tidymodels/recipes) - A preprocessing engine to generate design matrices
+- [tensorflow-w-r](https://github.com/sol-eng/tensorflow-w-r) - TensorFlow with R
+- [datascience-box](https://github.com/rstudio-education/datascience-box) - Data Science Course in a Box
 - [r-docker-tutorial](https://github.com/ropenscilabs/r-docker-tutorial) - A docker tutorial for reproducible research
 - [course-site](https://github.com/uc-cfss/course-site) - Course site for Computing for the Social Sciences (MACS-30500)
 - [course](https://github.com/plsc-31101/course) - Introduction To Computational Tools And Techniques For Social Research
@@ -169,6 +175,8 @@
 
 ## JavaScript 
 
+- [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
+- [docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - Docker image to provide HTML5 VNC interface to access Ubuntu LXDE and LXQT desktop environment
 - [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls for Chrome
 - [bypass-paywalls-firefox](https://github.com/iamadamdev/bypass-paywalls-firefox) - Bypass Paywalls for Firefox
 - [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
@@ -193,12 +201,15 @@
 
 ## Jupyter Notebook 
 
+- [amazon-sagemaker-examples](https://github.com/awslabs/amazon-sagemaker-examples) - Example notebooks that show how to apply machine learning, deep learning and reinforcement learning in Amazon SageMaker
+- [fastai](https://github.com/fastai/fastai) - The fastai deep learning library, plus lessons and tutorials
+- [introduction_to_ml_with_python](https://github.com/amueller/introduction_to_ml_with_python) - Notebooks and code for the book "Introduction to Machine Learning with Python"
+- [mml-book.github.io](https://github.com/mml-book/mml-book.github.io) - Companion webpage to the book "Mathematics For Machine Learning"
 - [DeOldify](https://github.com/jantic/DeOldify) - A Deep Learning based project for colorizing and restoring old images (and video!)
-- [jupytext](https://github.com/mwouts/jupytext) - Jupyter notebooks as Markdown documents, Julia, Python or R scripts
 - [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
 - [handson-ml2](https://github.com/ageron/handson-ml2) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
 - [satellite_analysis](https://github.com/cbassa/satellite_analysis) - Analysis scripts of things related to satellites
-- [shap](https://github.com/slundberg/shap) - A unified approach to explain the output of any machine learning model.
+- [shap](https://github.com/slundberg/shap) - A game theoretic approach to explain the output of any machine learning model.
 - [esda](https://github.com/pysal/esda) - statistics and classes for exploratory spatial data analysis
 - [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
 - [ceterisParibus](https://github.com/pbiecek/ceterisParibus) - Ceteris Paribus Plots (What-If plots) for explanations of a single observation
@@ -231,6 +242,10 @@
 
 ## Others 
 
+- [awesome-causality-algorithms](https://github.com/rguo12/awesome-causality-algorithms) - An index of algorithms for learning causality with data
+- [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
+- [Production-Level-Deep-Learning](https://github.com/alirezadir/Production-Level-Deep-Learning) - A guideline for building practical production-level deep learning systems to be deployed in real world applications.
+- [awesome-stars](https://github.com/RobertMyles/awesome-stars) - A curated list of my GitHub stars!
 - [schedule_and_links](https://github.com/dscov-tutorials/schedule_and_links) - Schedule of tutorials and list of relevant materials
 - [docker-para-desenvolvedores](https://github.com/gomex/docker-para-desenvolvedores) - Código fonte do livro Docker para desenvolvedores
 - [poliscijournals](https://github.com/erikgahner/poliscijournals) - Overview of word limits in political science journals
@@ -269,17 +284,24 @@
 - [gdocs2md](https://github.com/mangini/gdocs2md) - Convert a Google Drive Document to the Markdown format, suitable for publishing.
 - [free-data-science-books](https://github.com/chaconnewu/free-data-science-books) - Free resources for learning data science
 - [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets. PR ☛☛☛
-- [statisticallearning](https://github.com/zmjones/statisticallearning) - a community syllabus for statistical learning in political science
 
 ## Python 
 
+- [at16k](https://github.com/at16k/at16k) - Trained models for automatic speech recognition (ASR). A library to quickly build applications that require speech to text conversion.
+- [BerryNet](https://github.com/DT42/BerryNet) - Deep learning gateway on Raspberry Pi and other edge devices
+- [rpi-ncs-toolkit](https://github.com/serre-lab/rpi-ncs-toolkit) - 
+- [conjointsdt](https://github.com/astrezhnev/conjointsdt) - Conjoint Survey Design Tool - A Python tool for designing and exporting conjoint survey experiments.
+- [deoplete.nvim](https://github.com/Shougo/deoplete.nvim) - :stars: Dark powered asynchronous completion framework for neovim/Vim8
+- [keras-rl](https://github.com/keras-rl/keras-rl) - Deep Reinforcement Learning for Keras.
+- [model-analysis](https://github.com/tensorflow/model-analysis) - Model analysis tools for TensorFlow
 - [radian](https://github.com/randy3k/radian) - A 21 century R console
-- [Terminus](https://github.com/randy3k/Terminus) - Best Terminal Emulator for Sublime Text.
+- [Terminus](https://github.com/randy3k/Terminus) - Bring a real terminal to Sublime Text
 - [jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) - PyTorch Tutorial for Deep Learning Researchers
 - [auto-sklearn](https://github.com/automl/auto-sklearn) - Automated Machine Learning with scikit-learn
 - [transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
 - [anomaly-detection-resources](https://github.com/yzhao062/anomaly-detection-resources) - Anomaly detection related books, papers, videos, and toolboxes
+- [jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [keras-image-captioning](https://github.com/danieljl/keras-image-captioning) - An implementation of image captioning in Keras
 - [faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
@@ -324,6 +346,18 @@
 
 ## R 
 
+- [tidypredict](https://github.com/tidymodels/tidypredict) - Run predictions inside the database
+- [MLDay18](https://github.com/bgreenwell/MLDay18) - Material from "Random Forests and Gradient Boosting Machines in R" presented at Machine Learning Day '18
+- [gluedown](https://github.com/kiernann/gluedown) - R package to wrap vectors in markdown syntax
+- [2019-Statistical-Risk-Assessment](https://github.com/EarlyWarningProject/2019-Statistical-Risk-Assessment) - Statistical Risk Assessment for 2019 and 2020
+- [ggdag](https://github.com/malcolmbarrett/ggdag) - :arrow_lower_left: :arrow_lower_right: An R package for working with causal directed acyclic graphs (DAGs)
+- [ggeffects](https://github.com/strengejacke/ggeffects) - Tidy Data Frames of Marginal Effects for ggplot2
+- [tidyimpute](https://github.com/decisionpatterns/tidyimpute) - 
+- [languageserver](https://github.com/REditorSupport/languageserver) - An implementation of the Language Server Protocol for R
+- [reinforcelearn](https://github.com/markusdumke/reinforcelearn) - R Package for Reinforcement Learning
+- [r-tensorflow-api](https://github.com/tmobile/r-tensorflow-api) - A small Docker container for using R and TensorFlow as an enterprise API
+- [DrWhy](https://github.com/ModelOriented/DrWhy) - DrWhy is the collection of tools for Explainable AI (XAI). It's based on shared principles and simple grammar for exploration, explanation and visualisation of predictive models.
+- [ctv-AnomalyDetection](https://github.com/pridiltal/ctv-AnomalyDetection) - CRAN Task View: Anomaly Detection with R 🛒🛒🛒🛒🛒🛒🛒🛒🛒🛒🛒🛒🛒🛍️🛒🛒
 - [charlatan](https://github.com/ropensci/charlatan) - Create fake data in R
 - [tidygeocoder](https://github.com/jessecambon/tidygeocoder) - A tidyverse-style geocoder interface for R
 - [themis](https://github.com/EmilHvitfeldt/themis) - Extra recipes steps for dealing with unbalanced data
@@ -336,7 +370,7 @@
 - [workflowr](https://github.com/jdblischak/workflowr) - Organize your project into a research website
 - [autokeras](https://github.com/r-tensorflow/autokeras) - Package: R interface to Auto-Keras
 - [rwhatsapp](https://github.com/JBGruber/rwhatsapp) - An R package for working with WhatsApp data 💬
-- [presentes](https://github.com/DiegoKoz/presentes) - 
+- [presentes](https://github.com/DiegoKoz/presentes) - R-package with data from the victims of the state terrorism in Argentina
 - [mixtape-code](https://github.com/philip-khor/mixtape-code) - Fork of johnson-shuffle/mixtape-code using tidy packages
 - [fastplm](https://github.com/xuyiqing/fastplm) - Fast fixed effect algorithm
 - [rscodeio](https://github.com/anthonynorth/rscodeio) - An RStudio theme inspired by Visual Studio Code.
@@ -476,7 +510,7 @@
 - [circlize](https://github.com/jokergoo/circlize) - Circular visualization in R
 - [ggsn](https://github.com/oswaldosantos/ggsn) - R package to add north symbols and scale bars to maps created with ggplot or ggmap
 - [openpolicing](https://github.com/5harad/openpolicing) - The Stanford Open Policing Project - https://openpolicing.stanford.edu
-- [microdatasus](https://github.com/rfsaldanha/microdatasus) - Download de dados do DataSUS e pré-processamento no R
+- [microdatasus](https://github.com/rfsaldanha/microdatasus) - Download de dados do DataSUS e pré-processamento no R.
 - [geofacet](https://github.com/hafen/geofacet) - R package for geographical faceting with ggplot2
 - [bib2df](https://github.com/ropensci/bib2df) - Parse a BibTeX file to a tibble
 - [decryptr](https://github.com/decryptr/decryptr) - An extensible API for breaking captchas
@@ -589,6 +623,10 @@
 - [chromebrew](https://github.com/skycocker/chromebrew) - Package manager for Chrome OS
 - [word-to-markdown](https://github.com/benbalter/word-to-markdown) - A ruby gem to liberate content from Microsoft Word documents
 
+## Rust 
+
+- [LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim) - Language Server Protocol (LSP) support for vim and neovim.
+
 ## Shell 
 
 - [rocker](https://github.com/rocker-org/rocker) - R configurations for Docker
@@ -652,6 +690,19 @@
 
 ## TypeScript 
 
+- [coc-pairs](https://github.com/neoclide/coc-pairs) - Auto pairs extension for coc.nvim
+- [uapca](https://github.com/grtlr/uapca) - Uncertainty-aware principal component analysis.
+- [theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
+- [coc-snippets](https://github.com/neoclide/coc-snippets) - Snippets solution for coc.nvim
+- [coc-yaml](https://github.com/neoclide/coc-yaml) - Yaml language server extension for coc.nvim
+- [coc-r-lsp](https://github.com/neoclide/coc-r-lsp) - R LSP Client for coc.nvim
+- [coc-html](https://github.com/neoclide/coc-html) - Html language server extension for coc.nvim.
+- [coc-markdownlint](https://github.com/fannheyward/coc-markdownlint) - markdownlint extension for coc.nvim
+- [coc-emmet](https://github.com/neoclide/coc-emmet) - Emmet extension for coc.nvim
+- [coc-texlab](https://github.com/fannheyward/coc-texlab) - TexLab extension for coc.nvim
+- [coc-python](https://github.com/neoclide/coc-python) - Python extension for coc.nvim, fork of vscode-python
+- [coc-marketplace](https://github.com/fannheyward/coc-marketplace) - coc.nvim extensions marketplace
+- [terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
 - [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for vim8 & neovim, full language server protocol support as VSCode
 - [jupyterlab-vim](https://github.com/jwkvam/jupyterlab-vim) - :neckbeard: Vim notebook cell bindings for JupyterLab
 - [md2googleslides](https://github.com/gsuitedevs/md2googleslides) - Generate Google Slides from markdown
@@ -661,6 +712,15 @@
 
 ## Vim script 
 
+- [goyo.vim](https://github.com/junegunn/goyo.vim) - :tulip: Distraction-free writing in Vim
+- [vim-surround](https://github.com/tpope/vim-surround) - surround.vim: quoting/parenthesizing made simple
+- [vim-sensible](https://github.com/tpope/vim-sensible) - sensible.vim: Defaults everyone can agree on
+- [vim-fugitive](https://github.com/tpope/vim-fugitive) - fugitive.vim: A Git wrapper so awesome, it should be illegal
+- [vim-gitgutter](https://github.com/airblade/vim-gitgutter) - A Vim plugin which shows a git diff in the gutter (sign column) and stages/undoes hunks and partial hunks.
+- [vim-signify](https://github.com/mhinz/vim-signify) - :heavy_plus_sign: Show a diff using Vim its sign column.
+- [vim-translate-me](https://github.com/voldikss/vim-translate-me) - :closed_book: (Neo)Vim translation plugin
+- [vim-pandoc](https://github.com/vim-pandoc/vim-pandoc) - pandoc integration and utilities for vim
+- [syntastic](https://github.com/vim-syntastic/syntastic) - Syntax checking hacks for vim
 - [vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
 - [neoterm](https://github.com/kassio/neoterm) - Wrapper of some vim/neovim's :terminal functions.
 - [material.vim](https://github.com/kaicataldo/material.vim) - 🎨 A port of the Material color scheme for Vim/Neovim
