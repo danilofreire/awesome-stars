@@ -73,6 +73,8 @@
 
 ## CSS 
 
+- [REIGN.github.io](https://github.com/OEFDataScience/REIGN.github.io) - Repository for REIGN web-interface
+- [xaringanExtra](https://github.com/gadenbuie/xaringanExtra) - 
 - [xaringan-metropolis](https://github.com/danilofreire/xaringan-metropolis) - Metropolis theme of R package xaringan
 - [supervised-ML-case-studies-course](https://github.com/juliasilge/supervised-ML-case-studies-course) - Supervised machine learning case studies in R! 💫 A free interactive course
 - [prettydoc](https://github.com/yixuan/prettydoc) - Creating Pretty HTML From R Markdown
@@ -101,6 +103,7 @@
 
 ## HTML 
 
+- [Doing-Bayesian-Data-Analysis-in-brms-and-the-tidyverse](https://github.com/ASKurz/Doing-Bayesian-Data-Analysis-in-brms-and-the-tidyverse) - The bookdown version lives here: https://bookdown.org/content/3686
 - [awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [recipes](https://github.com/tidymodels/recipes) - A preprocessing engine to generate design matrices
 - [tensorflow-w-r](https://github.com/sol-eng/tensorflow-w-r) - TensorFlow with R
@@ -178,6 +181,7 @@
 
 ## JavaScript 
 
+- [thegreatsuspender](https://github.com/deanoemcke/thegreatsuspender) - A chrome extension for suspending all tabs to free up memory
 - [bracey.vim](https://github.com/turbio/bracey.vim) - vim plugin for live html, css, and javascript editing
 - [bypass-paywalls-chrome-clean](https://github.com/magnolia1234/bypass-paywalls-chrome-clean) - Bypass Paywalls Clean for Chrome (no Google Analytics, lot of updates and bug-fixes)
 - [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
@@ -247,6 +251,7 @@
 
 ## Others 
 
+- [awesome-h2o](https://github.com/h2oai/awesome-h2o) - A curated list of research, applications and projects built using H2O Machine Learning
 - [You-Dont-Need-GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) - Stop relying on GUI; CLI **ROCKS**
 - [gruvbox-material-iterm2](https://github.com/AAlakkad/gruvbox-material-iterm2) - Port of Gruvbox Material dark/soft theme to iTerm2
 - [120-Data-Science-Interview-Questions](https://github.com/kojino/120-Data-Science-Interview-Questions) - Answers to 120 commonly asked data science interview questions.
@@ -298,6 +303,11 @@
 
 ## Python 
 
+- [OpenViEWS](https://github.com/UppsalaConflictDataProgram/OpenViEWS) - This is the public code repository for the ViEWS project.
+- [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
+- [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
+- [NLP-progress](https://github.com/sebastianruder/NLP-progress) - Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.
+- [sight](https://github.com/rish-16/sight) - 👁Sightseer: State-of-the-art Computer Vision and Object Detection for TensorFlow
 - [tpot](https://github.com/EpistasisLab/tpot) - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
 - [causalimpact](https://github.com/dafiti/causalimpact) - Python Causal Impact port of Google's Algorithm.
 - [Auto-PyTorch](https://github.com/automl/Auto-PyTorch) - Automatic architecture search and hyperparameter optimization for PyTorch
@@ -363,6 +373,8 @@
 
 ## R 
 
+- [xaringanthemer](https://github.com/gadenbuie/xaringanthemer) - 😎 Give your xaringan slides some style
+- [feasts](https://github.com/tidyverts/feasts) - Feature Extraction And Statistics for Time Series
 - [mastering-shiny](https://github.com/hadley/mastering-shiny) - Mastering Shiny: a book
 - [breakDown](https://github.com/pbiecek/breakDown) - Model Agnostics breakDown plots
 - [knitcitations](https://github.com/cboettig/knitcitations) - :package: Generate citations for knitr markdown and html files
@@ -395,7 +407,7 @@
 - [r4ds-exercise-solutions](https://github.com/jrnold/r4ds-exercise-solutions) - Exercise solutions to "R for Data Science"
 - [tidymodels](https://github.com/tidymodels/tidymodels) - Easily Install and Load the 'Tidymodels' Packages
 - [workflowr](https://github.com/jdblischak/workflowr) - Organize your project into a research website
-- [autokeras](https://github.com/r-tensorflow/autokeras) - Package: R interface to AutoKeras
+- [autokeras](https://github.com/r-tensorflow/autokeras) - Package: R Interface to AutoKeras
 - [rwhatsapp](https://github.com/JBGruber/rwhatsapp) - An R package for working with WhatsApp data 💬
 - [presentes](https://github.com/DiegoKoz/presentes) - R-package with data from the victims of the state terrorism in Argentina
 - [mixtape-code](https://github.com/philip-khor/mixtape-code) - Fork of johnson-shuffle/mixtape-code using tidy packages
@@ -490,7 +502,7 @@
 - [bartCause](https://github.com/vdorie/bartCause) - Causal Inference using Bayesian Additive Regression Trees
 - [regexplain](https://github.com/gadenbuie/regexplain) - 🔍 An RStudio addin slash regex utility belt
 - [tidybayes](https://github.com/mjskay/tidybayes) - Bayesian analysis + tidy data + geoms (R package)
-- [sensemakr](https://github.com/chadhazlett/sensemakr) - Sensitivity Analysis
+- [sensemakr](https://github.com/carloscinelli/sensemakr) - Suite of sensitivity analysis tools for OLS
 - [list](https://github.com/SensitiveQuestions/list) - R list package for analyzing list experiments, also known as the item count technique
 - [NetLogoR](https://github.com/PredictiveEcology/NetLogoR) - A translation of NetLogo functions, dictionary, and framework for R. Intended to be used with a discrete event simulator, like SpaDES
 - [qualtRics](https://github.com/ropensci/qualtRics) - Download Qualtrics survey data directly into R!
@@ -634,7 +646,7 @@
 - [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - Graph and network visualization using tabular data in R.
 - [Rmonkey](https://github.com/cloudyr/Rmonkey) - A Survey Monkey R Client
 - [mlr](https://github.com/mlr-org/mlr) - Machine Learning in R
-- [Miscellaneous-R-Code](https://github.com/m-clark/Miscellaneous-R-Code) - Code that might be useful to others for learning/demonstration purposes.
+- [Miscellaneous-R-Code](https://github.com/m-clark/Miscellaneous-R-Code) - Code that might be useful to others for learning/demonstration purposes, specifically along the lines of modeling and various algorithms.
 - [AnomalyDetection](https://github.com/twitter/AnomalyDetection) - Anomaly Detection with R
 - [edarf](https://github.com/zmjones/edarf) - exploratory data analysis using random forests
 - [analogsea](https://github.com/sckott/analogsea) - Digital Ocean R client
@@ -653,6 +665,7 @@
 
 ## Rust 
 
+- [starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim) - Language Server Protocol (LSP) support for vim and neovim.
 
 ## Shell 
@@ -679,7 +692,7 @@
 
 ## TeX 
 
-- [rockerverse-paper](https://github.com/nuest/rockerverse-paper) - Draft for an article of everything related to containers and R
+- [rockerverse-paper](https://github.com/nuest/rockerverse-paper) - Scientific paper about everything related to containers and R
 - [rticles](https://github.com/rstudio/rticles) - LaTeX Journal Article Templates for R Markdown
 - [ir18](https://github.com/joanbruna/ir18) - Inference and Representation (DS-GA-1005, CSCI-GA.2569), fall 18
 - [rmd4sci](https://github.com/njtierney/rmd4sci) - Rmarkdown for Scientists
@@ -751,7 +764,7 @@
 - [vimrc](https://github.com/danilofreire/vimrc) - My (neo)vim configuration files
 - [vim-slime](https://github.com/jpalardy/vim-slime) - A vim plugin to give you some slime. (Emacs)
 - [vim](https://github.com/gruvbox-material/vim) - Gruvbox Material for Vim
-- [gist-vim](https://github.com/mattn/gist-vim) - Vim plugin for Gist
+- [vim-gist](https://github.com/mattn/vim-gist) - Vim plugin for Gist
 - [vim-pandoc-syntax](https://github.com/vim-pandoc/vim-pandoc-syntax) - pandoc markdown syntax, to be installed alongside vim-pandoc
 - [goyo.vim](https://github.com/junegunn/goyo.vim) - :tulip: Distraction-free writing in Vim
 - [vim-surround](https://github.com/tpope/vim-surround) - surround.vim: quoting/parenthesizing made simple
