@@ -144,6 +144,7 @@
 - [startbootstrap-clean-blog-jekyll](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll) - A Jekyll version of the Clean Blog theme by Start Bootstrap
 - [tidypvals](https://github.com/jtleek/tidypvals) - An R package with several million published p-values in tidy data sets.
 - [skimr](https://github.com/ropensci/skimr) - A frictionless, pipeable approach to dealing with summary statistics
+- [pdp](https://github.com/bgreenwell/pdp) - A general framework for constructing partial dependence (i.e., marginal effect) plots from various types machine learning models in R.
 - [git-novice](https://github.com/swcarpentry/git-novice) - Software Carpentry introduction to Git for novices.
 - [textworkshop17](https://github.com/ropensci/textworkshop17) - Text Workshop at the London School of Economics, April 2017
 - [MCMCvis](https://github.com/caseyyoungflesh/MCMCvis) - R package to visualize, manipulate, and summarize MCMC output
@@ -177,7 +178,6 @@
 - [ud843-QuakeReport](https://github.com/udacity/ud843-QuakeReport) - Discover earthquake activity around the world.
 - [ud843_DidYouFeelIt](https://github.com/udacity/ud843_DidYouFeelIt) - 
 - [mit-deep-learning-book-pdf](https://github.com/janishar/mit-deep-learning-book-pdf) - MIT Deep Learning Book in PDF format (complete and parts) by Ian Goodfellow, Yoshua Bengio and Aaron Courville
-- [h2o-3](https://github.com/h2oai/h2o-3) - Open Source Fast Scalable Machine Learning Platform For Smarter Applications: Deep Learning, Gradient Boosting & XGBoost, Random Forest, Generalized Linear Modeling (Logistic Regression, Elastic Net), K-Means, PCA, Stacked Ensembles, Automatic Machine Learning (AutoML), etc.
 
 ## JavaScript 
 
@@ -233,6 +233,7 @@
 - [IRkernel](https://github.com/IRkernel/IRkernel) - R kernel for Jupyter
 - [predicting-poverty](https://github.com/nealjean/predicting-poverty) - Combining satellite imagery and machine learning to predict poverty
 - [Data-Analysis-and-Machine-Learning-Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects) - Repository of teaching materials, code, and data for my data analysis and machine learning projects.
+- [h2o-3](https://github.com/h2oai/h2o-3) - Open Source Fast Scalable Machine Learning Platform For Smarter Applications: Deep Learning, Gradient Boosting & XGBoost, Random Forest, Generalized Linear Modeling (Logistic Regression, Elastic Net), K-Means, PCA, Stacked Ensembles, Automatic Machine Learning (AutoML), etc.
 
 ## Makefile 
 
@@ -303,6 +304,7 @@
 
 ## Python 
 
+- [hyperparameter_hunter](https://github.com/HunterMcGushion/hyperparameter_hunter) - Easy hyperparameter optimization and automatic result saving across machine learning algorithms and libraries
 - [OpenViEWS](https://github.com/UppsalaConflictDataProgram/OpenViEWS) - This is the public code repository for the ViEWS project.
 - [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
@@ -555,7 +557,6 @@
 - [bib2df](https://github.com/ropensci/bib2df) - Parse a BibTeX file to a tibble
 - [decryptr](https://github.com/decryptr/decryptr) - An extensible API for breaking captchas
 - [googledrive](https://github.com/tidyverse/googledrive) - Google Drive R API
-- [pdp](https://github.com/bgreenwell/pdp) - A general framework for constructing partial dependence (i.e., marginal effect) plots from various types machine learning models in R.
 - [googleLanguageR](https://github.com/ropensci/googleLanguageR) - R client for the Google Translation API, Google Cloud Natural Language API and Google Cloud Speech API
 - [greta](https://github.com/greta-dev/greta) - simple and scalable statistical modelling in R
 - [perceptions](https://github.com/zonination/perceptions) - Perceptions of Probability and Numbers
@@ -747,7 +748,7 @@
 - [coc-python](https://github.com/neoclide/coc-python) - Python extension for coc.nvim, fork of vscode-python
 - [coc-marketplace](https://github.com/fannheyward/coc-marketplace) - coc.nvim extensions marketplace
 - [terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
-- [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for vim8 & neovim, full language server protocol support as VSCode
+- [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
 - [jupyterlab-vim](https://github.com/jwkvam/jupyterlab-vim) - :neckbeard: Vim notebook cell bindings for JupyterLab
 - [md2googleslides](https://github.com/gsuitedevs/md2googleslides) - Generate Google Slides from markdown
 - [veonim](https://github.com/veonim/veonim) - simple modal IDE built on neovim
@@ -761,6 +762,11 @@
 
 ## Vim script 
 
+- [vim-diminactive](https://github.com/blueyed/vim-diminactive) - Vim plugin to dim inactive windows
+- [lens.vim](https://github.com/camspiers/lens.vim) - A Vim Automatic Window Resizing Plugin
+- [vim-signature](https://github.com/kshenoy/vim-signature) - Plugin to toggle, display and navigate marks
+- [vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors) - True Sublime Text style multiple selections for Vim
+- [vim-table-mode](https://github.com/dhruvasagar/vim-table-mode) - VIM Table Mode for instant table creation.
 - [vimrc](https://github.com/danilofreire/vimrc) - My (neo)vim configuration files
 - [vim-slime](https://github.com/jpalardy/vim-slime) - A vim plugin to give you some slime. (Emacs)
 - [vim](https://github.com/gruvbox-material/vim) - Gruvbox Material for Vim
