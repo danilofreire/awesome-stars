@@ -1121,6 +1121,7 @@
 
 ## others 
 
+- [shafayetShafee/metropolis-beamer](https://github.com/shafayetShafee/metropolis-beamer) - Another Quarto reveal.js template extension inspired by Beamer Metropolis theme
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [carlislerainey/thoughts-on-talks](https://github.com/carlislerainey/thoughts-on-talks) - a short document with my thoughts on giving a good talk
 - [karthik/git_intro](https://github.com/karthik/git_intro) - A quick introduction to git
