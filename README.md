@@ -116,6 +116,7 @@
 
 ## HTML 
 
+- [danilofreire/quarto-presentation](https://github.com/danilofreire/quarto-presentation) - A fork of the beautiful Quarto Clean presentation theme
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [alshedivat/al-folio](https://github.com/alshedivat/al-folio) - A beautiful, simple, clean, and responsive Jekyll theme for academics
 - [danilofreire/rmarkdown-templates](https://github.com/danilofreire/rmarkdown-templates) - A collection of personal templates for RMarkdown
@@ -212,6 +213,7 @@
 
 ## JavaScript 
 
+- [danilofreire/ims](https://github.com/danilofreire/ims) - 📚 Introduction to Modern Statistics - A college-level open-source textbook with a modern approach highlighting multivariable relationships and simulation-based inference. For v1, see https://openintro
 - [Poucous/smartReader](https://github.com/Poucous/smartReader) - Firefox and Chrome Extension for Smart Reading - Bionic Reader
 - [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 - [caesarHQ/textSQL](https://github.com/caesarHQ/textSQL) - 
@@ -556,6 +558,7 @@
 
 ## R 
 
+- [danilofreire/evalsp24.classes.andrewheiss.com](https://github.com/danilofreire/evalsp24.classes.andrewheiss.com) - 📊 🌐 🧑‍🏫 Website for graduate-level course on program evaluation and causal inference using R, built with Quarto
 - [hadley/r4ds](https://github.com/hadley/r4ds) - R for data science: a book
 - [grantmcdermott/tinyplot](https://github.com/grantmcdermott/tinyplot) - Lightweight extension of the base R graphics system
 - [andrewheiss/evalsp24.classes.andrewheiss.com](https://github.com/andrewheiss/evalsp24.classes.andrewheiss.com) - 📊 🌐 🧑‍🏫 Website for graduate-level course on program evaluation and causal inference using R, built with Quarto
@@ -880,6 +883,7 @@
 
 ## SCSS 
 
+- [danilofreire/metropolis-beamer](https://github.com/danilofreire/metropolis-beamer) - Another Quarto reveal.js template extension inspired by Beamer Metropolis theme
 - [shafayetShafee/metropolis-beamer](https://github.com/shafayetShafee/metropolis-beamer) - Another Quarto reveal.js template extension inspired by Beamer Metropolis theme
 - [grantmcdermott/quarto-revealjs-clean](https://github.com/grantmcdermott/quarto-revealjs-clean) - A minimalist and elegant presentation theme for Quarto Reveal.js
 - [yixuan/prettydoc](https://github.com/yixuan/prettydoc) - Creating Pretty HTML From R Markdown
@@ -928,6 +932,7 @@
 
 ## TeX 
 
+- [danilofreire/quarto-templates](https://github.com/danilofreire/quarto-templates) - A collection of personal templates for Quarto
 - [fcampelo/Design-and-Analysis-of-Experiments](https://github.com/fcampelo/Design-and-Analysis-of-Experiments) - Lecture Notes on Design & Analysis of Experiments
 - [r-causal/causal-inference-in-R](https://github.com/r-causal/causal-inference-in-R) - Causal Inference in R: A book!
 - [OpenIntroStat/openintro-statistics-slides](https://github.com/OpenIntroStat/openintro-statistics-slides) - 👩🏻‍🏫 Slides for OpenIntro Statistics
@@ -1008,8 +1013,8 @@
 
 ## Vim Script 
 
-- [jessfraz/openai.vim](https://github.com/jessfraz/openai.vim) - OpenAI GPT-3 plugin for vim.
 - [danilofreire/dotfiles](https://github.com/danilofreire/dotfiles) - My configuration files
+- [jessfraz/openai.vim](https://github.com/jessfraz/openai.vim) - OpenAI GPT-3 plugin for vim.
 - [github/copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
 - [tpope/vim-dadbod](https://github.com/tpope/vim-dadbod) - dadbod.vim: Modern database interface for Vim
 - [sheerun/vim-polyglot](https://github.com/sheerun/vim-polyglot) - A solid language pack for Vim.
