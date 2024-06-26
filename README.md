@@ -418,6 +418,7 @@
 
 ## Python 
 
+- [Doriandarko/maestro](https://github.com/Doriandarko/maestro) - A framework for Claude Opus to intelligently orchestrate subagents.
 - [onuratakan/gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) - gpt-4o for windows, macos and linux
 - [havakv/pycox](https://github.com/havakv/pycox) - Survival analysis with PyTorch
 - [lllyasviel/Omost](https://github.com/lllyasviel/Omost) - Your image is almost there!
