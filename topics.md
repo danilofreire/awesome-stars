@@ -1122,6 +1122,7 @@
 
 ## others 
 
+- [Doriandarko/maestro](https://github.com/Doriandarko/maestro) - A framework for Claude Opus to intelligently orchestrate subagents.
 - [danilofreire/evalsp24.classes.andrewheiss.com](https://github.com/danilofreire/evalsp24.classes.andrewheiss.com) - 📊 🌐 🧑‍🏫 Website for graduate-level course on program evaluation and causal inference using R, built with Quarto
 - [danilofreire/ims](https://github.com/danilofreire/ims) - 📚 Introduction to Modern Statistics - A college-level open-source textbook with a modern approach highlighting multivariable relationships and simulation-based inference. For v1, see https://openintro
 - [danilofreire/quarto-presentation](https://github.com/danilofreire/quarto-presentation) - A fork of the beautiful Quarto Clean presentation theme
