@@ -125,7 +125,6 @@
 - [esoclabprinceton/ESOC-Predoc-Training](https://github.com/esoclabprinceton/ESOC-Predoc-Training) - This 10-week training program is designed to prepare incoming pre-doctoral research fellows at the Princeton Empirical Studies of Conflict (ESOC) lab with the skills needed to support faculty research
 - [danieldanielecki/IT-ARMY-of-Ukraine-Resources-in-English](https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Resources-in-English) - 
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
-- [egap/learningdays-resources](https://github.com/egap/learningdays-resources) - A repository for slides and other resources (like images and other documents).
 - [egap/methods-guides](https://github.com/egap/methods-guides) - EGAP methods guides
 - [dirkschumacher/encryptedRmd](https://github.com/dirkschumacher/encryptedRmd) - 🔑 Password protected markdown html reports in R using libsodium
 - [facebookresearch/fastText](https://github.com/facebookresearch/fastText) - Library for fast text representation and classification.
@@ -223,6 +222,7 @@
 - [cesarhuret/docGPT](https://github.com/cesarhuret/docGPT) - ChatGPT directly within Google Docs as an Editor Add-on 📑
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [roperzh/tachyons-cheatsheet](https://github.com/roperzh/tachyons-cheatsheet) - Interactive cheat sheet for Tachyons :memo:
+- [egap/learningdays-resources](https://github.com/egap/learningdays-resources) - A repository for slides and other resources (like images and other documents).
 - [OpenIntroStat/ims](https://github.com/OpenIntroStat/ims) - 📚 Introduction to Modern Statistics - A college-level open-source textbook with a modern approach highlighting multivariable relationships and simulation-based inference. For v1, see https://openintro
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [iterative/cml](https://github.com/iterative/cml) - ♾️ CML - Continuous Machine Learning | CI/CD for ML
