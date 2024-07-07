@@ -988,6 +988,7 @@
 
 ## TypeScript 
 
+- [posit-dev/positron](https://github.com/posit-dev/positron) - Positron, a next-generation data science IDE
 - [astral-sh/ruff-vscode](https://github.com/astral-sh/ruff-vscode) - A Visual Studio Code extension with support for the Ruff linter.
 - [Kanaries/Rath](https://github.com/Kanaries/Rath) - Next generation of automated data exploratory analysis and visualization platform.
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
