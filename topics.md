@@ -1123,6 +1123,7 @@
 
 ## others 
 
+- [posit-dev/positron](https://github.com/posit-dev/positron) - Positron, a next-generation data science IDE
 - [alejandrosanchezbecerra/qtm151spring2024](https://github.com/alejandrosanchezbecerra/qtm151spring2024) - 
 - [umbertomig/qtm151](https://github.com/umbertomig/qtm151) - 
 - [Doriandarko/maestro](https://github.com/Doriandarko/maestro) - A framework for Claude Opus to intelligently orchestrate subagents.
