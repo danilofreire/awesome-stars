@@ -179,6 +179,7 @@
 
 ## android 
 
+- [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - ✅  Curated list of resources for college students
 
 ## angular 
@@ -1123,6 +1124,7 @@
 
 ## others 
 
+- [krassowski/jupyterlab-citation-manager](https://github.com/krassowski/jupyterlab-citation-manager) - Citation Manager for JupyterLab using Zotero Web API
 - [posit-dev/positron](https://github.com/posit-dev/positron) - Positron, a next-generation data science IDE
 - [alejandrosanchezbecerra/qtm151spring2024](https://github.com/alejandrosanchezbecerra/qtm151spring2024) - 
 - [umbertomig/qtm151](https://github.com/umbertomig/qtm151) - 
