@@ -1121,6 +1121,7 @@
 
 ## others 
 
+- [bpc-clone/bypass-paywalls-firefox-clean](https://github.com/bpc-clone/bypass-paywalls-firefox-clean) - 
 - [bpc-clone/bypass-paywalls-chrome-clean](https://github.com/bpc-clone/bypass-paywalls-chrome-clean) - 
 - [krassowski/jupyterlab-citation-manager](https://github.com/krassowski/jupyterlab-citation-manager) - Citation Manager for JupyterLab using Zotero Web API
 - [posit-dev/positron](https://github.com/posit-dev/positron) - Positron, a next-generation data science IDE
