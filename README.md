@@ -144,6 +144,7 @@
 - [dlab-berkeley/MachineLearningWG](https://github.com/dlab-berkeley/MachineLearningWG) - D-Lab's Machine Learning Working Group at UC Berkeley, with supervised & unsupervised learning tutorials in R and Python
 - [jonocarroll/ggeasy](https://github.com/jonocarroll/ggeasy) - ggplot2 shortcuts (transformations made easy)
 - [alexeygrigorev/data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews) - Data science interview questions and answers
+- [vincentarelbundock/modelsummary](https://github.com/vincentarelbundock/modelsummary) - Beautiful and customizable model summaries in R.
 - [chrisconlon/applied_metrics](https://github.com/chrisconlon/applied_metrics) - A PhD course in Applied Econometrics and Panel Data
 - [OEFDataScience/REIGN.github.io](https://github.com/OEFDataScience/REIGN.github.io) - Repository for REIGN web-interface
 - [ASKurz/Doing-Bayesian-Data-Analysis-in-brms-and-the-tidyverse](https://github.com/ASKurz/Doing-Bayesian-Data-Analysis-in-brms-and-the-tidyverse) - The bookdown version lives here: https://bookdown.org/content/3686
@@ -607,7 +608,6 @@
 - [paws-r/paws](https://github.com/paws-r/paws) - Paws, a package for Amazon Web Services in R
 - [dlab-berkeley/Unsupervised-Learning-in-R](https://github.com/dlab-berkeley/Unsupervised-Learning-in-R) - Workshop (6 hours): Clustering (Hdbscan, LCA, Hopach), dimension reduction (UMAP, GLRM), and anomaly detection (isolation forests).
 - [dlab-berkeley/R-Fundamentals-Legacy](https://github.com/dlab-berkeley/R-Fundamentals-Legacy) - D-Lab's 12 hour introduction to R Fundamentals. Learn how to create variables and functions, manipulate data frames, make visualizations, use control flow structures, and more, using R in RStudio.
-- [vincentarelbundock/modelsummary](https://github.com/vincentarelbundock/modelsummary) - Beautiful and customizable model summaries in R.
 - [gergness/srvyr](https://github.com/gergness/srvyr) - R package to add 'dplyr'-like Syntax for Summary Statistics of Survey Data
 - [choonghyunryu/dlookr](https://github.com/choonghyunryu/dlookr) - Tools for Data Diagnosis, Exploration, Transformation
 - [yanlinlin82/ggvenn](https://github.com/yanlinlin82/ggvenn) - Venn Diagram by ggplot2, with really easy-to-use API.
