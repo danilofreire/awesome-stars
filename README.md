@@ -191,7 +191,7 @@
 - [ajmcoqui/webAPIsR](https://github.com/ajmcoqui/webAPIsR) - Example scripts for "Using web APIs in R" presentation, rstudio::conf 2017
 - [geanders/RProgrammingForResearch](https://github.com/geanders/RProgrammingForResearch) - 
 - [dbroockman/repeated-online-panel-experiments](https://github.com/dbroockman/repeated-online-panel-experiments) - Repository of detailed instructions for running online panel field experiments.
-- [sergiokopplin/indigo](https://github.com/sergiokopplin/indigo) - :ramen: Minimalist Jekyll Template, dark and light themes
+- [sergiokopplin/indigo](https://github.com/sergiokopplin/indigo) - Minimalist Jekyll Template, dark and light themes
 - [simonmunzert/rscraping-jsm-2016](https://github.com/simonmunzert/rscraping-jsm-2016) - Repository for one-day course "A Primer to Web Scraping with R"
 - [svmiller/svm-r-markdown-templates](https://github.com/svmiller/svm-r-markdown-templates) - This is my (deprecated) suite of R Markdown templates for academic manuscripts, beamer presentations, and syllabi. DOWNLOAD {stevetemplates} INSTEAD.
 - [klarsen1/MarketMatching](https://github.com/klarsen1/MarketMatching) - 
@@ -691,7 +691,7 @@
 - [gadenbuie/tidyexplain](https://github.com/gadenbuie/tidyexplain) - 🤹‍♀ Animations of tidyverse verbs using R, the tidyverse, and gganimate
 - [lepennec/ggwordcloud](https://github.com/lepennec/ggwordcloud) - A word cloud geom for ggplot2
 - [jantonelli111/DoublyRobustHD](https://github.com/jantonelli111/DoublyRobustHD) - R package for doubly robust estimates of causal effects in high-dimensions using flexible Bayesian methods
-- [mayer79/missRanger](https://github.com/mayer79/missRanger) - R package "missRanger" for fast imputation of missing values by random forests.
+- [mayer79/missRanger](https://github.com/mayer79/missRanger) - Fast multivariate imputation by random forests.
 - [ropensci/drake](https://github.com/ropensci/drake) - An R-focused pipeline toolkit for reproducibility and high-performance computing
 - [jrnold/mlspearer](https://github.com/jrnold/mlspearer) - Infrastructure for resampling, permuation, and cross-validation in R
 - [leeper/cregg](https://github.com/leeper/cregg) - Simple Conjoint Analyses, Tidying, and Visualization
