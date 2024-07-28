@@ -759,7 +759,7 @@
 ## jekyll 
 
 - [alshedivat/al-folio](https://github.com/alshedivat/al-folio) - A beautiful, simple, clean, and responsive Jekyll theme for academics
-- [sergiokopplin/indigo](https://github.com/sergiokopplin/indigo) - :ramen: Minimalist Jekyll Template, dark and light themes
+- [sergiokopplin/indigo](https://github.com/sergiokopplin/indigo) - Minimalist Jekyll Template, dark and light themes
 
 ## jekyll-theme 
 
@@ -935,7 +935,7 @@
 - [daviddalpiaz/r4sl](https://github.com/daviddalpiaz/r4sl) - :chart_with_upwards_trend: Machine Learning from the perspective of a Statistician using R
 - [catboost/catboost](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computa
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
-- [mayer79/missRanger](https://github.com/mayer79/missRanger) - R package "missRanger" for fast imputation of missing values by random forests.
+- [mayer79/missRanger](https://github.com/mayer79/missRanger) - Fast multivariate imputation by random forests.
 - [business-science/timetk](https://github.com/business-science/timetk) - Time series analysis in the `tidyverse`
 - [py-why/dowhy](https://github.com/py-why/dowhy) - DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical 
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
@@ -1821,7 +1821,7 @@
 - [catboost/catboost](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computa
 - [yihui/xaringan](https://github.com/yihui/xaringan) - Presentation Ninja 幻灯忍者 · 写轮眼
 - [eddelbuettel/binb](https://github.com/eddelbuettel/binb) - Binb is not Beamer
-- [mayer79/missRanger](https://github.com/mayer79/missRanger) - R package "missRanger" for fast imputation of missing values by random forests.
+- [mayer79/missRanger](https://github.com/mayer79/missRanger) - Fast multivariate imputation by random forests.
 - [ropensci/drake](https://github.com/ropensci/drake) - An R-focused pipeline toolkit for reproducibility and high-performance computing
 - [leeper/cregg](https://github.com/leeper/cregg) - Simple Conjoint Analyses, Tidying, and Visualization
 - [masspastore/overlapping](https://github.com/masspastore/overlapping) - Estimation of Overlapping in Empirical Distributions.
