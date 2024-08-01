@@ -175,7 +175,6 @@
 - [stoltzmaniac/ML-Image-Processing-R](https://github.com/stoltzmaniac/ML-Image-Processing-R) - Facial Recognition in R
 - [carlislerainey/methods](https://github.com/carlislerainey/methods) - notes, exercises, and data for undergraduate political science research methods
 - [leeper/conjoint-example](https://github.com/leeper/conjoint-example) - An Example Conjoint Experimental Design in Qualtrics
-- [zachmayer/caretEnsemble](https://github.com/zachmayer/caretEnsemble) - caret models all the way down :turtle:
 - [WinVector/vtreat](https://github.com/WinVector/vtreat) - vtreat is a data frame processor/conditioner that prepares real-world data for predictive modeling in a statistically sound manner. Distributed under choice of GPL-2 or GPL-3 license.
 - [wesslen/NCStateSenateFacebook](https://github.com/wesslen/NCStateSenateFacebook) - Structural Topic Modeling of the Facebook posts of NC State Senators
 - [StartBootstrap/startbootstrap-clean-blog-jekyll](https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll) - A Jekyll version of the Clean Blog theme by Start Bootstrap
@@ -746,6 +745,7 @@
 - [leeper/sparktex](https://github.com/leeper/sparktex) - Generate LaTeX sparklines in R
 - [ccgilroy/r-estimates-fb-ads](https://github.com/ccgilroy/r-estimates-fb-ads) - Accessing the Facebook Marketing API using httr in R, for demographic researchers
 - [daniel1noble/metaDigitise](https://github.com/daniel1noble/metaDigitise) - Digitising functions in R for extracting data and summary statistics from figures in primary research papers
+- [zachmayer/caretEnsemble](https://github.com/zachmayer/caretEnsemble) - caret models all the way down :turtle:
 - [erikgahner/PolData](https://github.com/erikgahner/PolData) - A dataset with political datasets
 - [tylermorganwall/skpr](https://github.com/tylermorganwall/skpr) - Generates and evaluates D, I, A, Alias, E, T, G, and custom optimal designs. Supports generation and evaluation of mixture and split/split-split/N-split plot designs. Includes parametric and Monte Car
 - [xuyiqing/gsynth](https://github.com/xuyiqing/gsynth) - Generalized Synthetic Control Method
