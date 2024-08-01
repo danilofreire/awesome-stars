@@ -1248,7 +1248,6 @@
 - [tylermorganwall/rayshader](https://github.com/tylermorganwall/rayshader) - R Package for 2D and 3D mapping and data visualization
 - [Nexo-Dados/PoliticasPublicas](https://github.com/Nexo-Dados/PoliticasPublicas) - Repositório público com os dados e gráficos dos materiais publicados pelo Nexo Políticas Públicas.
 - [avehtari/ROS-Examples](https://github.com/avehtari/ROS-Examples) - Regression and other stories R examples
-- [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming (course by @dabeaz)
 - [dlab-berkeley/Unsupervised-Learning-in-R](https://github.com/dlab-berkeley/Unsupervised-Learning-in-R) - Workshop (6 hours): Clustering (Hdbscan, LCA, Hopach), dimension reduction (UMAP, GLRM), and anomaly detection (isolation forests).
 - [laher/fuzzymenu.vim](https://github.com/laher/fuzzymenu.vim) - menu system for vim/neovim, using fzf for fuzzy selection
 - [ricklamers/gridstudio](https://github.com/ricklamers/gridstudio) - Grid studio is a web-based application for data science with full integration of open source data science frameworks and languages.
@@ -1680,6 +1679,7 @@
 - [trekhleb/learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
 - [aws-samples/aws-machine-learning-university-accelerated-tab](https://github.com/aws-samples/aws-machine-learning-university-accelerated-tab) - Machine Learning University: Accelerated Tabular Data Class
 - [ipython/ipyparallel](https://github.com/ipython/ipyparallel) - IPython Parallel: Interactive Parallel Computing in Python
+- [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming (course by @dabeaz)
 - [dlab-berkeley/Python-Data-Wrangling-Legacy](https://github.com/dlab-berkeley/Python-Data-Wrangling-Legacy) - D-Lab's 3 hour introduction to data wrangling in Python. Learn how to import and manipulate dataframes using pandas in Python.
 - [dlab-berkeley/Python-Fundamentals-Legacy](https://github.com/dlab-berkeley/Python-Fundamentals-Legacy) - D-Lab's 12 hour introduction to Python. Learn how to create variables and functions, use control flow structures, use libraries, import data, and more, using Python and Jupyter Notebooks.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
