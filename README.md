@@ -260,6 +260,8 @@
 
 ## Jupyter Notebook 
 
+- [TomasBeuzen/python-programming-for-data-science](https://github.com/TomasBeuzen/python-programming-for-data-science) - Content from the University of British Columbia's Master of Data Science course DSCI 511.
+- [UBC-MDS/DSCI_512_alg-data-struct](https://github.com/UBC-MDS/DSCI_512_alg-data-struct) - 
 - [alejandrosanchezbecerra/qtm151spring2024](https://github.com/alejandrosanchezbecerra/qtm151spring2024) - 
 - [AutoViML/Auto_TS](https://github.com/AutoViML/Auto_TS) - Automatically build ARIMA, SARIMAX, VAR, FB Prophet and XGBoost Models on Time Series data sets with a Single Line of Code. Created by Ram Seshadri. Collaborators welcome.
 - [xuyiqing/fect_python](https://github.com/xuyiqing/fect_python) - Python version of fixed effects counterfactual estimators
@@ -337,6 +339,7 @@
 
 ## Others 
 
+- [UBC-MDS/public](https://github.com/UBC-MDS/public) - Public documents for the Master of Data Science program at the University of British Columbia
 - [bpc-clone/bypass-paywalls-firefox-clean](https://github.com/bpc-clone/bypass-paywalls-firefox-clean) - 
 - [bpc-clone/bypass-paywalls-chrome-clean](https://github.com/bpc-clone/bypass-paywalls-chrome-clean) - 
 - [MaxBenChrist/awesome_time_series_in_python](https://github.com/MaxBenChrist/awesome_time_series_in_python) - This curated list contains  python packages for time series analysis
