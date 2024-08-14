@@ -431,7 +431,7 @@
 
 - [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 - [dask/dask](https://github.com/dask/dask) - Parallel computing with task scheduling
-- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image (uncensored)
+- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [winedarksea/AutoTS](https://github.com/winedarksea/AutoTS) - Automated Time Series Forecasting
 - [WillianFuks/tfcausalimpact](https://github.com/WillianFuks/tfcausalimpact) - Python Causal Impact Implementation Based on Google's R Package. Built using TensorFlow Probability.
 - [jupyter/nbviewer](https://github.com/jupyter/nbviewer) - nbconvert as a web service: Render Jupyter Notebooks as static web pages
@@ -595,6 +595,7 @@
 - [elliottmorris/politicaldata](https://github.com/elliottmorris/politicaldata) - 🗳📊An R package for acquiring and analyzing political data — including polls, election results, legislator information, and demographic data.
 - [BlasBenito/spatialRF](https://github.com/BlasBenito/spatialRF) - R package to fit spatial models with Random Forest
 - [rstudio/thematic](https://github.com/rstudio/thematic) - Theme ggplot2, lattice, and base graphics based on a few simple settings.
+- [egap/theory_and_practice_of_field_experiments](https://github.com/egap/theory_and_practice_of_field_experiments) - 'Caramba y zamba la cosa, que vivan los experimentos!' -from 'Me Gustan Los Estudiantes' by Violeta Parra
 - [keyATM/keyATM](https://github.com/keyATM/keyATM) - An R package for Keyword Assisted Topic Models
 - [t-davidson/computational-sociology](https://github.com/t-davidson/computational-sociology) - SOC577 Computational Sociology, Rutgers University
 - [naoki-egami/DIDdesign](https://github.com/naoki-egami/DIDdesign) - R package DIDdesign: Analyzing Difference-in-Differences Design
@@ -957,7 +958,6 @@
 - [umbertomig/legislature-size-welfare](https://github.com/umbertomig/legislature-size-welfare) - Replication materials for "Legislature Size and Welfare: Evidence from Brazil."
 - [peterdalle/how-scientists-lie](https://github.com/peterdalle/how-scientists-lie) - How Scientists Lie – a book about questionable research practices (QRPs) and how to prevent them
 - [paulcbauer/apis_for_social_scientists_a_review](https://github.com/paulcbauer/apis_for_social_scientists_a_review) - A review of APIs.
-- [egap/theory_and_practice_of_field_experiments](https://github.com/egap/theory_and_practice_of_field_experiments) - 'Caramba y zamba la cosa, que vivan los experimentos!' -from 'Me Gustan Los Estudiantes' by Violeta Parra
 - [scunning1975/mixtape](https://github.com/scunning1975/mixtape) - Data and Program files for Causal Inference: The Mixtape
 - [woerman/ResEcon703](https://github.com/woerman/ResEcon703) - Topics in Advanced Econometrics (ResEcon 703). University of Massachusetts Amherst. Taught by Matt Woerman
 - [Wandmalfarbe/pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template) - A pandoc LaTeX template to convert markdown files to PDF or LaTeX.
