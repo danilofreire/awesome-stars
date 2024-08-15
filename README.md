@@ -216,6 +216,7 @@
 
 ## JavaScript 
 
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [astefanutti/decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations
 - [danilofreire/ims](https://github.com/danilofreire/ims) - 📚 Introduction to Modern Statistics - A college-level open-source textbook with a modern approach highlighting multivariable relationships and simulation-based inference. For v1, see https://openintro
 - [Poucous/smartReader](https://github.com/Poucous/smartReader) - Firefox and Chrome Extension for Smart Reading - Bionic Reader
