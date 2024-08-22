@@ -24,6 +24,7 @@
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PLpgSQL](#plpgsql)
+- [PowerShell](#powershell)
 - [Pug](#pug)
 - [Python](#python)
 - [R](#r)
@@ -48,6 +49,7 @@
 
 ## C 
 
+- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt
 - [SebKrantz/collapse](https://github.com/SebKrantz/collapse) - Advanced and Fast Data Transformation in R
 - [dsquintana/corr_meta](https://github.com/dsquintana/corr_meta) - Supplementary script for meta-analysis primer
@@ -62,7 +64,6 @@
 ## C++ 
 
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Chat with Local LLMs on Any Device
-- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [aschinchon/abstractions](https://github.com/aschinchon/abstractions) - An experiment to build abstract drawings with #Rstats and physarum model
 - [tidyverse/vroom](https://github.com/tidyverse/vroom) - Fast reading of delimited files
 - [bnosac/image](https://github.com/bnosac/image) - Computer Vision and Image Recognition algorithms for R users
@@ -424,6 +425,10 @@
 ## PLpgSQL 
 
 - [anthonydb/practical-sql-2](https://github.com/anthonydb/practical-sql-2) - Code and Data for the Second Edition of "Practical SQL" by Anthony DeBarros, published by No Starch Press (2022).
+
+## PowerShell 
+
+- [quarto-dev/quarto-actions](https://github.com/quarto-dev/quarto-actions) - 
 
 ## Pug 
 
