@@ -126,6 +126,7 @@
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
 - [reactjs](#reactjs)
+- [reinforcement-learning](#reinforcement-learning)
 - [ruby](#ruby)
 - [rust](#rust)
 - [sass](#sass)
@@ -1156,6 +1157,7 @@
 
 ## others 
 
+- [quarto-dev/quarto-actions](https://github.com/quarto-dev/quarto-actions) - 
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [r-wasm/quarto-drop](https://github.com/r-wasm/quarto-drop) - Drop down an interactive R or Python console, code editor, and plotting window from the top of your Quarto slides.
 - [UBC-MDS/DSCI_512_alg-data-struct](https://github.com/UBC-MDS/DSCI_512_alg-data-struct) - 
@@ -1217,7 +1219,6 @@
 - [peterdalle/how-scientists-lie](https://github.com/peterdalle/how-scientists-lie) - How Scientists Lie – a book about questionable research practices (QRPs) and how to prevent them
 - [wxyinucas/Time-Dependent-Causal-Effects-Evaluation-in-A-B-Testing-with-a-Reinforcement-Learning-Framework](https://github.com/wxyinucas/Time-Dependent-Causal-Effects-Evaluation-in-A-B-Testing-with-a-Reinforcement-Learning-Framework) - The code of Numerical Experiment
 - [BenWiseman/sentiment.ai](https://github.com/BenWiseman/sentiment.ai) - Package for using deep learning models (from tf hub) for easy sentiment analysis
-- [callmespring/CausalRL](https://github.com/callmespring/CausalRL) - Implementation of "Dynamic Causal Effects Evaluation in A/B Testing with a Reinforcement Learning Framework" (JASA 2023)
 - [fdhidalgo/geocode_br_polling_stations](https://github.com/fdhidalgo/geocode_br_polling_stations) - Geocoding Brazilian Polling Stations with Administrative Data Sets
 - [zhukovyuri/VIINA](https://github.com/zhukovyuri/VIINA) - VIINA: Violent Incident Information from News Articles on the 2022 Russian Invasion of Ukraine
 - [esoclabprinceton/ESOC-Predoc-Training](https://github.com/esoclabprinceton/ESOC-Predoc-Training) - This 10-week training program is designed to prepare incoming pre-doctoral research fellows at the Princeton Empirical Studies of Conflict (ESOC) lab with the skills needed to support faculty research
@@ -1966,6 +1967,15 @@
 ## reactjs 
 
 - [surveyjs/survey-library](https://github.com/surveyjs/survey-library) - Free JavaScript form builder library with integration for React, Angular, Vue, jQuery, and Knockout.
+
+## reinforcement-learning 
+
+- [callmespring/CausalRL](https://github.com/callmespring/CausalRL) - Implementation of "Dynamic Causal Effects Evaluation in A/B Testing with a Reinforcement Learning Framework" (JASA 2023)
+- [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
+- [google/trax](https://github.com/google/trax) - Trax — Deep Learning with Clear Code and Speed
+- [aws/amazon-sagemaker-examples](https://github.com/aws/amazon-sagemaker-examples) - Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker.
+- [markusdumke/reinforcelearn](https://github.com/markusdumke/reinforcelearn) - R Package for Reinforcement Learning
+- [keras-rl/keras-rl](https://github.com/keras-rl/keras-rl) - Deep Reinforcement Learning for Keras.
 
 ## ruby 
 
