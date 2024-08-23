@@ -342,6 +342,7 @@
 
 ## Others 
 
+- [github/gh-copilot](https://github.com/github/gh-copilot) - Ask for assistance right in your terminal.
 - [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps
 - [UBC-MDS/public](https://github.com/UBC-MDS/public) - Public documents for the Master of Data Science program at the University of British Columbia
 - [bpc-clone/bypass-paywalls-firefox-clean](https://github.com/bpc-clone/bypass-paywalls-firefox-clean) - 
@@ -472,7 +473,6 @@
 - [tom-doerr/vim_codex](https://github.com/tom-doerr/vim_codex) - Supercharge your Vim editor with AI-powered code completion using OpenAI Codex. Boost productivity and save time with intelligent suggestions.
 - [AutoViML/Auto_ViML](https://github.com/AutoViML/Auto_ViML) - Automatically Build Multiple ML Models with a Single Line of Code. Created by Ram Seshadri. Collaborators Welcome. Permission Granted upon Request.
 - [mosaicml/composer](https://github.com/mosaicml/composer) - Supercharge Your Model Training
-- [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [wxyinucas/Time-Dependent-Causal-Effects-Evaluation-in-A-B-Testing-with-a-Reinforcement-Learning-Framework](https://github.com/wxyinucas/Time-Dependent-Causal-Effects-Evaluation-in-A-B-Testing-with-a-Reinforcement-Learning-Framework) - The code of Numerical Experiment
 - [mckinsey/causalnex](https://github.com/mckinsey/causalnex) - A Python library that helps data scientists to infer causation rather than observing correlation.
