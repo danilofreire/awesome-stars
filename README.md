@@ -63,7 +63,7 @@
 
 ## C++ 
 
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Chat with Local LLMs on Any Device
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [aschinchon/abstractions](https://github.com/aschinchon/abstractions) - An experiment to build abstract drawings with #Rstats and physarum model
 - [tidyverse/vroom](https://github.com/tidyverse/vroom) - Fast reading of delimited files
 - [bnosac/image](https://github.com/bnosac/image) - Computer Vision and Image Recognition algorithms for R users
