@@ -361,7 +361,7 @@
 - [ArthurSpirling/text-as-data-class-spring2021](https://github.com/ArthurSpirling/text-as-data-class-spring2021) - Lectures and "flipped session" materials from my NYU DS "Text as Data" course, spring 2021
 - [rebecca-vickery/data-science-learning-resources](https://github.com/rebecca-vickery/data-science-learning-resources) - A comprehensive list of free resources for learning data science
 - [causaltext/causal-text-papers](https://github.com/causaltext/causal-text-papers) - Curated research at the intersection of causal inference and natural language processing.
-- [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
+- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [rstudio-education/r4ds-instructors](https://github.com/rstudio-education/r4ds-instructors) - Instructors' Guide to accompany "R for Data Science"
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
