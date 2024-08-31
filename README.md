@@ -586,6 +586,7 @@
 
 ## R 
 
+- [verenakunz/Causal-Inference-for-Beginning-Undergraduates](https://github.com/verenakunz/Causal-Inference-for-Beginning-Undergraduates) - An introductory course on causal inference. Designed for undergraduate students with only a working knowledge of R and multiple regression. Light on maths, heavy on intuition and practical examples.
 - [danilofreire/evalsp24.classes.andrewheiss.com](https://github.com/danilofreire/evalsp24.classes.andrewheiss.com) - 📊 🌐 🧑‍🏫 Website for graduate-level course on program evaluation and causal inference using R, built with Quarto
 - [hadley/r4ds](https://github.com/hadley/r4ds) - R for data science: a book
 - [grantmcdermott/tinyplot](https://github.com/grantmcdermott/tinyplot) - Lightweight extension of the base R graphics system
