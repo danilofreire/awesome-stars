@@ -1011,6 +1011,7 @@
 
 ## TypeScript 
 
+- [pnd280/complexity](https://github.com/pnd280/complexity) - ⚡  Supercharge your Perplexity.ai
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [r-wasm/quarto-drop](https://github.com/r-wasm/quarto-drop) - Drop down an interactive R or Python console, code editor, and plotting window from the top of your Quarto slides.
 - [krassowski/jupyterlab-citation-manager](https://github.com/krassowski/jupyterlab-citation-manager) - Citation Manager for JupyterLab using Zotero Web API
