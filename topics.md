@@ -99,6 +99,7 @@
 - [mobile](#mobile)
 - [mongodb](#mongodb)
 - [music](#music)
+- [mysql](#mysql)
 - [natural-language-processing](#natural-language-processing)
 - [neovim](#neovim)
 - [neural-network](#neural-network)
@@ -129,6 +130,7 @@
 - [react](#react)
 - [reactjs](#reactjs)
 - [reinforcement-learning](#reinforcement-learning)
+- [rest-api](#rest-api)
 - [ruby](#ruby)
 - [rust](#rust)
 - [sass](#sass)
@@ -308,6 +310,7 @@
 
 ## chatbot 
 
+- [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 - [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 
@@ -706,6 +709,7 @@
 
 ## hacktoberfest 
 
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [ydataai/ydata-profiling](https://github.com/ydataai/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [manujosephv/pytorch_tabular](https://github.com/manujosephv/pytorch_tabular) - A standard framework for modelling Deep Learning Models for tabular data
@@ -875,6 +879,7 @@
 
 ## low-code 
 
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 
 ## lua 
@@ -1061,6 +1066,10 @@
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [ybayle/awesome-deep-learning-music](https://github.com/ybayle/awesome-deep-learning-music) - List of articles related to deep learning applied to music
 
+## mysql 
+
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+
 ## natural-language-processing 
 
 - [AmoDinho/datacamp-python-data-science-track](https://github.com/AmoDinho/datacamp-python-data-science-track) - All the slides, accompanying code and exercises all stored in this repo. 🎈
@@ -1155,6 +1164,7 @@
 
 ## open-source 
 
+- [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [StartBootstrap/startbootstrap-resume](https://github.com/StartBootstrap/startbootstrap-resume) - A Bootstrap 4 resume/CV theme created by Start Bootstrap
@@ -1671,6 +1681,7 @@
 
 ## postgresql 
 
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [anthonydb/practical-sql-2](https://github.com/anthonydb/practical-sql-2) - Code and Data for the Second Edition of "Practical SQL" by Anthony DeBarros, published by No Starch Press (2022).
 
@@ -1995,6 +2006,10 @@
 - [markusdumke/reinforcelearn](https://github.com/markusdumke/reinforcelearn) - R Package for Reinforcement Learning
 - [keras-rl/keras-rl](https://github.com/keras-rl/keras-rl) - Deep Reinforcement Learning for Keras.
 
+## rest-api 
+
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+
 ## ruby 
 
 - [BayesWitnesses/m2cgen](https://github.com/BayesWitnesses/m2cgen) - Transform ML models into a native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart, Haskell, Ruby, F#, Rust) with zero dependencies
@@ -2064,6 +2079,7 @@
 
 ## sqlite 
 
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [thombashi/sqlitebiter](https://github.com/thombashi/sqlitebiter) - A CLI tool to convert CSV / Excel / HTML / JSON / Jupyter Notebook / LDJSON / LTSV / Markdown / SQLite / SSV / TSV / Google-Sheets to a SQLite database file.
 
