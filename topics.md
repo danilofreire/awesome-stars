@@ -1183,6 +1183,7 @@
 
 ## others 
 
+- [meltylabs/melty](https://github.com/meltylabs/melty) - Open source AI code editor. To download the packaged app:
 - [robert/PySkyWiFi](https://github.com/robert/PySkyWiFi) - Completely free, unbelievably stupid wi-fi on long-haul flights
 - [verenakunz/Causal-Inference-for-Beginning-Undergraduates](https://github.com/verenakunz/Causal-Inference-for-Beginning-Undergraduates) - An introductory course on causal inference. Designed for undergraduate students with only a working knowledge of R and multiple regression. Light on maths, heavy on intuition and practical examples.
 - [quarto-dev/quarto-actions](https://github.com/quarto-dev/quarto-actions) - 
