@@ -71,6 +71,7 @@
 - [html](#html)
 - [icon-font](#icon-font)
 - [image-processing](#image-processing)
+- [instagram](#instagram)
 - [iot](#iot)
 - [java](#java)
 - [javascript](#javascript)
@@ -766,6 +767,10 @@
 ## image-processing 
 
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
+
+## instagram 
+
+- [hamada2029/instagram_without_login](https://github.com/hamada2029/instagram_without_login) - Open post and scroll window without login.
 
 ## iot 
 
