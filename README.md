@@ -439,6 +439,7 @@
 
 ## Python 
 
+- [huggingface/autotrain-advanced](https://github.com/huggingface/autotrain-advanced) - 🤗 AutoTrain Advanced
 - [robert/PySkyWiFi](https://github.com/robert/PySkyWiFi) - Completely free, unbelievably stupid wi-fi on long-haul flights
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 - [AmoDinho/datacamp-python-data-science-track](https://github.com/AmoDinho/datacamp-python-data-science-track) - All the slides, accompanying code and exercises all stored in this repo. 🎈
