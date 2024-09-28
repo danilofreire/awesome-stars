@@ -217,7 +217,6 @@
 - [HunterMcGushion/hyperparameter_hunter](https://github.com/HunterMcGushion/hyperparameter_hunter) - Easy hyperparameter optimization and automatic result saving across machine learning algorithms and libraries
 - [alirezadir/Production-Level-Deep-Learning](https://github.com/alirezadir/Production-Level-Deep-Learning) - A guideline for building practical production-level deep learning systems to be deployed in real world applications.
 - [interpretml/interpret](https://github.com/interpretml/interpret) - Fit interpretable models. Explain blackbox machine learning.
-- [okfn-brasil/querido-diario](https://github.com/okfn-brasil/querido-diario) - 📰 Diários oficiais brasileiros acessíveis a todos     |     📰 Brazilian government gazettes, accessible to everyone.
 - [okfn-brasil/serenata-de-amor](https://github.com/okfn-brasil/serenata-de-amor) - 🕵 Artificial Intelligence for social control of public administration | **This repository does not receive frequent updates. Check out the README**
 - [PetoLau/petolau.github.io](https://github.com/PetoLau/petolau.github.io) - Blog about time series data mining in R.
 - [ZuzooVn/machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - A complete daily plan for studying to become a machine learning engineer.
@@ -997,7 +996,6 @@
 - [trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
 - [vahidk/EffectiveTensorflow](https://github.com/vahidk/EffectiveTensorflow) - TensorFlow tutorials and best practices.
 - [iterative/dvc](https://github.com/iterative/dvc) - 🦉 ML Experiments and Data Management with Git
-- [okfn-brasil/querido-diario](https://github.com/okfn-brasil/querido-diario) - 📰 Diários oficiais brasileiros acessíveis a todos     |     📰 Brazilian government gazettes, accessible to everyone.
 - [daviddalpiaz/r4sl](https://github.com/daviddalpiaz/r4sl) - :chart_with_upwards_trend: Machine Learning from the perspective of a Statistician using R
 - [catboost/catboost](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computa
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
