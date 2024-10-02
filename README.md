@@ -194,6 +194,7 @@
 - [ajmcoqui/webAPIsR](https://github.com/ajmcoqui/webAPIsR) - Example scripts for "Using web APIs in R" presentation, rstudio::conf 2017
 - [geanders/RProgrammingForResearch](https://github.com/geanders/RProgrammingForResearch) - 
 - [dbroockman/repeated-online-panel-experiments](https://github.com/dbroockman/repeated-online-panel-experiments) - Repository of detailed instructions for running online panel field experiments.
+- [mattblackwell/DirectEffects](https://github.com/mattblackwell/DirectEffects) - An R package for estimating controlled direct effects.
 - [sergiokopplin/indigo](https://github.com/sergiokopplin/indigo) - Minimalist Jekyll Template, dark and light themes
 - [simonmunzert/rscraping-jsm-2016](https://github.com/simonmunzert/rscraping-jsm-2016) - Repository for one-day course "A Primer to Web Scraping with R"
 - [svmiller/svm-r-markdown-templates](https://github.com/svmiller/svm-r-markdown-templates) - This is my (deprecated) suite of R Markdown templates for academic manuscripts, beamer presentations, and syllabi. DOWNLOAD {stevetemplates} INSTEAD.
@@ -832,7 +833,6 @@
 - [kosukeimai/CBPS](https://github.com/kosukeimai/CBPS) - R package: CBPS
 - [rstudio/blogdown](https://github.com/rstudio/blogdown) - Create Blogs and Websites with R Markdown
 - [njtierney/ukpolice](https://github.com/njtierney/ukpolice) - :uk: :police_car: R package to pull police data from the uk police data repository :police_car: :uk:
-- [mattblackwell/DirectEffects](https://github.com/mattblackwell/DirectEffects) - An R package for estimating controlled direct effects.
 - [tidyverse/tidyverse](https://github.com/tidyverse/tidyverse) - Easily install and load packages from the tidyverse
 - [haozhu233/giphyr](https://github.com/haozhu233/giphyr) - A R package for giphy API
 - [tidyverse/forcats](https://github.com/tidyverse/forcats) - 🐈🐈🐈🐈: tools for working with categorical variables (factors)
