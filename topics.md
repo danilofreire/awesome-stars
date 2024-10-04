@@ -719,6 +719,7 @@
 
 ## hacktoberfest 
 
+- [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [ydataai/ydata-profiling](https://github.com/ydataai/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
@@ -1211,6 +1212,7 @@
 
 ## others 
 
+- [Doriandarko/o1-engineer](https://github.com/Doriandarko/o1-engineer) - o1-engineer is a command-line tool designed to assist developers in managing and interacting with their projects efficiently. Leveraging the power of OpenAI's API, this tool provides functionalities s
 - [meltylabs/melty](https://github.com/meltylabs/melty) - Chat first code editor. To download the packaged app:
 - [robert/PySkyWiFi](https://github.com/robert/PySkyWiFi) - Completely free, unbelievably stupid wi-fi on long-haul flights
 - [verenakunz/Causal-Inference-for-Beginning-Undergraduates](https://github.com/verenakunz/Causal-Inference-for-Beginning-Undergraduates) - An introductory course on causal inference. Designed for undergraduate students with only a working knowledge of R and multiple regression. Light on maths, heavy on intuition and practical examples.
