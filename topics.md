@@ -1212,6 +1212,9 @@
 
 ## others 
 
+- [quarto-ext/fontawesome](https://github.com/quarto-ext/fontawesome) - Use Font Awesome icons in HTML and PDF documents.
+- [wjschne/apaquarto](https://github.com/wjschne/apaquarto) - A quarto extension for creating APA7 documents in .docx, .html, and .pdf formats
+- [mcanouil/quarto-spotlight](https://github.com/mcanouil/quarto-spotlight) - A Quarto extension for Reveal.js allowing to highlight the current mouse position with a spotlight.
 - [Doriandarko/o1-engineer](https://github.com/Doriandarko/o1-engineer) - o1-engineer is a command-line tool designed to assist developers in managing and interacting with their projects efficiently. Leveraging the power of OpenAI's API, this tool provides functionalities s
 - [meltylabs/melty](https://github.com/meltylabs/melty) - Chat first code editor. To download the packaged app:
 - [robert/PySkyWiFi](https://github.com/robert/PySkyWiFi) - Completely free, unbelievably stupid wi-fi on long-haul flights
@@ -1531,7 +1534,7 @@
 - [njtierney/naniar](https://github.com/njtierney/naniar) - Tidy data structures, summaries, and visualisations for missing data
 - [Irio/national-congress-data](https://github.com/Irio/national-congress-data) - Datasets of congresspeople attendance, votes and propositions since past century
 - [thomasp85/patchwork](https://github.com/thomasp85/patchwork) - The Composer of ggplots
-- [merliseclyde/BAS](https://github.com/merliseclyde/BAS) - BAS R package https://merliseclyde.github.io/BAS/
+- [merliseclyde/BAS](https://github.com/merliseclyde/BAS) - BAS R package for Bayesian Model Averaging and Variable Selection
 - [hanase/BMA](https://github.com/hanase/BMA) - R package for Bayesian model averaging
 - [worldbank/ietoolkit](https://github.com/worldbank/ietoolkit) - Stata commands designed for Impact Evaluations in particular, but also data work in general
 - [susanathey/MCPanel](https://github.com/susanathey/MCPanel) - Matrix Completion Methods for Causal Panel Data Models
