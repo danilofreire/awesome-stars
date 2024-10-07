@@ -18,6 +18,7 @@
 - [JavaScript](#javascript)
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Lua](#lua)
 - [MDX](#mdx)
 - [Makefile](#makefile)
 - [NetLogo](#netlogo)
@@ -56,7 +57,7 @@
 - [dsquintana/corr_meta](https://github.com/dsquintana/corr_meta) - Supplementary script for meta-analysis primer
 - [vdorie/treatSens](https://github.com/vdorie/treatSens) - 
 - [yixuan/showtext](https://github.com/yixuan/showtext) - Using Fonts More Easily in R Graphs
-- [merliseclyde/BAS](https://github.com/merliseclyde/BAS) - BAS R package https://merliseclyde.github.io/BAS/
+- [merliseclyde/BAS](https://github.com/merliseclyde/BAS) - BAS R package for Bayesian Model Averaging and Variable Selection
 - [patperry/r-utf8](https://github.com/patperry/r-utf8) - UTF-8 Text Processing (R Package)
 - [insongkim/wfe](https://github.com/insongkim/wfe) - 
 - [susanathey/causalTree](https://github.com/susanathey/causalTree) - Working repository for Causal Tree and extensions
@@ -220,6 +221,7 @@
 
 ## JavaScript 
 
+- [mcanouil/quarto-spotlight](https://github.com/mcanouil/quarto-spotlight) - A Quarto extension for Reveal.js allowing to highlight the current mouse position with a spotlight.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [astefanutti/decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations
@@ -321,6 +323,12 @@
 - [nealjean/predicting-poverty](https://github.com/nealjean/predicting-poverty) - Combining satellite imagery and machine learning to predict poverty
 - [rhiever/Data-Analysis-and-Machine-Learning-Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects) - Repository of teaching materials, code, and data for my data analysis and machine learning projects.
 - [h2oai/h2o-3](https://github.com/h2oai/h2o-3) - H2O is an Open Source, Distributed, Fast & Scalable Machine Learning Platform: Deep Learning, Gradient Boosting (GBM) & XGBoost, Random Forest, Generalized Linear Modeling (GLM with Elastic Net), K-Me
+
+## Lua 
+
+- [quarto-ext/fontawesome](https://github.com/quarto-ext/fontawesome) - Use Font Awesome icons in HTML and PDF documents.
+- [wjschne/apaquarto](https://github.com/wjschne/apaquarto) - A quarto extension for creating APA7 documents in .docx, .html, and .pdf formats
+- [danilofreire/quarto-templates](https://github.com/danilofreire/quarto-templates) - A collection of personal templates for Quarto
 
 ## MDX 
 
@@ -970,7 +978,6 @@
 
 ## TeX 
 
-- [danilofreire/quarto-templates](https://github.com/danilofreire/quarto-templates) - A collection of personal templates for Quarto
 - [fcampelo/Design-and-Analysis-of-Experiments](https://github.com/fcampelo/Design-and-Analysis-of-Experiments) - Lecture Notes on Design & Analysis of Experiments
 - [r-causal/causal-inference-in-R](https://github.com/r-causal/causal-inference-in-R) - Causal Inference in R: A book!
 - [OpenIntroStat/openintro-statistics-slides](https://github.com/OpenIntroStat/openintro-statistics-slides) - 👩🏻‍🏫 Slides for OpenIntro Statistics
