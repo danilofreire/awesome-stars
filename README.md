@@ -566,7 +566,7 @@
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [danieljl/keras-image-captioning](https://github.com/danieljl/keras-image-captioning) - An implementation of image captioning in Keras
 - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
-- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 ML Experiments and Data Management with Git
+- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 Data Versioning and ML Experiments
 - [okfn-brasil/querido-diario](https://github.com/okfn-brasil/querido-diario) - 📰 Diários oficiais brasileiros acessíveis a todos     |     📰 Brazilian government gazettes, accessible to everyone.
 - [pymc-devs/pymc](https://github.com/pymc-devs/pymc) - Bayesian Modeling and Probabilistic Programming in Python
 - [catboost/catboost](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computa
