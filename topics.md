@@ -1211,6 +1211,7 @@
 
 ## others 
 
+- [quarto-journals/elsevier](https://github.com/quarto-journals/elsevier) - Quarto template for Elsevier Journals
 - [openai/swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
 - [quarto-ext/fontawesome](https://github.com/quarto-ext/fontawesome) - Use Font Awesome icons in HTML and PDF documents.
 - [wjschne/apaquarto](https://github.com/wjschne/apaquarto) - A quarto extension for creating APA7 documents in .docx, .html, and .pdf formats
