@@ -51,7 +51,6 @@
 
 ## C 
 
-- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt
 - [SebKrantz/collapse](https://github.com/SebKrantz/collapse) - Advanced and Fast Data Transformation in R
 - [dsquintana/corr_meta](https://github.com/dsquintana/corr_meta) - Supplementary script for meta-analysis primer
@@ -66,6 +65,7 @@
 ## C++ 
 
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
+- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [aschinchon/abstractions](https://github.com/aschinchon/abstractions) - An experiment to build abstract drawings with #Rstats and physarum model
 - [tidyverse/vroom](https://github.com/tidyverse/vroom) - Fast reading of delimited files
 - [bnosac/image](https://github.com/bnosac/image) - Computer Vision and Image Recognition algorithms for R users
@@ -979,6 +979,7 @@
 
 ## TeX 
 
+- [quarto-journals/elsevier](https://github.com/quarto-journals/elsevier) - Quarto template for Elsevier Journals
 - [fcampelo/Design-and-Analysis-of-Experiments](https://github.com/fcampelo/Design-and-Analysis-of-Experiments) - Lecture Notes on Design & Analysis of Experiments
 - [r-causal/causal-inference-in-R](https://github.com/r-causal/causal-inference-in-R) - Causal Inference in R: A book!
 - [OpenIntroStat/openintro-statistics-slides](https://github.com/OpenIntroStat/openintro-statistics-slides) - 👩🏻‍🏫 Slides for OpenIntro Statistics
