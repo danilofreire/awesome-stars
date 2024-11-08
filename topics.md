@@ -1214,6 +1214,7 @@
 
 ## others 
 
+- [davi-moreira/2025S_predictive_analytics_purdue_MGMT474](https://github.com/davi-moreira/2025S_predictive_analytics_purdue_MGMT474) - 
 - [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡
 - [quarto-journals/elsevier](https://github.com/quarto-journals/elsevier) - Quarto template for Elsevier Journals
 - [openai/swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
