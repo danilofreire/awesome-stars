@@ -826,7 +826,7 @@
 - [duarteguilherme/congressbr](https://github.com/duarteguilherme/congressbr) - An R package that returns tidy data from the APIs of the Brazilian Federal Senate and Chamber of Deputies.
 - [zsmahmood89/ModelCriticism](https://github.com/zsmahmood89/ModelCriticism) - 
 - [RobertMyles/tidyRSS](https://github.com/RobertMyles/tidyRSS) - An R package for extracting 'tidy' data frames from RSS, Atom and JSON feeds
-- [ropensci/rtweet](https://github.com/ropensci/rtweet) - 🐦 R client for interacting with Twitter's [stream and REST] APIs
+- [ropensci-archive/rtweet](https://github.com/ropensci-archive/rtweet) - 🐦 R client for interacting with Twitter's [stream and REST] APIs
 - [hrbrmstr/ggalt](https://github.com/hrbrmstr/ggalt) - :earth_americas: Extra Coordinate Systems, Geoms,  Statistical Transformations & Scales for 'ggplot2'
 - [FrankPortman/bayesAB](https://github.com/FrankPortman/bayesAB) - 🐢 bayesAB: Fast Bayesian Methods for A/B Testing
 - [fstpackage/fst](https://github.com/fstpackage/fst) - Lightning Fast Serialization of Data Frames for R
