@@ -56,7 +56,6 @@
 - [dsquintana/corr_meta](https://github.com/dsquintana/corr_meta) - Supplementary script for meta-analysis primer
 - [vdorie/treatSens](https://github.com/vdorie/treatSens) - 
 - [yixuan/showtext](https://github.com/yixuan/showtext) - Using Fonts More Easily in R Graphs
-- [merliseclyde/BAS](https://github.com/merliseclyde/BAS) - BAS R package for Bayesian Model Averaging and Variable Selection
 - [patperry/r-utf8](https://github.com/patperry/r-utf8) - UTF-8 Text Processing (R Package)
 - [insongkim/wfe](https://github.com/insongkim/wfe) - 
 - [susanathey/causalTree](https://github.com/susanathey/causalTree) - Working repository for Causal Tree and extensions
@@ -223,6 +222,7 @@
 
 ## JavaScript 
 
+- [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
 - [coatless-quarto/pyodide](https://github.com/coatless-quarto/pyodide) - Community developed Quarto extension to enable interactive Python code cells in HTML documents using Pyodide
 - [mcanouil/quarto-spotlight](https://github.com/mcanouil/quarto-spotlight) - A Quarto extension for Reveal.js allowing to highlight the current mouse position with a spotlight.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
@@ -781,6 +781,7 @@
 - [earowang/sugrrants](https://github.com/earowang/sugrrants) - SUpporting GRaphics with R for ANalysing Time Series
 - [njtierney/naniar](https://github.com/njtierney/naniar) - Tidy data structures, summaries, and visualisations for missing data
 - [thomasp85/patchwork](https://github.com/thomasp85/patchwork) - The Composer of ggplots
+- [merliseclyde/BAS](https://github.com/merliseclyde/BAS) - BAS R package for Bayesian Model Averaging and Variable Selection
 - [salimk/Rcrawler](https://github.com/salimk/Rcrawler) - An R web crawler and scraper
 - [AliciaSchep/gglabeller](https://github.com/AliciaSchep/gglabeller) - Shiny gadget for labeling points on ggplot
 - [hanase/BMA](https://github.com/hanase/BMA) - R package for Bayesian model averaging
