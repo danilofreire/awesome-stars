@@ -72,7 +72,6 @@
 - [imbs-hl/ranger](https://github.com/imbs-hl/ranger) - A Fast Implementation of Random Forests
 - [interpretml/interpret](https://github.com/interpretml/interpret) - Fit interpretable models. Explain blackbox machine learning.
 - [ropensci/pdftools](https://github.com/ropensci/pdftools) - Text Extraction, Rendering and Converting of PDF Documents
-- [catboost/catboost](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computa
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [susanathey/MCPanel](https://github.com/susanathey/MCPanel) - Matrix Completion Methods for Causal Panel Data Models
 - [facebookresearch/StarSpace](https://github.com/facebookresearch/StarSpace) - Learning embeddings for classification, retrieval and ranking.
@@ -138,6 +137,7 @@
 - [worldbank/dime-r-training](https://github.com/worldbank/dime-r-training) - Dime Analytics R Training
 - [bcallaway11/did](https://github.com/bcallaway11/did) - Difference in Differences with Multiple Periods, website: https://bcallaway11.github.io/did
 - [EagerAI/fastai](https://github.com/EagerAI/fastai) - R interface to fast.ai
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [mattblackwell/qsslearnr](https://github.com/mattblackwell/qsslearnr) - learnr tutorial package for Quantitative Social Science
 - [edrubin/EC524W20](https://github.com/edrubin/EC524W20) - Masters-level applied econometrics course—focusing on prediction—at the University of Oregon (EC424/524 during Winter quarter, 2020 Taught by Ed Rubin
 - [edrubin/EC607S20](https://github.com/edrubin/EC607S20) - Causally oriented doctoral econometrics course at UO, taught by Ed Rubin
@@ -356,6 +356,7 @@
 
 ## Others 
 
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [varungodbole/prompt-tuning-playbook](https://github.com/varungodbole/prompt-tuning-playbook) - A playbook for effectively prompting post-trained LLMs
 - [davi-moreira/2025S_predictive_analytics_purdue_MGMT474](https://github.com/davi-moreira/2025S_predictive_analytics_purdue_MGMT474) - 
 - [krzjoa/awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science) - Probably the best curated list of data science software in Python.
@@ -383,7 +384,6 @@
 - [rstudio-education/r4ds-instructors](https://github.com/rstudio-education/r4ds-instructors) - Instructors' Guide to accompany "R for Data Science"
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [quobit/awesome-python-in-education](https://github.com/quobit/awesome-python-in-education) - A curated list about Python in Education :snake: :mortar_board:
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [jfiksel/github-classroom-for-teachers](https://github.com/jfiksel/github-classroom-for-teachers) - 
 - [erikgahner/awesome-ggplot2](https://github.com/erikgahner/awesome-ggplot2) - A curated list of awesome ggplot2 tutorials, packages etc.
 - [ritchieng/the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch) - The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.
@@ -577,6 +577,7 @@
 - [iterative/dvc](https://github.com/iterative/dvc) - 🦉 Data Versioning and ML Experiments
 - [okfn-brasil/querido-diario](https://github.com/okfn-brasil/querido-diario) - 📰 Diários oficiais brasileiros acessíveis a todos     |     📰 Brazilian government gazettes, accessible to everyone.
 - [pymc-devs/pymc](https://github.com/pymc-devs/pymc) - Bayesian Modeling and Probabilistic Programming in Python
+- [catboost/catboost](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computa
 - [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz
 - [twintproject/twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
@@ -609,6 +610,7 @@
 
 ## R 
 
+- [tidyverse/elmer](https://github.com/tidyverse/elmer) - Call LLM APIs from R
 - [verenakunz/Causal-Inference-for-Beginning-Undergraduates](https://github.com/verenakunz/Causal-Inference-for-Beginning-Undergraduates) - An introductory course on causal inference. Designed for undergraduate students with only a working knowledge of R and multiple regression. Light on maths, heavy on intuition and practical examples.
 - [danilofreire/evalsp24.classes.andrewheiss.com](https://github.com/danilofreire/evalsp24.classes.andrewheiss.com) - 📊 🌐 🧑‍🏫 Website for graduate-level course on program evaluation and causal inference using R, built with Quarto
 - [hadley/r4ds](https://github.com/hadley/r4ds) - R for data science: a book
