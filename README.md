@@ -643,7 +643,7 @@
 - [thomas-neitmann/ggcharts](https://github.com/thomas-neitmann/ggcharts) - Get You to Your Desired Plot Faster
 - [rstudio/gradethis](https://github.com/rstudio/gradethis) - Tools for teachers to use with learnr
 - [mdlincoln/salty](https://github.com/mdlincoln/salty) - Turn Clean Data Into Messy Data
-- [HenrikBengtsson/parallelly](https://github.com/HenrikBengtsson/parallelly) - R package: parallelly - Enhancing the 'parallel' Package
+- [futureverse/parallelly](https://github.com/futureverse/parallelly) - R package: parallelly - Enhancing the 'parallel' Package
 - [liao961120/getable](https://github.com/liao961120/getable) - HTML Tables with Dynamic Data in R Markdown
 - [michaeldorman/mapsapi](https://github.com/michaeldorman/mapsapi) - 'sf'-Compatible Interface to Google Maps APIs
 - [tidyverse/dsbox](https://github.com/tidyverse/dsbox) - Companion R package to Data Science Course in a Box
