@@ -222,6 +222,7 @@
 
 ## JavaScript 
 
+- [RamiKrispin/vscode-python-template](https://github.com/RamiKrispin/vscode-python-template) - A template for a dockerized Python development environment for VScode
 - [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
 - [coatless-quarto/pyodide](https://github.com/coatless-quarto/pyodide) - Community developed Quarto extension to enable interactive Python code cells in HTML documents using Pyodide
 - [mcanouil/quarto-spotlight](https://github.com/mcanouil/quarto-spotlight) - A Quarto extension for Reveal.js allowing to highlight the current mouse position with a spotlight.
