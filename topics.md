@@ -623,6 +623,7 @@
 
 ## docker 
 
+- [RamiKrispin/vscode-python-template](https://github.com/RamiKrispin/vscode-python-template) - A template for a dockerized Python development environment for VScode
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
@@ -1775,6 +1776,7 @@
 
 ## python 
 
+- [RamiKrispin/vscode-python-template](https://github.com/RamiKrispin/vscode-python-template) - A template for a dockerized Python development environment for VScode
 - [NirDiamant/Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering) - This repository offers a comprehensive collection of tutorials and implementations for Prompt Engineering techniques, ranging from fundamental concepts to advanced strategies. It serves as an essentia
 - [coatless-quarto/pyodide](https://github.com/coatless-quarto/pyodide) - Community developed Quarto extension to enable interactive Python code cells in HTML documents using Pyodide
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
