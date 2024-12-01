@@ -120,6 +120,7 @@
 
 ## HTML 
 
+- [dannyallover/llm_forecasting](https://github.com/dannyallover/llm_forecasting) - Forecasting with LLMs
 - [Martinomagnifico/quarto-multimodal](https://github.com/Martinomagnifico/quarto-multimodal) - A plugin for Reveal.js to show content like images, video and HTML in modal windows or lightboxes.
 - [umbertomig/qtm151](https://github.com/umbertomig/qtm151) - 
 - [danilofreire/quarto-presentation](https://github.com/danilofreire/quarto-presentation) - A fork of the beautiful Quarto Clean presentation theme
@@ -930,6 +931,7 @@
 
 ## Rust 
 
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
