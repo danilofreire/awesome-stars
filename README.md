@@ -272,6 +272,7 @@
 
 ## Jupyter Notebook 
 
+- [huggingface/smol-course](https://github.com/huggingface/smol-course) - A course on aligning smol models.
 - [NirDiamant/Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering) - This repository offers a comprehensive collection of tutorials and implementations for Prompt Engineering techniques, ranging from fundamental concepts to advanced strategies. It serves as an essentia
 - [TomasBeuzen/python-programming-for-data-science](https://github.com/TomasBeuzen/python-programming-for-data-science) - Content from the University of British Columbia's Master of Data Science course DSCI 511.
 - [UBC-MDS/DSCI_512_alg-data-struct](https://github.com/UBC-MDS/DSCI_512_alg-data-struct) - 
