@@ -618,7 +618,7 @@
 
 ## R 
 
-- [tidyverse/elmer](https://github.com/tidyverse/elmer) - Call LLM APIs from R
+- [tidyverse/ellmer](https://github.com/tidyverse/ellmer) - Call LLM APIs from R
 - [verenakunz/Causal-Inference-for-Beginning-Undergraduates](https://github.com/verenakunz/Causal-Inference-for-Beginning-Undergraduates) - An introductory course on causal inference. Designed for undergraduate students with only a working knowledge of R and multiple regression. Light on maths, heavy on intuition and practical examples.
 - [danilofreire/evalsp24.classes.andrewheiss.com](https://github.com/danilofreire/evalsp24.classes.andrewheiss.com) - 📊 🌐 🧑‍🏫 Website for graduate-level course on program evaluation and causal inference using R, built with Quarto
 - [hadley/r4ds](https://github.com/hadley/r4ds) - R for data science: a book
