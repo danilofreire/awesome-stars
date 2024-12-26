@@ -353,6 +353,7 @@
 
 ## chrome 
 
+- [mherrmann/helium](https://github.com/mherrmann/helium) - Lighter web automation with Python
 - [pnd280/complexity](https://github.com/pnd280/complexity) - ⚡  Supercharge your Perplexity.ai
 - [Poucous/smartReader](https://github.com/Poucous/smartReader) - Firefox and Chrome Extension for Smart Reading - Bionic Reader
 - [hamada2029/instagram_without_login](https://github.com/hamada2029/instagram_without_login) - Open post and scroll window without login.
@@ -672,6 +673,7 @@
 
 ## firefox 
 
+- [mherrmann/helium](https://github.com/mherrmann/helium) - Lighter web automation with Python
 - [pnd280/complexity](https://github.com/pnd280/complexity) - ⚡  Supercharge your Perplexity.ai
 - [Poucous/smartReader](https://github.com/Poucous/smartReader) - Firefox and Chrome Extension for Smart Reading - Bionic Reader
 - [hamada2029/instagram_without_login](https://github.com/hamada2029/instagram_without_login) - Open post and scroll window without login.
@@ -916,7 +918,6 @@
 
 ## linux 
 
-- [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) - Dockerized Computer Use Agents with Production Ready API’s - MCP Client for Langchain - GCA
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 - [you-dont-need/You-Dont-Need-GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) - Stop relying on GUI; CLI **ROCKS**
@@ -1072,7 +1073,6 @@
 
 ## macos 
 
-- [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) - Dockerized Computer Use Agents with Production Ready API’s - MCP Client for Langchain - GCA
 - [hnarayanan/shpotify](https://github.com/hnarayanan/shpotify) - A command-line interface to Spotify.
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
@@ -1802,6 +1802,7 @@
 
 ## python 
 
+- [mherrmann/helium](https://github.com/mherrmann/helium) - Lighter web automation with Python
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [RamiKrispin/vscode-python-template](https://github.com/RamiKrispin/vscode-python-template) - A template for a dockerized Python development environment for VScode
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
@@ -1901,6 +1902,7 @@
 
 ## python3 
 
+- [mherrmann/helium](https://github.com/mherrmann/helium) - Lighter web automation with Python
 - [AutoViML/Auto_TS](https://github.com/AutoViML/Auto_TS) - Automatically build ARIMA, SARIMAX, VAR, FB Prophet and XGBoost Models on Time Series data sets with a Single Line of Code. Created by Ram Seshadri. Collaborators welcome.
 - [AutoViML/Auto_ViML](https://github.com/AutoViML/Auto_ViML) - Automatically Build Multiple ML Models with a Single Line of Code. Created by Ram Seshadri. Collaborators Welcome. Permission Granted upon Request.
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
@@ -2286,7 +2288,6 @@
 
 ## ubuntu 
 
-- [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) - Dockerized Computer Use Agents with Production Ready API’s - MCP Client for Langchain - GCA
 - [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment
 
 ## vim 
@@ -2341,7 +2342,6 @@
 
 ## windows 
 
-- [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) - Dockerized Computer Use Agents with Production Ready API’s - MCP Client for Langchain - GCA
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 
 
