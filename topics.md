@@ -926,7 +926,7 @@
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 - [you-dont-need/You-Dont-Need-GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) - Stop relying on GUI; CLI **ROCKS**
 - [chromebrew/chromebrew](https://github.com/chromebrew/chromebrew) - Package manager for Chrome OS
-- [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment
+- [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment (EOL)
 
 ## llm 
 
@@ -1115,7 +1115,7 @@
 
 ## minecraft 
 
-- [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment
+- [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment (EOL)
 
 ## mobile 
 
@@ -1268,6 +1268,7 @@
 
 ## others 
 
+- [facebookresearch/Kats](https://github.com/facebookresearch/Kats) - Kats, a kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics,
 - [huggingface/smol-course](https://github.com/huggingface/smol-course) - A course on aligning smol models.
 - [dannyallover/llm_forecasting](https://github.com/dannyallover/llm_forecasting) - Forecasting with LLMs
 - [tidyverse/ellmer](https://github.com/tidyverse/ellmer) - Call LLM APIs from R
@@ -2186,7 +2187,7 @@
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [nordtheme/iterm2](https://github.com/nordtheme/iterm2) - An arctic, north-bluish clean and elegant iTerm2 color scheme.
-- [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment
+- [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment (EOL)
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 
 ## software 
@@ -2304,7 +2305,7 @@
 
 ## ubuntu 
 
-- [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment
+- [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment (EOL)
 
 ## vim 
 
