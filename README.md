@@ -976,6 +976,7 @@
 - [deluan/zsh-in-docker](https://github.com/deluan/zsh-in-docker) - Install Zsh, Oh My Zsh and plugins inside a Docker container with one line!
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish
+- [Wandmalfarbe/pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template) - A pandoc LaTeX template to convert markdown files to PDF or LaTeX.
 - [daviddalpiaz/r4sl](https://github.com/daviddalpiaz/r4sl) - :chart_with_upwards_trend: Machine Learning from the perspective of a Statistician using R
 - [trishume/dotfiles](https://github.com/trishume/dotfiles) - My dotfiles for Linux and Mac.
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
@@ -1023,7 +1024,6 @@
 - [scunning1975/mixtape](https://github.com/scunning1975/mixtape) - Data and Program files for Causal Inference: The Mixtape
 - [woerman/ResEcon703](https://github.com/woerman/ResEcon703) - Topics in Advanced Econometrics (ResEcon 703). University of Massachusetts Amherst. Taught by Matt Woerman
 - [prio-data/priogrid](https://github.com/prio-data/priogrid) - Replication scripts that were used to generate the PRIO-GRID v3.0 dataset using R. For version 2.0 replication see legacy branch.
-- [Wandmalfarbe/pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template) - A pandoc LaTeX template to convert markdown files to PDF or LaTeX.
 - [firamath/firamath](https://github.com/firamath/firamath) - Sans-serif font with Unicode math support
 - [avehtari/BDA_course_Aalto](https://github.com/avehtari/BDA_course_Aalto) - Bayesian Data Analysis course at Aalto
 - [nuest/rockerverse-paper](https://github.com/nuest/rockerverse-paper) - Scientific paper about everything related to containers and R
