@@ -470,6 +470,8 @@
 
 ## Python 
 
+- [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
 - [SamuelSchmidgall/AgentLaboratory](https://github.com/SamuelSchmidgall/AgentLaboratory) - Agent Laboratory is an end-to-end autonomous research workflow meant to assist you as the human researcher toward implementing your research ideas
@@ -497,7 +499,7 @@
 - [WillianFuks/tfcausalimpact](https://github.com/WillianFuks/tfcausalimpact) - Python Causal Impact Implementation Based on Google's R Package. Built using TensorFlow Probability.
 - [jupyter/nbviewer](https://github.com/jupyter/nbviewer) - nbconvert as a web service: Render Jupyter Notebooks as static web pages
 - [Doriandarko/maestro](https://github.com/Doriandarko/maestro) - A framework for Claude Opus to intelligently orchestrate subagents.
-- [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) - We do NOT and WILL not have any Crypto Projects, they are a complete SCAM | Task oriented AI agent framework for digital workers and vertical AI agents
+- [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) - Task oriented AI agent framework for digital workers and vertical AI agents
 - [havakv/pycox](https://github.com/havakv/pycox) - Survival analysis with PyTorch
 - [lllyasviel/Omost](https://github.com/lllyasviel/Omost) - Your image is almost there!
 - [reiinakano/scikit-plot](https://github.com/reiinakano/scikit-plot) - An intuitive library to add plotting functionality to scikit-learn objects.
