@@ -21,6 +21,7 @@
 - [Lua](#lua)
 - [MDX](#mdx)
 - [Makefile](#makefile)
+- [Markdown](#markdown)
 - [NetLogo](#netlogo)
 - [Objective-C](#objective-c)
 - [Others](#others)
@@ -359,6 +360,10 @@
 - [eddelbuettel/pkg-fonts-libertinus](https://github.com/eddelbuettel/pkg-fonts-libertinus) - (Unofficial) Debian packaging for Libertinus fonts
 - [eddelbuettel/samples-rmarkdown-metropolis](https://github.com/eddelbuettel/samples-rmarkdown-metropolis) - RMarkdown with Metropolis/Mtheme for Beamer
 
+## Markdown 
+
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+
 ## NetLogo 
 
 - [NetLogo/models](https://github.com/NetLogo/models) - NetLogo Models Library
@@ -471,6 +476,7 @@
 
 ## Python 
 
+- [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 - [Doriandarko/RAT-retrieval-augmented-thinking](https://github.com/Doriandarko/RAT-retrieval-augmented-thinking) - RAT is a powerful tool that improves AI responses by leveraging DeepSeek's reasoning capabilities to guide other models through a structured thinking process.
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
