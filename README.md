@@ -113,7 +113,7 @@
 
 ## Go 
 
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [KadoBOT/nvim-spotify](https://github.com/KadoBOT/nvim-spotify) - For productivity addicts who enjoy coding while listening to Spotify, and cannot lose their focus switching to the app to control their music.
@@ -375,6 +375,7 @@
 
 ## Others 
 
+- [elder-plinius/L1B3RT4S](https://github.com/elder-plinius/L1B3RT4S) - TOTALLY HARMLESS LIBERATION PROMPTS FOR GOOD LIL AI'S
 - [appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers) - Awesome MCP Servers - A curated list of Model Context Protocol servers
 - [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - A one stop repository for generative AI research updates, interview resources, notebooks and much more!
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
