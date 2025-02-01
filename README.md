@@ -76,6 +76,7 @@
 - [imbs-hl/ranger](https://github.com/imbs-hl/ranger) - A Fast Implementation of Random Forests
 - [interpretml/interpret](https://github.com/interpretml/interpret) - Fit interpretable models. Explain blackbox machine learning.
 - [ropensci/pdftools](https://github.com/ropensci/pdftools) - Text Extraction, Rendering and Converting of PDF Documents
+- [catboost/catboost](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computa
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [susanathey/MCPanel](https://github.com/susanathey/MCPanel) - Matrix Completion Methods for Causal Panel Data Models
 - [facebookresearch/StarSpace](https://github.com/facebookresearch/StarSpace) - Learning embeddings for classification, retrieval and ranking.
@@ -615,7 +616,6 @@
 - [iterative/dvc](https://github.com/iterative/dvc) - 🦉 Data Versioning and ML Experiments
 - [okfn-brasil/querido-diario](https://github.com/okfn-brasil/querido-diario) - 📰 Diários oficiais brasileiros acessíveis a todos     |     📰 Brazilian government gazettes, accessible to everyone.
 - [pymc-devs/pymc](https://github.com/pymc-devs/pymc) - Bayesian Modeling and Probabilistic Programming in Python
-- [catboost/catboost](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computa
 - [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz
 - [twintproject/twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
