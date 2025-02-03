@@ -880,7 +880,7 @@
 ## jekyll 
 
 - [alshedivat/al-folio](https://github.com/alshedivat/al-folio) - A beautiful, simple, clean, and responsive Jekyll theme for academics
-- [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes
+- [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template for personal, portfolio-based websites; forked from mmistakes/minimal-mistakes
 - [sergiokopplin/indigo](https://github.com/sergiokopplin/indigo) - Minimalist Jekyll Template, dark and light themes
 
 ## jekyll-theme 
@@ -1311,6 +1311,8 @@
 
 ## others 
 
+- [li-xinran/RIQITE](https://github.com/li-xinran/RIQITE) - 
+- [grantmcdermott/ritest](https://github.com/grantmcdermott/ritest) - Randomization Inference on R model objects
 - [langchain-ai/ollama-deep-researcher](https://github.com/langchain-ai/ollama-deep-researcher) - Fully local web research and report writing assistant
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 - [Doriandarko/RAT-retrieval-augmented-thinking](https://github.com/Doriandarko/RAT-retrieval-augmented-thinking) - RAT is a powerful tool that improves AI responses by leveraging DeepSeek's reasoning capabilities to guide other models through a structured thinking process.
