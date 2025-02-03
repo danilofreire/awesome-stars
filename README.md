@@ -260,7 +260,7 @@
 - [nordtheme/iterm2](https://github.com/nordtheme/iterm2) - An arctic, north-bluish clean and elegant iTerm2 color scheme.
 - [jasdumas/gramr](https://github.com/jasdumas/gramr) - RStudio Addin, function, & shiny app for the write-good linter  :pencil:
 - [burlesco/burlesco](https://github.com/burlesco/burlesco) - Leia notícias sem ser assinante, burle o paywall (WebExtension)
-- [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes
+- [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template for personal, portfolio-based websites; forked from mmistakes/minimal-mistakes
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [marcotcr/lime](https://github.com/marcotcr/lime) - Lime: Explaining the predictions of any machine learning classifier
 - [facebookarchive/planout](https://github.com/facebookarchive/planout) - PlanOut is a library and interpreter for designing online experiments.
@@ -649,6 +649,8 @@
 
 ## R 
 
+- [li-xinran/RIQITE](https://github.com/li-xinran/RIQITE) - 
+- [grantmcdermott/ritest](https://github.com/grantmcdermott/ritest) - Randomization Inference on R model objects
 - [tidyverse/ellmer](https://github.com/tidyverse/ellmer) - Call LLM APIs from R
 - [verenakunz/Causal-Inference-for-Beginning-Undergraduates](https://github.com/verenakunz/Causal-Inference-for-Beginning-Undergraduates) - An introductory course on causal inference. Designed for undergraduate students with only a working knowledge of R and multiple regression. Light on maths, heavy on intuition and practical examples.
 - [danilofreire/evalsp24.classes.andrewheiss.com](https://github.com/danilofreire/evalsp24.classes.andrewheiss.com) - 📊 🌐 🧑‍🏫 Website for graduate-level course on program evaluation and causal inference using R, built with Quarto
