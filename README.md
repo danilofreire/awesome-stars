@@ -481,6 +481,7 @@
 
 ## Python 
 
+- [theAbdoSabbagh/DeeperSeek](https://github.com/theAbdoSabbagh/DeeperSeek) - An unofficial Python wrapper for DeepSeek API
 - [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents. Agents write python code to call tools and orchestrate other agents.
 - [langchain-ai/ollama-deep-researcher](https://github.com/langchain-ai/ollama-deep-researcher) - Fully local web research and report writing assistant
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown + JSON quickly with high accuracy
@@ -899,7 +900,7 @@
 - [haozhu233/giphyr](https://github.com/haozhu233/giphyr) - A R package for giphy API
 - [tidyverse/forcats](https://github.com/tidyverse/forcats) - 🐈🐈🐈🐈: tools for working with categorical variables (factors)
 - [sarupurisailalith/commonUtilAddins](https://github.com/sarupurisailalith/commonUtilAddins) - R Studio Addins for common data frame operations
-- [crsh/citr](https://github.com/crsh/citr) - RStudio Addin to Insert Markdown Citations
+- [crsh/citr](https://github.com/crsh/citr) - RStudio Addin to Insert Markdown Citations from a BibTeX file or Zotero
 - [leeper/margins](https://github.com/leeper/margins) - An R Port of Stata's 'margins' Command
 - [christophergandrud/imfr](https://github.com/christophergandrud/imfr) - R package for interacting with the IMF RESTful JSON API
 - [lucasmation/microdadosBrasil](https://github.com/lucasmation/microdadosBrasil) - Reads most common Brazilian public microdata (CENSO, PNAD, etc) easy and fast
