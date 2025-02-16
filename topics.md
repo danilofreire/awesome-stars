@@ -106,6 +106,7 @@
 - [natural-language-processing](#natural-language-processing)
 - [neovim](#neovim)
 - [neural-network](#neural-network)
+- [nextjs](#nextjs)
 - [nlp](#nlp)
 - [nodejs](#nodejs)
 - [numpy](#numpy)
@@ -468,7 +469,7 @@
 - [ydataai/ydata-profiling](https://github.com/ydataai/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
 - [has2k1/plotnine](https://github.com/has2k1/plotnine) - A Grammar of Graphics for Python
 - [Kanaries/Rath](https://github.com/Kanaries/Rath) - Next generation of automated data exploratory analysis and visualization platform.
-- [anthonydb/practical-sql-2](https://github.com/anthonydb/practical-sql-2) - Code and Data for the Second Edition of "Practical SQL" by Anthony DeBarros, published by No Starch Press (2022).
+- [anthonydb/practical-sql-2](https://github.com/anthonydb/practical-sql-2) - Code and Data for the Second Edition of "Practical SQL" by Anthony DeBarros, published by No Starch Press.
 - [microsoft/responsible-ai-toolbox](https://github.com/microsoft/responsible-ai-toolbox) - Responsible AI Toolbox is a suite of tools providing model and data exploration and assessment user interfaces and libraries that enable a better understanding of AI systems. These interfaces and libr
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [machow/siuba](https://github.com/machow/siuba) - Python library for using dplyr like syntax with pandas and SQL
@@ -784,6 +785,7 @@
 
 ## hacktoberfest 
 
+- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using AI, Reader LLMs, to compare and rank resumes with job descriptions.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [CopilotC-Nvim/CopilotChat.nvim](https://github.com/CopilotC-Nvim/CopilotChat.nvim) - Chat with GitHub Copilot in Neovim
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
@@ -988,6 +990,7 @@
 
 ## machine-learning 
 
+- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using AI, Reader LLMs, to compare and rank resumes with job descriptions.
 - [microsoft/FLAML](https://github.com/microsoft/FLAML) - A fast library for AutoML and tuning. Join our Discord: https://discord.gg/Cppx2vSPVP.
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
 - [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.
@@ -1176,6 +1179,7 @@
 
 ## natural-language-processing 
 
+- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using AI, Reader LLMs, to compare and rank resumes with job descriptions.
 - [microsoft/FLAML](https://github.com/microsoft/FLAML) - A fast library for AutoML and tuning. Join our Discord: https://discord.gg/Cppx2vSPVP.
 - [huggingface/autotrain-advanced](https://github.com/huggingface/autotrain-advanced) - 🤗 AutoTrain Advanced
 - [AmoDinho/datacamp-python-data-science-track](https://github.com/AmoDinho/datacamp-python-data-science-track) - All the slides, accompanying code and exercises all stored in this repo. 🎈
@@ -1230,6 +1234,10 @@
 - [ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - machine learning and deep learning tutorials, articles and other resources
 - [ybayle/awesome-deep-learning-music](https://github.com/ybayle/awesome-deep-learning-music) - List of articles related to deep learning applied to music
 - [janishar/mit-deep-learning-book-pdf](https://github.com/janishar/mit-deep-learning-book-pdf) - MIT Deep Learning Book in PDF format (complete and parts) by Ian Goodfellow, Yoshua Bengio and Aaron Courville
+
+## nextjs 
+
+- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using AI, Reader LLMs, to compare and rank resumes with job descriptions.
 
 ## nlp 
 
@@ -1311,6 +1319,7 @@
 
 ## others 
 
+- [microsoft/OmniParser](https://github.com/microsoft/OmniParser) - A simple screen parsing tool towards pure vision based GUI agent
 - [agentica-project/deepscaler](https://github.com/agentica-project/deepscaler) - Democratizing Reinforcement Learning for LLMs
 - [theAbdoSabbagh/DeeperSeek](https://github.com/theAbdoSabbagh/DeeperSeek) - An unofficial Python wrapper for DeepSeek API
 - [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents. Agents write python code to call tools and orchestrate other agents.
@@ -1842,7 +1851,7 @@
 - [cmoog/vscode-sql-notebook](https://github.com/cmoog/vscode-sql-notebook) - Open SQL files as VSCode Notebooks.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
-- [anthonydb/practical-sql-2](https://github.com/anthonydb/practical-sql-2) - Code and Data for the Second Edition of "Practical SQL" by Anthony DeBarros, published by No Starch Press (2022).
+- [anthonydb/practical-sql-2](https://github.com/anthonydb/practical-sql-2) - Code and Data for the Second Edition of "Practical SQL" by Anthony DeBarros, published by No Starch Press.
 
 ## powershell 
 
@@ -1865,6 +1874,7 @@
 
 ## python 
 
+- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using AI, Reader LLMs, to compare and rank resumes with job descriptions.
 - [microsoft/FLAML](https://github.com/microsoft/FLAML) - A fast library for AutoML and tuning. Join our Discord: https://discord.gg/Cppx2vSPVP.
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
@@ -2269,7 +2279,7 @@
 - [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - GitQL is a extensible SQL-like query language and SDK to perform queries on various data sources such .git files with supports of most of SQL features such as grouping, ordering and aggregation and wi
 - [cmoog/vscode-sql-notebook](https://github.com/cmoog/vscode-sql-notebook) - Open SQL files as VSCode Notebooks.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-- [anthonydb/practical-sql-2](https://github.com/anthonydb/practical-sql-2) - Code and Data for the Second Edition of "Practical SQL" by Anthony DeBarros, published by No Starch Press (2022).
+- [anthonydb/practical-sql-2](https://github.com/anthonydb/practical-sql-2) - Code and Data for the Second Edition of "Practical SQL" by Anthony DeBarros, published by No Starch Press.
 - [machow/siuba](https://github.com/machow/siuba) - Python library for using dplyr like syntax with pandas and SQL
 - [gadenbuie/tidyexplain](https://github.com/gadenbuie/tidyexplain) - 🤹‍♀ Animations of tidyverse verbs using R, the tidyverse, and gganimate
 
@@ -2370,6 +2380,7 @@
 
 ## typescript 
 
+- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using AI, Reader LLMs, to compare and rank resumes with job descriptions.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [surveyjs/survey-library](https://github.com/surveyjs/survey-library) - Free JavaScript form builder library with integration for React, Angular, Vue, jQuery, and Knockout.
