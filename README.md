@@ -53,6 +53,7 @@
 
 ## C 
 
+- [kosukeimai/experiment](https://github.com/kosukeimai/experiment) - R package experiment
 - [nalgeon/sqlean.py](https://github.com/nalgeon/sqlean.py) - Python's sqlite3 + extensions
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean) - The ultimate set of SQLite extensions
 - [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt
@@ -697,6 +698,7 @@
 - [michaeldorman/mapsapi](https://github.com/michaeldorman/mapsapi) - 'sf'-Compatible Interface to Google Maps APIs
 - [tidyverse/dsbox](https://github.com/tidyverse/dsbox) - Companion R package to Data Science Course in a Box
 - [r-lib/hugodown](https://github.com/r-lib/hugodown) - Make websites with hugo and RMarkdown
+- [prio-data/priogrid](https://github.com/prio-data/priogrid) - Replication scripts that were used to generate the PRIO-GRID v3.0 dataset using R. For version 2.0 replication see legacy branch.
 - [tylermorganwall/rayshader](https://github.com/tylermorganwall/rayshader) - R Package for 2D and 3D mapping and data visualization
 - [emitanaka/edibble](https://github.com/emitanaka/edibble) - An R-package that encapsulate elements of experimental design for better planning, management, and workflow
 - [Nexo-Dados/PoliticasPublicas](https://github.com/Nexo-Dados/PoliticasPublicas) - Repositório público com os dados e gráficos dos materiais publicados pelo Nexo Políticas Públicas.
@@ -1054,7 +1056,6 @@
 - [paulcbauer/apis_for_social_scientists_a_review](https://github.com/paulcbauer/apis_for_social_scientists_a_review) - A review of APIs.
 - [scunning1975/mixtape](https://github.com/scunning1975/mixtape) - Data and Program files for Causal Inference: The Mixtape
 - [woerman/ResEcon703](https://github.com/woerman/ResEcon703) - Topics in Advanced Econometrics (ResEcon 703). University of Massachusetts Amherst. Taught by Matt Woerman
-- [prio-data/priogrid](https://github.com/prio-data/priogrid) - Replication scripts that were used to generate the PRIO-GRID v3.0 dataset using R. For version 2.0 replication see legacy branch.
 - [firamath/firamath](https://github.com/firamath/firamath) - Sans-serif font with Unicode math support
 - [avehtari/BDA_course_Aalto](https://github.com/avehtari/BDA_course_Aalto) - Bayesian Data Analysis course at Aalto
 - [nuest/rockerverse-paper](https://github.com/nuest/rockerverse-paper) - Scientific paper about everything related to containers and R
