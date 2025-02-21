@@ -520,7 +520,7 @@
 - [WillianFuks/tfcausalimpact](https://github.com/WillianFuks/tfcausalimpact) - Python Causal Impact Implementation Based on Google's R Package. Built using TensorFlow Probability.
 - [jupyter/nbviewer](https://github.com/jupyter/nbviewer) - nbconvert as a web service: Render Jupyter Notebooks as static web pages
 - [Doriandarko/maestro](https://github.com/Doriandarko/maestro) - A framework for Claude Opus to intelligently orchestrate subagents.
-- [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) - Upsonic is a reliability-focused agent framework with dockerized, server-client architecture and MCP
+- [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) - Most Reliable AI Agent Framework
 - [havakv/pycox](https://github.com/havakv/pycox) - Survival analysis with PyTorch
 - [lllyasviel/Omost](https://github.com/lllyasviel/Omost) - Your image is almost there!
 - [reiinakano/scikit-plot](https://github.com/reiinakano/scikit-plot) - An intuitive library to add plotting functionality to scikit-learn objects.
