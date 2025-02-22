@@ -1319,6 +1319,7 @@
 
 ## others 
 
+- [microsoft/data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Create rich visualizations with AI
 - [kosukeimai/experiment](https://github.com/kosukeimai/experiment) - R package experiment
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper
 - [browser-use/web-ui](https://github.com/browser-use/web-ui) - Run AI Agent in your browser.
