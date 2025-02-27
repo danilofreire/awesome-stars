@@ -485,6 +485,7 @@
 
 ## Python 
 
+- [convergence-ai/proxy-lite](https://github.com/convergence-ai/proxy-lite) - A mini, open-weights, version of our Proxy assistant.
 - [HazyResearch/minions](https://github.com/HazyResearch/minions) - Local-Remote Communication Protocol
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper
 - [browser-use/web-ui](https://github.com/browser-use/web-ui) - Run AI Agent in your browser.
