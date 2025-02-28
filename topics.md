@@ -882,7 +882,7 @@
 ## jekyll 
 
 - [alshedivat/al-folio](https://github.com/alshedivat/al-folio) - A beautiful, simple, clean, and responsive Jekyll theme for academics
-- [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template for personal, portfolio-based websites; forked from mmistakes/minimal-mistakes
+- [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.
 - [sergiokopplin/indigo](https://github.com/sergiokopplin/indigo) - Minimalist Jekyll Template, dark and light themes
 
 ## jekyll-theme 
@@ -1137,6 +1137,7 @@
 - [vim-pandoc/vim-pandoc](https://github.com/vim-pandoc/vim-pandoc) - pandoc integration and utilities for vim
 - [mwouts/jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
 - [yixuan/prettydoc](https://github.com/yixuan/prettydoc) - Creating Pretty HTML From R Markdown
+- [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.
 - [yihui/xaringan](https://github.com/yihui/xaringan) - Presentation Ninja 幻灯忍者 · 写轮眼
 - [eddelbuettel/binb](https://github.com/eddelbuettel/binb) - Binb is not Beamer
 - [preservim/vim-pencil](https://github.com/preservim/vim-pencil) - Rethinking Vim as a tool for writing
@@ -1322,7 +1323,7 @@
 ## others 
 
 - [convergence-ai/proxy-lite](https://github.com/convergence-ai/proxy-lite) - A mini, open-weights, version of our Proxy assistant.
-- [HazyResearch/minions](https://github.com/HazyResearch/minions) - Local-Remote Communication Protocol
+- [HazyResearch/minions](https://github.com/HazyResearch/minions) - Big & Small LLMs working together
 - [antfu/vscode-browse-lite](https://github.com/antfu/vscode-browse-lite) - 🚀 An embedded browser in VS Code
 - [microsoft/data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Create rich visualizations with AI
 - [kosukeimai/experiment](https://github.com/kosukeimai/experiment) - R package experiment
@@ -1332,7 +1333,7 @@
 - [agentica-project/deepscaler](https://github.com/agentica-project/deepscaler) - Democratizing Reinforcement Learning for LLMs
 - [theAbdoSabbagh/DeeperSeek](https://github.com/theAbdoSabbagh/DeeperSeek) - An unofficial Python wrapper for DeepSeek API
 - [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents. Agents write python code to call tools and orchestrate other agents.
-- [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - 
+- [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - Integrate the DeepSeek API into popular softwares
 - [li-xinran/RIQITE](https://github.com/li-xinran/RIQITE) - 
 - [grantmcdermott/ritest](https://github.com/grantmcdermott/ritest) - Randomization Inference on R model objects
 - [langchain-ai/ollama-deep-researcher](https://github.com/langchain-ai/ollama-deep-researcher) - Fully local web research and report writing assistant
