@@ -897,7 +897,7 @@
 - [jrnold/qss-tidy](https://github.com/jrnold/qss-tidy) - tidyverse code for QSS
 - [kosukeimai/qss](https://github.com/kosukeimai/qss) - Supplementary Materials for ``Quantitative Social Science: An Introduction''
 - [kosukeimai/qss-swirl](https://github.com/kosukeimai/qss-swirl) - Swirl Lessons for ``Quantitative Social Science: An Introduction''
-- [briatte/dsr](https://github.com/briatte/dsr) - Introduction to Data Science with R (Sciences Po, Paris, 2023)
+- [briatte/dsr](https://github.com/briatte/dsr) - Introduction to Data Science with R
 - [benmarwick/wordcountaddin](https://github.com/benmarwick/wordcountaddin) - Word counts and readability statistics in R markdown documents
 - [daattali/addinslist](https://github.com/daattali/addinslist) - 📜 Discover and install useful RStudio addins
 - [ropensci/tabulapdf](https://github.com/ropensci/tabulapdf) - Bindings for Tabula PDF Table Extractor Library
