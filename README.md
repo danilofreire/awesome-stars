@@ -180,6 +180,7 @@
 - [pols1600/pols1600.github.io](https://github.com/pols1600/pols1600.github.io) - Course repository for POLS 1600 - Political Research Methods (Brown University)
 - [STAT545-UBC/STAT545-UBC-original-website](https://github.com/STAT545-UBC/STAT545-UBC-original-website) - ⚠️ Old repository for website of STAT 545 @ University of British Columbia
 - [rfordatascience/tidytuesday](https://github.com/rfordatascience/tidytuesday) - Official repo for the #tidytuesday project
+- [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.
 - [stephens999/fiveMinuteStats](https://github.com/stephens999/fiveMinuteStats) - A repo of short "vignettes" illustrating statistical concepts
 - [asadoughi/stat-learning](https://github.com/asadoughi/stat-learning) - Notes and exercise attempts for "An Introduction to Statistical Learning"
 - [tjmahr/MadR_RStanARM](https://github.com/tjmahr/MadR_RStanARM) - Slides and materials for my talk to the Madison R Users Group (September 21st, 2016)
@@ -230,6 +231,7 @@
 
 ## JavaScript 
 
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, and more.
 - [RamiKrispin/vscode-python-template](https://github.com/RamiKrispin/vscode-python-template) - A template for a dockerized Python development environment for VScode
@@ -262,7 +264,6 @@
 - [nordtheme/iterm2](https://github.com/nordtheme/iterm2) - An arctic, north-bluish clean and elegant iTerm2 color scheme.
 - [jasdumas/gramr](https://github.com/jasdumas/gramr) - RStudio Addin, function, & shiny app for the write-good linter  :pencil:
 - [burlesco/burlesco](https://github.com/burlesco/burlesco) - Leia notícias sem ser assinante, burle o paywall (WebExtension)
-- [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [marcotcr/lime](https://github.com/marcotcr/lime) - Lime: Explaining the predictions of any machine learning classifier
 - [facebookarchive/planout](https://github.com/facebookarchive/planout) - PlanOut is a library and interpreter for designing online experiments.
@@ -282,6 +283,7 @@
 
 ## Jupyter Notebook 
 
+- [tddg/ds5110-cs5501-spring24](https://github.com/tddg/ds5110-cs5501-spring24) - 
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [microsoft/OmniParser](https://github.com/microsoft/OmniParser) - A simple screen parsing tool towards pure vision based GUI agent
 - [microsoft/FLAML](https://github.com/microsoft/FLAML) - A fast library for AutoML and tuning. Join our Discord: https://discord.gg/Cppx2vSPVP.
