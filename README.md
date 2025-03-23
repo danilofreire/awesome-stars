@@ -143,6 +143,7 @@
 - [dirkschumacher/encryptedRmd](https://github.com/dirkschumacher/encryptedRmd) - 🔑 Password protected markdown html reports in R using libsodium
 - [facebookresearch/fastText](https://github.com/facebookresearch/fastText) - Library for fast text representation and classification.
 - [NickCH-K/CausalitySlides](https://github.com/NickCH-K/CausalitySlides) - Slides for the Seattle University Causal Inference Class
+- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [worldbank/dime-r-training](https://github.com/worldbank/dime-r-training) - Dime Analytics R Training
 - [bcallaway11/did](https://github.com/bcallaway11/did) - Difference in Differences with Multiple Periods, website: https://bcallaway11.github.io/did
 - [EagerAI/fastai](https://github.com/EagerAI/fastai) - R interface to fast.ai
@@ -411,7 +412,6 @@
 - [ArthurSpirling/text-as-data-class-spring2021](https://github.com/ArthurSpirling/text-as-data-class-spring2021) - Lectures and "flipped session" materials from my NYU DS "Text as Data" course, spring 2021
 - [rebecca-vickery/data-science-learning-resources](https://github.com/rebecca-vickery/data-science-learning-resources) - A comprehensive list of free resources for learning data science
 - [causaltext/causal-text-papers](https://github.com/causaltext/causal-text-papers) - Curated research at the intersection of causal inference and natural language processing.
-- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [rstudio-education/r4ds-instructors](https://github.com/rstudio-education/r4ds-instructors) - Instructors' Guide to accompany "R for Data Science"
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
@@ -487,6 +487,9 @@
 
 ## Python 
 
+- [browser-use/macOS-use](https://github.com/browser-use/macOS-use) - Make Mac apps accessible for AI agents
+- [ggozad/oterm](https://github.com/ggozad/oterm) - a text-based terminal client for Ollama
+- [mindverse/Second-Me](https://github.com/mindverse/Second-Me) - Train your AI self, amplify you, bridge the world
 - [camel-ai/owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
 - [mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
 - [convergence-ai/proxy-lite](https://github.com/convergence-ai/proxy-lite) - A mini, open-weights, version of our Proxy assistant.
