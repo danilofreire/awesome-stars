@@ -284,6 +284,7 @@
 
 ## Jupyter Notebook 
 
+- [nlapier2/PySensemakr](https://github.com/nlapier2/PySensemakr) - Python implementation of the original R sensemakr package: https://github.com/carloscinelli/sensemakr
 - [tddg/ds5110-cs5501-spring24](https://github.com/tddg/ds5110-cs5501-spring24) - 
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [microsoft/OmniParser](https://github.com/microsoft/OmniParser) - A simple screen parsing tool towards pure vision based GUI agent
