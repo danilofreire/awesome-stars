@@ -199,7 +199,7 @@
 - [ropensci/googleLanguageR](https://github.com/ropensci/googleLanguageR) - R client for the Google Translation API, Google Cloud Natural Language API and Google Cloud Speech API
 - [open-review-toolkit/open-review-toolkit](https://github.com/open-review-toolkit/open-review-toolkit) - Open Review Toolkit: Better books, Higher sales, Increased access to knowledge
 - [ropensci/textworkshop17](https://github.com/ropensci/textworkshop17) - Text Workshop at the London School of Economics, April 2017
-- [EricArcher/rfPermute](https://github.com/EricArcher/rfPermute) - Estimate Permutation p-Values for Random Forest Importance Metrics
+- [SWFSC/rfPermute](https://github.com/SWFSC/rfPermute) - Estimate Permutation p-Values for Random Forest Importance Metrics
 - [caseyyoungflesh/MCMCvis](https://github.com/caseyyoungflesh/MCMCvis) - R package to visualize, manipulate, and summarize MCMC output
 - [jepusto/clubSandwich](https://github.com/jepusto/clubSandwich) - Cluster-robust (sandwich) variance estimators with small-sample corrections
 - [PetoLau/petolau.github.io](https://github.com/PetoLau/petolau.github.io) - Blog about time series data mining in R.
@@ -500,7 +500,7 @@
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using AI, Reader LLMs, to compare and rank resumes with job descriptions.
 - [agentica-project/deepscaler](https://github.com/agentica-project/deepscaler) - Democratizing Reinforcement Learning for LLMs
 - [theAbdoSabbagh/DeeperSeek](https://github.com/theAbdoSabbagh/DeeperSeek) - An unofficial Python wrapper for DeepSeek API
-- [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents. Agents write python code to call tools and orchestrate other agents.
+- [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in python code.
 - [langchain-ai/local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher) - Fully local web research and report writing assistant
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 - [Doriandarko/RAT-retrieval-augmented-thinking](https://github.com/Doriandarko/RAT-retrieval-augmented-thinking) - RAT is a powerful tool that improves AI responses by leveraging DeepSeek's reasoning capabilities to guide other models through a structured thinking process.
