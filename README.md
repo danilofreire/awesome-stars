@@ -34,6 +34,7 @@
 - [Rust](#rust)
 - [SCSS](#scss)
 - [Scala](#scala)
+- [Scheme](#scheme)
 - [Shell](#shell)
 - [Spline Font Database](#spline-font-database)
 - [Stan](#stan)
@@ -1006,6 +1007,10 @@
 ## Scala 
 
 - [NetLogo/models](https://github.com/NetLogo/models) - NetLogo Models Library
+
+## Scheme 
+
+- [Mixtape-Sessions/Heterogeneous-Effects](https://github.com/Mixtape-Sessions/Heterogeneous-Effects) - Machine Learning and Heterogeneous Effects taught by Brigham Frandsen
 
 ## Shell 
 
