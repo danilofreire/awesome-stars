@@ -1102,7 +1102,7 @@
 - [eric-pedersen/mixed-effect-gams](https://github.com/eric-pedersen/mixed-effect-gams) - Repo for tutorial/paper on mixed-effect GAMs
 - [danilofreire/kcl-thesis-template-markdown](https://github.com/danilofreire/kcl-thesis-template-markdown) - King's College London - Thesis Template in Markdown
 - [danilofreire/homicides-sp-synth](https://github.com/danilofreire/homicides-sp-synth) - Replication materials for the paper "Evaluating the Effect of Homicide Prevention Strategies in São Paulo, Brazil: A Synthetic Control Approach" (2016)
-- [dgrtwo/tidy-text-mining](https://github.com/dgrtwo/tidy-text-mining) - Manuscript of the book "Tidy Text Mining with R" by Julia Silge and David Robinson
+- [juliasilge/tidy-text-mining](https://github.com/juliasilge/tidy-text-mining) - Manuscript of the book "Tidy Text Mining with R" by Julia Silge and David Robinson
 - [Robinlovelace/Creating-maps-in-R](https://github.com/Robinlovelace/Creating-maps-in-R) - Introductory tutorial on graphical display of geographical information in R.
 - [flinder/text_analysis_syllabus](https://github.com/flinder/text_analysis_syllabus) - An open community syllabus for quantitative text analysis
 - [wzchen/probability_cheatsheet](https://github.com/wzchen/probability_cheatsheet) - A comprehensive 10-page probability cheatsheet that covers a semester's worth of introduction to probability.
