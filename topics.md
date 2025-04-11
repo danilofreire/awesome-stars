@@ -45,6 +45,7 @@
 - [deep-learning](#deep-learning)
 - [deployment](#deployment)
 - [design](#design)
+- [development](#development)
 - [devops](#devops)
 - [docker](#docker)
 - [documentation](#documentation)
@@ -663,6 +664,11 @@
 
 - [tachyons-css/tachyons](https://github.com/tachyons-css/tachyons) - Functional css for humans
 - [DeclareDesign/DeclareDesign](https://github.com/DeclareDesign/DeclareDesign) - DeclareDesign: Declare and Diagnose Research Designs
+
+## development 
+
+- [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
 ## devops 
 
