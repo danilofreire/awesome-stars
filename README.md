@@ -262,7 +262,6 @@
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [tidyverse/datascience-box](https://github.com/tidyverse/datascience-box) - Data Science Course in a Box
 - [cis-ds/course-site](https://github.com/cis-ds/course-site) - Course site for Computing for Information Science (INFO 5940)
-- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [nordtheme/iterm2](https://github.com/nordtheme/iterm2) - An arctic, north-bluish clean and elegant iTerm2 color scheme.
 - [jasdumas/gramr](https://github.com/jasdumas/gramr) - RStudio Addin, function, & shiny app for the write-good linter  :pencil:
 - [burlesco/burlesco](https://github.com/burlesco/burlesco) - Leia notícias sem ser assinante, burle o paywall (WebExtension)
@@ -365,6 +364,7 @@
 ## MDX 
 
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
+- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 ## Makefile 
 
