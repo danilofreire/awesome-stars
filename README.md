@@ -62,7 +62,7 @@
 - [dsquintana/corr_meta](https://github.com/dsquintana/corr_meta) - Supplementary script for meta-analysis primer
 - [vdorie/treatSens](https://github.com/vdorie/treatSens) - 
 - [yixuan/showtext](https://github.com/yixuan/showtext) - Using Fonts More Easily in R Graphs
-- [patperry/r-utf8](https://github.com/patperry/r-utf8) - UTF-8 Text Processing (R Package)
+- [krlmlr/r-utf8](https://github.com/krlmlr/r-utf8) - UTF-8 Text Processing (R Package)
 - [insongkim/wfe](https://github.com/insongkim/wfe) - 
 - [susanathey/causalTree](https://github.com/susanathey/causalTree) - Working repository for Causal Tree and extensions
 - [jonls/redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
@@ -513,7 +513,7 @@
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - [thevahidal/jake](https://github.com/thevahidal/jake) - 🚀 Effortlessly create and deploy your own one-link website on GitHub. A free Linktree alternative.
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [facebookresearch/Kats](https://github.com/facebookresearch/Kats) - Kats, a kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics,
 - [mherrmann/helium](https://github.com/mherrmann/helium) - Lighter web automation with Python
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
