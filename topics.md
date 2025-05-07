@@ -912,6 +912,7 @@
 
 - [alshedivat/al-folio](https://github.com/alshedivat/al-folio) - A beautiful, simple, clean, and responsive Jekyll theme for academics
 - [svmiller/course-website](https://github.com/svmiller/course-website) - This is a Jekyll template, patterned off my main Jekyll template, for organizing a course website and hosting it on Github.
+- [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.
 
 ## jquery 
 
