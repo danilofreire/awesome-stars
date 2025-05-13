@@ -489,6 +489,7 @@
 
 ## Python 
 
+- [going-doer/Paper2Code](https://github.com/going-doer/Paper2Code) - Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning
 - [dmolitor/adaptive-infra](https://github.com/dmolitor/adaptive-infra) - Infrastructure for adaptive learning with surveys and experiments.
 - [browser-use/macOS-use](https://github.com/browser-use/macOS-use) - Make Mac apps accessible for AI agents
 - [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for Ollama
@@ -1127,7 +1128,7 @@
 - [RooVetGit/Roo-Code](https://github.com/RooVetGit/Roo-Code) - Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor.
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 - [yy0931/sqlite3-editor](https://github.com/yy0931/sqlite3-editor) - 
-- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [cmoog/vscode-sql-notebook](https://github.com/cmoog/vscode-sql-notebook) - Open SQL files as VSCode Notebooks.
 - [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡
 - [meltylabs/melty](https://github.com/meltylabs/melty) - Chat first code editor. To download the packaged app:
