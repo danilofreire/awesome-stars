@@ -1380,7 +1380,7 @@
 - [microsoft/OmniParser](https://github.com/microsoft/OmniParser) - A simple screen parsing tool towards pure vision based GUI agent
 - [agentica-project/rllm](https://github.com/agentica-project/rllm) - Democratizing Reinforcement Learning for LLMs
 - [theAbdoSabbagh/DeeperSeek](https://github.com/theAbdoSabbagh/DeeperSeek) - An unofficial Python wrapper for DeepSeek API
-- [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in python code.
+- [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in code.
 - [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - Integrate the DeepSeek API into popular softwares
 - [li-xinran/RIQITE](https://github.com/li-xinran/RIQITE) - 
 - [grantmcdermott/ritest](https://github.com/grantmcdermott/ritest) - Randomization Inference on R model objects
