@@ -63,7 +63,7 @@
 - [dsquintana/corr_meta](https://github.com/dsquintana/corr_meta) - Supplementary script for meta-analysis primer
 - [vdorie/treatSens](https://github.com/vdorie/treatSens) - 
 - [yixuan/showtext](https://github.com/yixuan/showtext) - Using Fonts More Easily in R Graphs
-- [krlmlr/r-utf8](https://github.com/krlmlr/r-utf8) - UTF-8 Text Processing (R Package)
+- [krlmlr/utf8](https://github.com/krlmlr/utf8) - UTF-8 Text Processing (R Package)
 - [insongkim/wfe](https://github.com/insongkim/wfe) - 
 - [susanathey/causalTree](https://github.com/susanathey/causalTree) - Working repository for Causal Tree and extensions
 - [jonls/redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
