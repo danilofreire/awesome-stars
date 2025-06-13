@@ -140,6 +140,7 @@
 - [alshedivat/al-folio](https://github.com/alshedivat/al-folio) - A beautiful, simple, clean, and responsive Jekyll theme for academics
 - [danilofreire/rmarkdown-templates](https://github.com/danilofreire/rmarkdown-templates) - A collection of personal templates for RMarkdown
 - [khlee88/multi_armed_bandit_tutorial](https://github.com/khlee88/multi_armed_bandit_tutorial) - Multi Armed Bandit python code implementation
+- [fdhidalgo/geocode_br_polling_stations](https://github.com/fdhidalgo/geocode_br_polling_stations) - Geocoding Brazilian Polling Stations with Administrative Data Sets
 - [esoclabprinceton/ESOC-Predoc-Training](https://github.com/esoclabprinceton/ESOC-Predoc-Training) - This 10-week training program is designed to prepare incoming pre-doctoral research fellows at the Princeton Empirical Studies of Conflict (ESOC) lab with the skills needed to support faculty research
 - [danieldanielecki/IT-ARMY-of-Ukraine-Resources-in-English](https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Resources-in-English) - 
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
@@ -697,7 +698,6 @@
 - [Hemken/Statamarkdown](https://github.com/Hemken/Statamarkdown) - Functions to write Stata documentation with knitr
 - [farach/huggingfaceR](https://github.com/farach/huggingfaceR) - Hugging Face state-of-the-art models in R
 - [BenWiseman/sentiment.ai](https://github.com/BenWiseman/sentiment.ai) - Package for using deep learning models (from tf hub) for easy sentiment analysis
-- [fdhidalgo/geocode_br_polling_stations](https://github.com/fdhidalgo/geocode_br_polling_stations) - Geocoding Brazilian Polling Stations with Administrative Data Sets
 - [a-hanf/mlr3automl](https://github.com/a-hanf/mlr3automl) - Automated machine learning in mlr3
 - [malcolmbarrett/dagtex](https://github.com/malcolmbarrett/dagtex) - lightly opinionated LaTeX DAGs in R
 - [naoki-egami/factorEx](https://github.com/naoki-egami/factorEx) - R package factorEx: Design and Analysis for Factorial Experiments
