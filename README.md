@@ -248,7 +248,7 @@
 - [astefanutti/decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations
 - [danilofreire/ims](https://github.com/danilofreire/ims) - 📚 Introduction to Modern Statistics - A college-level open-source textbook with a modern approach highlighting multivariable relationships and simulation-based inference. For v1, see https://openintro
 - [Poucous/smartReader](https://github.com/Poucous/smartReader) - Firefox and Chrome Extension for Smart Reading - Bionic Reader
-- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [ChatGPTBox-dev/chatGPTBox](https://github.com/ChatGPTBox-dev/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 - [caesarHQ/textSQL](https://github.com/caesarHQ/textSQL) - 
 - [cesarhuret/docGPT](https://github.com/cesarhuret/docGPT) - ChatGPT directly within Google Docs as an Editor Add-on 📑
