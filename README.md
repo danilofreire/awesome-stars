@@ -137,7 +137,6 @@
 - [Martinomagnifico/quarto-multimodal](https://github.com/Martinomagnifico/quarto-multimodal) - A plugin for Reveal.js to show content like images, video and HTML in modal windows or lightboxes.
 - [umbertomig/qtm151](https://github.com/umbertomig/qtm151) - 
 - [danilofreire/quarto-presentation](https://github.com/danilofreire/quarto-presentation) - A fork of the beautiful Quarto Clean presentation theme
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [alshedivat/al-folio](https://github.com/alshedivat/al-folio) - A beautiful, simple, clean, and responsive Jekyll theme for academics
 - [danilofreire/rmarkdown-templates](https://github.com/danilofreire/rmarkdown-templates) - A collection of personal templates for RMarkdown
 - [khlee88/multi_armed_bandit_tutorial](https://github.com/khlee88/multi_armed_bandit_tutorial) - Multi Armed Bandit python code implementation
@@ -252,6 +251,7 @@
 - [ChatGPTBox-dev/chatGPTBox](https://github.com/ChatGPTBox-dev/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 - [caesarHQ/textSQL](https://github.com/caesarHQ/textSQL) - 
 - [cesarhuret/docGPT](https://github.com/cesarhuret/docGPT) - ChatGPT directly within Google Docs as an Editor Add-on 📑
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [roperzh/tachyons-cheatsheet](https://github.com/roperzh/tachyons-cheatsheet) - Interactive cheat sheet for Tachyons :memo:
 - [egap/learningdays-resources](https://github.com/egap/learningdays-resources) - A repository for slides and other resources (like images and other documents).
@@ -287,6 +287,8 @@
 
 ## Jupyter Notebook 
 
+- [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) - This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-w
+- [dlab-berkeley/Python-GPT-Fundamentals](https://github.com/dlab-berkeley/Python-GPT-Fundamentals) - D-Lab's 2-hour introduction to Generative Pretrained Transformers (GPT) for beginners. Learn about text encoding, word embeddings, and the transformer architecture upon which GPT is based. Create text
 - [nlapier2/PySensemakr](https://github.com/nlapier2/PySensemakr) - Python implementation of the original R sensemakr package: https://github.com/carloscinelli/sensemakr
 - [tddg/ds5110-cs5501-spring24](https://github.com/tddg/ds5110-cs5501-spring24) - 
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
@@ -494,7 +496,7 @@
 
 ## Python 
 
-- [soodoku/endorsement](https://github.com/soodoku/endorsement) - Derive Proportion Supporting A Group From an Endorsement Experiment
+- [finite-sample/endorsement](https://github.com/finite-sample/endorsement) - Derive Proportion Supporting A Group From an Endorsement Experiment
 - [lmstudio-ai/lmstudio-python](https://github.com/lmstudio-ai/lmstudio-python) - LM Studio Python SDK
 - [Paper2Poster/Paper2Poster](https://github.com/Paper2Poster/Paper2Poster) - Open-source Multi-agent Poster Generation from Papers
 - [browser-use/vibetest-use](https://github.com/browser-use/vibetest-use) - Vibetest MCP - automated QA testing using Browser-Use agents
