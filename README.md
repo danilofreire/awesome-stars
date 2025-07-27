@@ -463,7 +463,7 @@
 - [ceciliadolago/distritos_policiais-sp](https://github.com/ceciliadolago/distritos_policiais-sp) - 
 - [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [Kyubyong/nlp_tasks](https://github.com/Kyubyong/nlp_tasks) - Natural Language Processing Tasks and References
-- [zee-shan-ahmad/learn-regex](https://github.com/zee-shan-ahmad/learn-regex) - Learn regex the easy way
+- [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [juliohm/awesome-brazil-data](https://github.com/juliohm/awesome-brazil-data) - Curated list of Brazilian datasets for anyone interested in studying the country.
 - [swcarpentry/git-novice](https://github.com/swcarpentry/git-novice) - Version Control with Git
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
