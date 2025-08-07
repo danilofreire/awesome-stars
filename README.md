@@ -70,7 +70,6 @@
 
 ## C++ 
 
-- [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [aschinchon/abstractions](https://github.com/aschinchon/abstractions) - An experiment to build abstract drawings with #Rstats and physarum model
@@ -1156,7 +1155,7 @@
 - [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡
 - [meltylabs/melty](https://github.com/meltylabs/melty) - Chat first code editor. To download the packaged app:
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
-- [pnd280/complexity](https://github.com/pnd280/complexity) - ⚡ Supercharge your favourite AI Chat web apps
+- [pnd280/complexity](https://github.com/pnd280/complexity) - ⚡ Supercharge your favourite AI Chat web apps. Currently supports Perplexity AI.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [r-wasm/quarto-drop](https://github.com/r-wasm/quarto-drop) - Drop down an interactive R or Python console, code editor, and plotting window from the top of your Quarto slides.
