@@ -1224,7 +1224,7 @@
 - [kassio/neoterm](https://github.com/kassio/neoterm) - Wrapper of some vim/neovim's :terminal functions.
 - [kaicataldo/material.vim](https://github.com/kaicataldo/material.vim) - 🎨 A port of the Material color scheme for Vim/Neovim
 - [hzchirs/vim-material](https://github.com/hzchirs/vim-material) - 🧩 Visual Studio Code Material Theme port for Vim/Neovim
-- [jalvesaq/Nvim-R](https://github.com/jalvesaq/Nvim-R) - Vim plugin to work with R
+- [jalvesaq/Vim-R](https://github.com/jalvesaq/Vim-R) - Vim plugin to work with R
 - [danilo-augusto/vim-afterglow](https://github.com/danilo-augusto/vim-afterglow) - Vim adaptation of the Afterglow colorscheme
 - [rainglow/vim](https://github.com/rainglow/vim) - 320+ color themes for VIM.
 - [drewtempelmeyer/palenight.vim](https://github.com/drewtempelmeyer/palenight.vim) - Soothing color scheme for your favorite [best] text editor
