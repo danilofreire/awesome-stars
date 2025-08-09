@@ -1668,7 +1668,7 @@
 - [danilofreire/pols1824w](https://github.com/danilofreire/pols1824w) - Course materials for "Political Violence", Brown University, Fall 2019
 - [kjhealy/pandoc-templates](https://github.com/kjhealy/pandoc-templates) - Some templates for Pandoc.
 - [mmarouen/The-Elements-Of-Statistical-Learning](https://github.com/mmarouen/The-Elements-Of-Statistical-Learning) - This repository contains R code for exercices and plots in the famous book.
-- [jalvesaq/Nvim-R](https://github.com/jalvesaq/Nvim-R) - Vim plugin to work with R
+- [jalvesaq/Vim-R](https://github.com/jalvesaq/Vim-R) - Vim plugin to work with R
 - [urbanSpatial/classifying_satellite_imagery_in_R](https://github.com/urbanSpatial/classifying_satellite_imagery_in_R) - 
 - [tidyverse/multidplyr](https://github.com/tidyverse/multidplyr) - A dplyr backend that partitions a data frame over multiple processes
 - [matloff/polyreg](https://github.com/matloff/polyreg) - 
