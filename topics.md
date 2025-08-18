@@ -34,6 +34,7 @@
 - [computer-vision](#computer-vision)
 - [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
+- [crawler](#crawler)
 - [csharp](#csharp)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
@@ -461,6 +462,11 @@
 
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
+
+## crawler 
+
+- [guilhermecgs/ir](https://github.com/guilhermecgs/ir) - Projeto de calculo de Imposto de Renda em operacoes na bovespa automaticamente. Tags:canal eletronico do investidor, CEI, selenium, bovespa, IRPF, IR, imposto de renda, finance, yahoo finance, acao, f
+- [salimk/Rcrawler](https://github.com/salimk/Rcrawler) - An R web crawler and scraper
 
 ## csharp 
 
@@ -1012,7 +1018,7 @@
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-- [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
+- [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
 - [you-dont-need/You-Dont-Need-GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) - Stop relying on GUI; CLI **ROCKS**
 - [chromebrew/chromebrew](https://github.com/chromebrew/chromebrew) - Package manager for Chrome OS
 - [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment (EOL)
@@ -1187,7 +1193,7 @@
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [hnarayanan/shpotify](https://github.com/hnarayanan/shpotify) - A command-line interface to Spotify.
-- [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
+- [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
 - [you-dont-need/You-Dont-Need-GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) - Stop relying on GUI; CLI **ROCKS**
 - [bitgapp/eqMac](https://github.com/bitgapp/eqMac) - macOS  System-wide Audio Equalizer & Volume Mixer  🎧
@@ -1967,7 +1973,7 @@
 ## productivity 
 
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
-- [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
+- [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 
@@ -2326,7 +2332,7 @@
 - [chaqchase/lla](https://github.com/chaqchase/lla) - blazing fast `ls` replacement with superpowers
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - GitQL is a extensible SQL-like query language and SDK to perform queries on various data sources such .git files with supports of most of SQL features such as grouping, ordering and aggregation and wi
-- [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
+- [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
 - [BayesWitnesses/m2cgen](https://github.com/BayesWitnesses/m2cgen) - Transform ML models into a native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart, Haskell, Ruby, F#, Rust) with zero dependencies
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
@@ -2586,7 +2592,7 @@
 
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
-- [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
+- [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
 
 ## zig 
 
