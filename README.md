@@ -143,7 +143,6 @@
 - [khlee88/multi_armed_bandit_tutorial](https://github.com/khlee88/multi_armed_bandit_tutorial) - Multi Armed Bandit python code implementation
 - [esoclabprinceton/ESOC-Predoc-Training](https://github.com/esoclabprinceton/ESOC-Predoc-Training) - This 10-week training program is designed to prepare incoming pre-doctoral research fellows at the Princeton Empirical Studies of Conflict (ESOC) lab with the skills needed to support faculty research
 - [danieldanielecki/IT-ARMY-of-Ukraine-Resources-in-English](https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Resources-in-English) - 
-- [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [egap/methods-guides](https://github.com/egap/methods-guides) - EGAP methods guides
 - [dirkschumacher/encryptedRmd](https://github.com/dirkschumacher/encryptedRmd) - 🔑 Password protected markdown html reports in R using libsodium
 - [facebookresearch/fastText](https://github.com/facebookresearch/fastText) - Library for fast text representation and classification.
@@ -314,6 +313,7 @@
 - [hrnbot/Basic-Mathematics-for-Machine-Learning](https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning) - The motive behind Creating this repo is to feel the fear of mathematics and do what ever you want to do in Machine Learning , Deep Learning  and other fields of AI
 - [wesm/pydata-book](https://github.com/wesm/pydata-book) - Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
 - [py-why/causaltune](https://github.com/py-why/causaltune) - AutoML for causal inference.
+- [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [khanhnamle1994/cracking-the-data-science-interview](https://github.com/khanhnamle1994/cracking-the-data-science-interview) - A Collection of Cheatsheets, Books, Questions, and Portfolio For DS/ML Interview Prep
 - [facebookexperimental/Robyn](https://github.com/facebookexperimental/Robyn) - Robyn is an experimental, AI/ML-powered and open sourced Marketing Mix Modeling (MMM) package from Meta Marketing Science. Our mission is to democratise modeling knowledge, inspire the industry throug
 - [matheusfacure/python-causality-handbook](https://github.com/matheusfacure/python-causality-handbook) - Causal Inference for the Brave and True. A light-hearted yet rigorous approach to learning about impact estimation and causality.
