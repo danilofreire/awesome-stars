@@ -19,6 +19,7 @@
 - [aws](#aws)
 - [azure](#azure)
 - [bash](#bash)
+- [beginner-project](#beginner-project)
 - [bootstrap](#bootstrap)
 - [bot](#bot)
 - [c](#c)
@@ -349,6 +350,10 @@
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [nordtheme/iterm2](https://github.com/nordtheme/iterm2) - An arctic, north-bluish clean and elegant iTerm2 color scheme.
+
+## beginner-project 
+
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 
 ## bootstrap 
 
@@ -1378,7 +1383,6 @@
 ## openai 
 
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
@@ -1404,7 +1408,7 @@
 ## others 
 
 - [RayBytes/ChatMock](https://github.com/RayBytes/ChatMock) - Access OpenAI models programmatically through your ChatGPT subscription.
-- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - qwen-code is a coding agent that lives in digital world.
+- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - Qwen Code is a coding agent that lives in the digital world.
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - BrowserOS is an open-source agentic web browser.
 - [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
@@ -2003,7 +2007,7 @@
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [nalgeon/sqlean.py](https://github.com/nalgeon/sqlean.py) - Python's sqlite3 + extensions
 - [mherrmann/helium](https://github.com/mherrmann/helium) - Lighter web automation with Python
-- [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
 - [RamiKrispin/vscode-python-template](https://github.com/RamiKrispin/vscode-python-template) - A template for a dockerized Python development environment for VScode
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [NirDiamant/Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering) - This repository offers a comprehensive collection of tutorials and implementations for Prompt Engineering techniques, ranging from fundamental concepts to advanced strategies. It serves as an essentia
@@ -2332,7 +2336,7 @@
 ## rust 
 
 - [chaqchase/lla](https://github.com/chaqchase/lla) - blazing fast `ls` replacement with superpowers
-- [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
 - [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - GitQL is a extensible SQL-like query language and SDK to perform queries on various data sources such .git files with supports of most of SQL features such as grouping, ordering and aggregation and wi
 - [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
 - [BayesWitnesses/m2cgen](https://github.com/BayesWitnesses/m2cgen) - Transform ML models into a native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart, Haskell, Ruby, F#, Rust) with zero dependencies
@@ -2579,7 +2583,6 @@
 ## web 
 
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-- [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 
 ## webapp 
 
