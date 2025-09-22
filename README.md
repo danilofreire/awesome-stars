@@ -1134,7 +1134,7 @@
 
 ## TypeScript 
 
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - CWC connects VS Code with free chatbots like ChatGPT, Gemini or Claude. Saves you money and time.
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - CWC connects VS Code with ChatGPT, Gemini, DeepSeek, and 10+ other free chatbots. Saves you money and time.
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - Qwen Code is a coding agent that lives in the digital world.
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - BrowserOS is an open-source agentic web browser.
 - [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
