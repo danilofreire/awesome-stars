@@ -808,7 +808,7 @@
 - [FK83/scoringRules](https://github.com/FK83/scoringRules) - scoring rules to evaluate probabilistic forecasts
 - [dlab-berkeley/R-Deep-Learning](https://github.com/dlab-berkeley/R-Deep-Learning) - Workshop (6 hours): Deep learning in R using Keras. Building & training deep nets, image classification, transfer learning, text analysis, visualization
 - [rstudio/gt](https://github.com/rstudio/gt) - Easily generate information-rich, publication-quality tables from R
-- [redoc-dev/redoc](https://github.com/redoc-dev/redoc) - [NOTE: Project in suspended animation for now] Reversible Reproducible Documents
+- [redoc-dev/redoc](https://github.com/redoc-dev/redoc) - Reversible Reproducible Documents
 - [alexpghayes/safepredict](https://github.com/alexpghayes/safepredict) - Consistent prediction following tidymodels principles
 - [ebenmichael/augsynth](https://github.com/ebenmichael/augsynth) - Augmented Synthetic Control Method
 - [mca91/EconometricsWithR](https://github.com/mca91/EconometricsWithR) - 📖An interactive companion to the well-received textbook 'Introduction to Econometrics' by Stock & Watson (2015)
