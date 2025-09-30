@@ -70,7 +70,7 @@
 
 ## C++ 
 
-- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - BrowserOS is an open-source agentic web browser.
+- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; privacy-first alternative to Perplexity Comet, Arc, Dia
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [aschinchon/abstractions](https://github.com/aschinchon/abstractions) - An experiment to build abstract drawings with #Rstats and physarum model
