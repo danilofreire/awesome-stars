@@ -187,7 +187,7 @@
 ## ai 
 
 - [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - A list of free LLM inference resources accessible via API.
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Non-agentic AI coding in free chatbots for VS Code, Cursor and Windsurf.
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - AI coding in free chatbots for VS Code, Cursor and Windsurf.
 - [RayBytes/ChatMock](https://github.com/RayBytes/ChatMock) - Access OpenAI models programmatically through your ChatGPT subscription.
 - [ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp) - A Model Context Protocol server that executes commands in the current iTerm session - useful for REPL and CLI assistance
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
@@ -397,7 +397,7 @@
 
 ## chatgpt 
 
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Non-agentic AI coding in free chatbots for VS Code, Cursor and Windsurf.
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - AI coding in free chatbots for VS Code, Cursor and Windsurf.
 - [RayBytes/ChatMock](https://github.com/RayBytes/ChatMock) - Access OpenAI models programmatically through your ChatGPT subscription.
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
 - [voideditor/void](https://github.com/voideditor/void) - 
@@ -603,7 +603,7 @@
 - [catboost/catboost](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computa
 - [ropensci/drake](https://github.com/ropensci/drake) - An R-focused pipeline toolkit for reproducibility and high-performance computing
 - [py-why/dowhy](https://github.com/py-why/dowhy) - DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical 
-- [ModelOriented/DALEX](https://github.com/ModelOriented/DALEX) - moDel Agnostic Language for Exploration and eXplanation
+- [ModelOriented/DALEX](https://github.com/ModelOriented/DALEX) - moDel Agnostic Language for Exploration and eXplanation (JMLR 2018; JMLR 2021)
 - [tlverse/sl3](https://github.com/tlverse/sl3) - 💪 🤔 Modern Super Learning with Machine Learning Pipelines
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [okfn-brasil/serenata-de-amor](https://github.com/okfn-brasil/serenata-de-amor) - 🕵 Artificial Intelligence for social control of public administration | **This repository does not receive frequent updates. Check out the README**
@@ -1198,7 +1198,7 @@
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
 - [ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - machine learning and deep learning tutorials, articles and other resources
 - [rochelleterman/polisci150b](https://github.com/rochelleterman/polisci150b) - Machine Learning for Social Science
-- [ModelOriented/DALEX](https://github.com/ModelOriented/DALEX) - moDel Agnostic Language for Exploration and eXplanation
+- [ModelOriented/DALEX](https://github.com/ModelOriented/DALEX) - moDel Agnostic Language for Exploration and eXplanation (JMLR 2018; JMLR 2021)
 - [tlverse/sl3](https://github.com/tlverse/sl3) - 💪 🤔 Modern Super Learning with Machine Learning Pipelines
 - [ledell/cvAUC](https://github.com/ledell/cvAUC) - Computationally efficient confidence intervals for cross-validated AUC estimates in R
 - [zmjones/mmpf](https://github.com/zmjones/mmpf) - Monte-Carlo methods for prediction functions
@@ -1438,6 +1438,7 @@
 
 ## others 
 
+- [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) - Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - Qwen Code is a coding agent that lives in the digital world.
 - [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
