@@ -70,7 +70,7 @@
 
 ## C++ 
 
-- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; privacy-first alternative to ChatGPT Atlas, Perplexity Comet, Arc/Dia.
+- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; privacy-first alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [aschinchon/abstractions](https://github.com/aschinchon/abstractions) - An experiment to build abstract drawings with #Rstats and physarum model
@@ -118,6 +118,7 @@
 
 ## Go 
 
+- [bernardo-bruning/ollama-copilot](https://github.com/bernardo-bruning/ollama-copilot) - Proxy that allows you to use ollama as a copilot like Github copilot
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
@@ -692,6 +693,7 @@
 
 ## R 
 
+- [hauselin/ollama-r](https://github.com/hauselin/ollama-r) - R library to run Ollama language models
 - [carloscinelli/dml.sensemakr](https://github.com/carloscinelli/dml.sensemakr) - Sensitivity analysis tools for causal ML
 - [li-xinran/RIQITE](https://github.com/li-xinran/RIQITE) - 
 - [grantmcdermott/ritest](https://github.com/grantmcdermott/ritest) - Randomization Inference on R model objects
@@ -767,7 +769,7 @@
 - [markusdumke/reinforcelearn](https://github.com/markusdumke/reinforcelearn) - R Package for Reinforcement Learning
 - [tmobile/r-tensorflow-api](https://github.com/tmobile/r-tensorflow-api) - A small Docker container for using R and TensorFlow as an enterprise API
 - [ModelOriented/DrWhy](https://github.com/ModelOriented/DrWhy) - DrWhy is the collection of tools for eXplainable AI (XAI). It's based on shared principles and simple grammar for exploration, explanation and visualisation of predictive models.
-- [pridiltal/ctv-AnomalyDetection](https://github.com/pridiltal/ctv-AnomalyDetection) - CRAN Task View: Anomaly Detection with R  🛒🛒🛒🛒🛒🛒🛒🛒🛒🛒🛒🛒🛒🛍️🛒🛒
+- [cran-task-views/AnomalyDetection](https://github.com/cran-task-views/AnomalyDetection) - CRAN Task View: Anomaly Detection
 - [ropensci/charlatan](https://github.com/ropensci/charlatan) - Create fake data in R
 - [jessecambon/tidygeocoder](https://github.com/jessecambon/tidygeocoder) - Geocoding Made Easy
 - [tidymodels/themis](https://github.com/tidymodels/themis) - Extra recipes steps for dealing with unbalanced data
@@ -1139,6 +1141,7 @@
 
 ## TypeScript 
 
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 - [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Unlimited AI coding in free chatbots for VS Code, Cursor and Windsurf.
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - Qwen Code is a coding agent that lives in the digital world.
 - [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
