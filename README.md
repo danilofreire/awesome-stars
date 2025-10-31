@@ -1142,7 +1142,7 @@
 ## TypeScript 
 
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Agent-free AI pair programming for production-grade code. Steer the model with hand-picked context for fast and accurate edits with simple instructions.
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Blazing fast AI pair programming for production-grade code. Select context as you go for pro accuracy and game-changing speed.
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - Qwen Code is a coding agent that lives in the digital world.
 - [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
 - [ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp) - A Model Context Protocol server that executes commands in the current iTerm session - useful for REPL and CLI assistance
