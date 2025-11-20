@@ -187,6 +187,7 @@
 - [rfordatascience/tidytuesday](https://github.com/rfordatascience/tidytuesday) - Official repo for the #tidytuesday project
 - [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.
 - [stephens999/fiveMinuteStats](https://github.com/stephens999/fiveMinuteStats) - A repo of short "vignettes" illustrating statistical concepts
+- [masspastore/overlapping](https://github.com/masspastore/overlapping) - Estimation of Overlapping in Empirical Distributions.
 - [asadoughi/stat-learning](https://github.com/asadoughi/stat-learning) - Notes and exercise attempts for "An Introduction to Statistical Learning"
 - [tjmahr/MadR_RStanARM](https://github.com/tjmahr/MadR_RStanARM) - Slides and materials for my talk to the Madison R Users Group (September 21st, 2016)
 - [acmeyer/Conjoint-for-Qualtrics-Offline](https://github.com/acmeyer/Conjoint-for-Qualtrics-Offline) - Produces conjoint analysis choice tasks for the Qualtrics offline application.
@@ -1116,7 +1117,6 @@
 - [eddelbuettel/binb](https://github.com/eddelbuettel/binb) - Binb is not Beamer
 - [anishathalye/gemini](https://github.com/anishathalye/gemini) - Gemini is a modern LaTex beamerposter theme 🖼
 - [justingrimmer/Math18](https://github.com/justingrimmer/Math18) - Stanford's Math Camp for 2018
-- [masspastore/overlapping](https://github.com/masspastore/overlapping) - Estimation of Overlapping in Empirical Distributions.
 - [neurotroph/Informative-Null-Effects-JCTRES](https://github.com/neurotroph/Informative-Null-Effects-JCTRES) - Manuscript and all scripts related to our article on 'Informative Null Effects'
 - [jacobeisenstein/gt-nlp-class](https://github.com/jacobeisenstein/gt-nlp-class) - Course materials for Georgia Tech CS 4650 and 7650, "Natural Language"
 - [sebastiansauer/yart](https://github.com/sebastiansauer/yart) - RMarkdown Template for writing PDF reports
