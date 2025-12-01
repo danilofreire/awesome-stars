@@ -600,7 +600,7 @@
 - [keyonvafa/tbip](https://github.com/keyonvafa/tbip) - Text-Based Ideal Points
 - [microsoft/nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
 - [backprop-ai/backprop](https://github.com/backprop-ai/backprop) - Backprop makes it simple to use, finetune, and deploy state-of-the-art ML models.
-- [SimonBlanke/Hyperactive](https://github.com/SimonBlanke/Hyperactive) - An optimization and data collection toolbox for convenient and fast prototyping of computationally expensive models.
+- [hyperactive-project/Hyperactive](https://github.com/hyperactive-project/Hyperactive) - An optimization and data collection toolbox for convenient and fast prototyping of computationally expensive models.
 - [uber/causalml](https://github.com/uber/causalml) - Uplift modeling and causal inference with machine learning algorithms
 - [google/model_search](https://github.com/google/model_search) - 
 - [pytorch-tabular/pytorch_tabular](https://github.com/pytorch-tabular/pytorch_tabular) - A standard framework for modelling Deep Learning Models for tabular data
