@@ -325,7 +325,7 @@
 - [collinprather/ISLR-Python](https://github.com/collinprather/ISLR-Python) - Labs and Exercises from "An Introduction to Statistical Learning", implemented in Python.
 - [christophM/interpretable-ml-book](https://github.com/christophM/interpretable-ml-book) - Book about interpretable machine learning
 - [rasbt/python-machine-learning-book-3rd-edition](https://github.com/rasbt/python-machine-learning-book-3rd-edition) - The "Python Machine Learning (3rd edition)" book code repository
-- [altdeep/causalML](https://github.com/altdeep/causalML) - The open source repository for the Causal Modeling in Machine Learning Workshop at Altdeep.ai @ www.altdeep.ai/courses/causalML
+- [altdeep/causalAI](https://github.com/altdeep/causalAI) - The open source repository for the Causal Modeling in Machine Learning Workshop at Altdeep.ai @ www.altdeep.ai/courses/causalAI
 - [rasbt/python_reference](https://github.com/rasbt/python_reference) - Useful functions, tutorials, and other Python-related things
 - [aws-samples/aws-machine-learning-university-accelerated-tab](https://github.com/aws-samples/aws-machine-learning-university-accelerated-tab) - Machine Learning University: Accelerated Tabular Data Class
 - [ipython/ipyparallel](https://github.com/ipython/ipyparallel) - IPython Parallel: Interactive Parallel Computing in Python
