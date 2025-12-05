@@ -149,6 +149,7 @@
 - [pytorch](#pytorch)
 - [quantitative-finance](#quantitative-finance)
 - [r](#r)
+- [rag](#rag)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
 - [reactjs](#reactjs)
@@ -207,7 +208,7 @@
 
 - [hauselin/ollama-r](https://github.com/hauselin/ollama-r) - R library to run Ollama language models
 - [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - A list of free LLM inference resources accessible via API.
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Superfast AI coding for VS Code, Cursor, and others. Free, open-source, and privacy-first.
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Superfast AI coding for VS Code, Cursor, and others. Truly independent, free, open-source, and privacy-first.
 - [RayBytes/ChatMock](https://github.com/RayBytes/ChatMock) - Access OpenAI models programmatically through your ChatGPT subscription.
 - [ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp) - A Model Context Protocol server that executes commands in the current iTerm session - useful for REPL and CLI assistance
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
@@ -2390,6 +2391,16 @@
 - [mlr-org/mlr](https://github.com/mlr-org/mlr) - Machine Learning in R
 - [m-clark/Miscellaneous-R-Code](https://github.com/m-clark/Miscellaneous-R-Code) - Code that might be useful to others for learning/demonstration purposes, specifically along the lines of modeling and various algorithms. **Superseded by the models-by-example repo**.
 - [zmjones/edarf](https://github.com/zmjones/edarf) - exploratory data analysis using random forests
+
+## rag 
+
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
+- [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
+- [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) - Agent Framework For Fintech and Banks
+- [pinecone-io/canopy](https://github.com/pinecone-io/canopy) - Retrieval Augmented Generation (RAG) framework and context engine powered by Pinecone
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 
 ## raspberry-pi 
 
