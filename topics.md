@@ -581,7 +581,7 @@
 - [microsoft/responsible-ai-toolbox](https://github.com/microsoft/responsible-ai-toolbox) - Responsible AI Toolbox is a suite of tools providing model and data exploration and assessment user interfaces and libraries that enable a better understanding of AI systems. These interfaces and libr
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [machow/siuba](https://github.com/machow/siuba) - Python library for using dplyr like syntax with pandas and SQL
-- [SebKrantz/collapse](https://github.com/SebKrantz/collapse) - Advanced and Fast Data Transformation in R
+- [fastverse/collapse](https://github.com/fastverse/collapse) - Advanced and Fast Data Transformation in R
 - [scikit-learn-contrib/imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) - A Python Package to Tackle the Curse of Imbalanced Datasets in Machine Learning
 - [stappit/blog](https://github.com/stappit/blog) - I often post solutions to textbook exercises, including: Bayesian Data Analysis (BDA) by Gelman et al; Causal Inference in Statistics Primer (CISP) by Pearl et al; Purely Functional Data Structures (P
 - [PetoLau/petolau.github.io](https://github.com/PetoLau/petolau.github.io) - Blog about time series data mining in R.
@@ -616,7 +616,7 @@
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [sktime/sktime](https://github.com/sktime/sktime) - A unified framework for machine learning with time series
-- [SebKrantz/collapse](https://github.com/SebKrantz/collapse) - Advanced and Fast Data Transformation in R
+- [fastverse/collapse](https://github.com/fastverse/collapse) - Advanced and Fast Data Transformation in R
 - [iterative/cml](https://github.com/iterative/cml) - ♾️ CML - Continuous Machine Learning | CI/CD for ML
 - [dlab-berkeley/Python-Data-Wrangling-Legacy](https://github.com/dlab-berkeley/Python-Data-Wrangling-Legacy) - D-Lab's 3 hour introduction to data wrangling in Python. Learn how to import and manipulate dataframes using pandas in Python.
 - [dlab-berkeley/R-Fundamentals-Legacy](https://github.com/dlab-berkeley/R-Fundamentals-Legacy) - D-Lab's 12 hour introduction to R Fundamentals. Learn how to create variables and functions, manipulate data frames, make visualizations, use control flow structures, and more, using R in RStudio.
@@ -2249,11 +2249,11 @@
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [dirkschumacher/encryptedRmd](https://github.com/dirkschumacher/encryptedRmd) - 🔑 Password protected markdown html reports in R using libsodium
 - [keyATM/keyATM](https://github.com/keyATM/keyATM) - An R package for Keyword Assisted Topic Models
-- [AdrianAntico/AutoQuant](https://github.com/AdrianAntico/AutoQuant) - R package for automation of machine learning, forecasting, model evaluation, and model interpretation
+- [AdrianAntico/AutoQuant](https://github.com/AdrianAntico/AutoQuant) - Automation framework for machine learning, forecasting, model evaluation, and interpretation.
 - [thomas-neitmann/ggcharts](https://github.com/thomas-neitmann/ggcharts) - Get You to Your Desired Plot Faster
 - [EagerAI/fastai](https://github.com/EagerAI/fastai) - R interface to fast.ai
 - [futureverse/parallelly](https://github.com/futureverse/parallelly) - R package: parallelly - Enhancing the 'parallel' Package
-- [SebKrantz/collapse](https://github.com/SebKrantz/collapse) - Advanced and Fast Data Transformation in R
+- [fastverse/collapse](https://github.com/fastverse/collapse) - Advanced and Fast Data Transformation in R
 - [liao961120/getable](https://github.com/liao961120/getable) - HTML Tables with Dynamic Data in R Markdown
 - [jack-davison/TidyTuesday](https://github.com/jack-davison/TidyTuesday) - 📊 Collection of #TidyTuesday Visualisations! 📈
 - [tidyverse/vroom](https://github.com/tidyverse/vroom) - Fast reading of delimited files
@@ -2543,7 +2543,7 @@
 - [hrnbot/Basic-Mathematics-for-Machine-Learning](https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning) - The motive behind Creating this repo is to feel the fear of mathematics and do what ever you want to do in Machine Learning , Deep Learning  and other fields of AI
 - [khanhnamle1994/cracking-the-data-science-interview](https://github.com/khanhnamle1994/cracking-the-data-science-interview) - A Collection of Cheatsheets, Books, Questions, and Portfolio For DS/ML Interview Prep
 - [egap/methods-guides](https://github.com/egap/methods-guides) - EGAP methods guides
-- [SebKrantz/collapse](https://github.com/SebKrantz/collapse) - Advanced and Fast Data Transformation in R
+- [fastverse/collapse](https://github.com/fastverse/collapse) - Advanced and Fast Data Transformation in R
 - [OpenIntroStat/ims](https://github.com/OpenIntroStat/ims) - 📚 Introduction to Modern Statistics - A college-level open-source textbook with a modern approach highlighting multivariable relationships and simulation-based inference. For v1, see https://openintro
 - [easystats/performance](https://github.com/easystats/performance) - :muscle: Models' quality and performance metrics (R2, ICC, LOO, AIC, BF, ...)
 - [scikit-learn-contrib/imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) - A Python Package to Tackle the Curse of Imbalanced Datasets in Machine Learning
