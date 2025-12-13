@@ -64,6 +64,7 @@
 - [dsquintana/corr_meta](https://github.com/dsquintana/corr_meta) - Supplementary script for meta-analysis primer
 - [vdorie/treatSens](https://github.com/vdorie/treatSens) - 
 - [yixuan/showtext](https://github.com/yixuan/showtext) - Using Fonts More Easily in R Graphs
+- [merliseclyde/BAS](https://github.com/merliseclyde/BAS) - BAS R package for Bayesian Model Averaging and Variable Selection
 - [krlmlr/utf8](https://github.com/krlmlr/utf8) - UTF-8 Text Processing (R Package)
 - [insongkim/wfe](https://github.com/insongkim/wfe) - 
 - [susanathey/causalTree](https://github.com/susanathey/causalTree) - Working repository for Causal Tree and extensions
@@ -252,7 +253,6 @@
 - [ChatGPTBox-dev/chatGPTBox](https://github.com/ChatGPTBox-dev/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 - [caesarHQ/textSQL](https://github.com/caesarHQ/textSQL) - 
 - [cesarhuret/docGPT](https://github.com/cesarhuret/docGPT) - ChatGPT directly within Google Docs as an Editor Add-on 📑
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [roperzh/tachyons-cheatsheet](https://github.com/roperzh/tachyons-cheatsheet) - Interactive cheat sheet for Tachyons :memo:
 - [egap/learningdays-resources](https://github.com/egap/learningdays-resources) - A repository for slides and other resources (like images and other documents).
@@ -295,7 +295,6 @@
 - [tddg/ds5110-cs5501-spring24](https://github.com/tddg/ds5110-cs5501-spring24) - 
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
 - [microsoft/OmniParser](https://github.com/microsoft/OmniParser) - A simple screen parsing tool towards pure vision based GUI agent
-- [rllm-org/rllm](https://github.com/rllm-org/rllm) - Democratizing Reinforcement Learning for LLMs
 - [microsoft/FLAML](https://github.com/microsoft/FLAML) - A fast library for AutoML and tuning. Join our Discord: https://discord.gg/Cppx2vSPVP.
 - [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.
 - [huggingface/smol-course](https://github.com/huggingface/smol-course) - A course on aligning smol models.
@@ -526,6 +525,7 @@
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 - [browser-use/web-ui](https://github.com/browser-use/web-ui) - 🖥️ Run AI Agent in your browser.
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
+- [rllm-org/rllm](https://github.com/rllm-org/rllm) - Democratizing Reinforcement Learning for LLMs
 - [theAbdoSabbagh/DeeperSeek](https://github.com/theAbdoSabbagh/DeeperSeek) - An unofficial Python wrapper for DeepSeek API
 - [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in code.
 - [langchain-ai/local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher) - Fully local web research and report writing assistant
@@ -600,7 +600,7 @@
 - [keyonvafa/tbip](https://github.com/keyonvafa/tbip) - Text-Based Ideal Points
 - [microsoft/nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
 - [backprop-ai/backprop](https://github.com/backprop-ai/backprop) - Backprop makes it simple to use, finetune, and deploy state-of-the-art ML models.
-- [hyperactive-project/Hyperactive](https://github.com/hyperactive-project/Hyperactive) - An optimization and data collection toolbox for convenient and fast prototyping of computationally expensive models.
+- [hyperactive-project/Hyperactive](https://github.com/hyperactive-project/Hyperactive) - A unified interface for optimization algorithms and experiments
 - [uber/causalml](https://github.com/uber/causalml) - Uplift modeling and causal inference with machine learning algorithms
 - [google/model_search](https://github.com/google/model_search) - 
 - [pytorch-tabular/pytorch_tabular](https://github.com/pytorch-tabular/pytorch_tabular) - A standard framework for modelling Deep Learning Models for tabular data
@@ -669,7 +669,7 @@
 - [twintproject/twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
 - [Cadene/pretrained-models.pytorch](https://github.com/Cadene/pretrained-models.pytorch) - Pretrained ConvNets for pytorch: NASNet, ResNeXt, ResNet, InceptionV4, InceptionResnetV2, Xception, DPN, etc.
 - [py-why/dowhy](https://github.com/py-why/dowhy) - DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical 
-- [ModelOriented/DALEX](https://github.com/ModelOriented/DALEX) - moDel Agnostic Language for Exploration and eXplanation (JMLR 2018; JMLR 2021)
+- [ModelOriented/DALEX](https://github.com/ModelOriented/DALEX) - moDel Agnostic Language for Exploration and eXplanation
 - [bpb27/twitter_scraping](https://github.com/bpb27/twitter_scraping) - Grab all a user's tweets (and get past 3200 limit)
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [Oracen-zz/MIDAS](https://github.com/Oracen-zz/MIDAS) - Multiple imputation utilising denoising autoencoder for approximate Bayesian inference
@@ -873,7 +873,6 @@
 - [earowang/sugrrants](https://github.com/earowang/sugrrants) - SUpporting GRaphics with R for ANalysing Time Series
 - [njtierney/naniar](https://github.com/njtierney/naniar) - Tidy data structures, summaries, and visualisations for missing data
 - [thomasp85/patchwork](https://github.com/thomasp85/patchwork) - The Composer of ggplots
-- [merliseclyde/BAS](https://github.com/merliseclyde/BAS) - BAS R package for Bayesian Model Averaging and Variable Selection
 - [salimk/Rcrawler](https://github.com/salimk/Rcrawler) - An R web crawler and scraper
 - [AliciaSchep/gglabeller](https://github.com/AliciaSchep/gglabeller) - Shiny gadget for labeling points on ggplot
 - [hanase/BMA](https://github.com/hanase/BMA) - R package for Bayesian model averaging
@@ -1183,6 +1182,7 @@
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
 - [deiucanta/chatpad](https://github.com/deiucanta/chatpad) - Not just another ChatGPT user-interface!
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [microsoft/responsible-ai-toolbox](https://github.com/microsoft/responsible-ai-toolbox) - Responsible AI Toolbox is a suite of tools providing model and data exploration and assessment user interfaces and libraries that enable a better understanding of AI systems. These interfaces and libr
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [ulixee/secret-agent](https://github.com/ulixee/secret-agent) - The web scraper that's nearly impossible to block - now called @ulixee/hero
