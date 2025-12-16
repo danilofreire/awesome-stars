@@ -1805,7 +1805,7 @@
 - [fhollenbach/Polisci209_2018](https://github.com/fhollenbach/Polisci209_2018) - Class resources for Political Science 209-905 & 209-906 Fall 2018
 - [STAT545-UBC/STAT545-UBC-original-website](https://github.com/STAT545-UBC/STAT545-UBC-original-website) - ⚠️ Old repository for website of STAT 545 @ University of British Columbia
 - [dsquintana/corr_meta](https://github.com/dsquintana/corr_meta) - Supplementary script for meta-analysis primer
-- [redoc-dev/redoc](https://github.com/redoc-dev/redoc) - Reversible Reproducible Documents
+- [tribalxg/redoc](https://github.com/tribalxg/redoc) - Reversible Reproducible Documents
 - [camelot-dev/excalibur](https://github.com/camelot-dev/excalibur) - A web interface to extract tabular data from PDFs
 - [andrewcparnell/how_to_publish_a_paper](https://github.com/andrewcparnell/how_to_publish_a_paper) - A talk on how to publish a paper (as a lead author)
 - [alexpghayes/safepredict](https://github.com/alexpghayes/safepredict) - Consistent prediction following tidymodels principles
@@ -2219,6 +2219,7 @@
 
 ## pytorch 
 
+- [dvgodoy/FineTuningLLMs](https://github.com/dvgodoy/FineTuningLLMs) - Official repository of my book "A Hands-On Guide to Fine-Tuning LLMs with PyTorch and Hugging Face"
 - [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
