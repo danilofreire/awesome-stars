@@ -23,6 +23,7 @@
 - [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
+- [NetLogo](#netlogo)
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PLpgSQL](#plpgsql)
@@ -34,7 +35,6 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
-- [Scala](#scala)
 - [Scheme](#scheme)
 - [Shell](#shell)
 - [Spline Font Database](#spline-font-database)
@@ -389,6 +389,10 @@
 ## Markdown 
 
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+
+## NetLogo 
+
+- [NetLogo/models](https://github.com/NetLogo/models) - NetLogo Models Library
 
 ## Objective-C 
 
@@ -1035,10 +1039,6 @@
 - [grantmcdermott/quarto-revealjs-clean](https://github.com/grantmcdermott/quarto-revealjs-clean) - A minimalist and elegant presentation theme for Quarto Reveal.js
 - [yixuan/prettydoc](https://github.com/yixuan/prettydoc) - Creating Pretty HTML From R Markdown
 - [morhetz/gruvbox-contrib](https://github.com/morhetz/gruvbox-contrib) - Ports of the gruvbox colorscheme
-
-## Scala 
-
-- [NetLogo/models](https://github.com/NetLogo/models) - NetLogo Models Library
 
 ## Scheme 
 
