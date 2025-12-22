@@ -189,7 +189,6 @@
 - [pols1600/pols1600.github.io](https://github.com/pols1600/pols1600.github.io) - Course repository for POLS 1600 - Political Research Methods (Brown University)
 - [STAT545-UBC/STAT545-UBC-original-website](https://github.com/STAT545-UBC/STAT545-UBC-original-website) - ⚠️ Old repository for website of STAT 545 @ University of British Columbia
 - [rfordatascience/tidytuesday](https://github.com/rfordatascience/tidytuesday) - Official repo for the #tidytuesday project
-- [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.
 - [stephens999/fiveMinuteStats](https://github.com/stephens999/fiveMinuteStats) - A repo of short "vignettes" illustrating statistical concepts
 - [masspastore/overlapping](https://github.com/masspastore/overlapping) - Estimation of Overlapping in Empirical Distributions.
 - [asadoughi/stat-learning](https://github.com/asadoughi/stat-learning) - Notes and exercise attempts for "An Introduction to Statistical Learning"
@@ -1039,6 +1038,7 @@
 - [shafayetShafee/metropolis-beamer](https://github.com/shafayetShafee/metropolis-beamer) - Another Quarto reveal.js template extension inspired by Beamer Metropolis theme
 - [grantmcdermott/quarto-revealjs-clean](https://github.com/grantmcdermott/quarto-revealjs-clean) - A minimalist and elegant presentation theme for Quarto Reveal.js
 - [yixuan/prettydoc](https://github.com/yixuan/prettydoc) - Creating Pretty HTML From R Markdown
+- [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.
 - [morhetz/gruvbox-contrib](https://github.com/morhetz/gruvbox-contrib) - Ports of the gruvbox colorscheme
 
 ## Scheme 
