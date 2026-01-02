@@ -256,7 +256,7 @@
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [roperzh/tachyons-cheatsheet](https://github.com/roperzh/tachyons-cheatsheet) - Interactive cheat sheet for Tachyons :memo:
 - [egap/learningdays-resources](https://github.com/egap/learningdays-resources) - A repository for slides and other resources (like images and other documents).
-- [OpenIntroStat/ims](https://github.com/OpenIntroStat/ims) - 📚 Introduction to Modern Statistics - A college-level open-source textbook with a modern approach highlighting multivariable relationships and simulation-based inference. For v1, see https://openintro
+- [OpenIntroStat/ims](https://github.com/OpenIntroStat/ims) - 📚 Introduction to Modern Statistics - A college-level open-source textbook with a modern approach highlighting multivariable relationships and simulation-based inference.
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [iterative/cml](https://github.com/iterative/cml) - ♾️ CML - Continuous Machine Learning | CI/CD for ML
 - [hamada2029/instagram_without_login](https://github.com/hamada2029/instagram_without_login) - Open post and scroll window without login.
@@ -1151,7 +1151,7 @@
 ## TypeScript 
 
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Autofill for chatbots. Never copy and paste again!
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Coding prompts for chatbots and APIs. Alternative to agentic coding.
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI agent that lives in your terminal.
 - [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
 - [ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp) - A Model Context Protocol server that executes commands in the current iTerm session - useful for REPL and CLI assistance
