@@ -1079,6 +1079,7 @@
 
 ## Stata 
 
+- [andybhall/vbm-replication-extension](https://github.com/andybhall/vbm-replication-extension) - Replication and extension of Thompson et al. (2020) - Created with Claude Code
 - [rdpackages/rdrobust](https://github.com/rdpackages/rdrobust) - Statistical inference and graphical procedures for RD designs using local polynomial and partitioning regression methods.
 - [Mixtape-Sessions/Causal-Inference](https://github.com/Mixtape-Sessions/Causal-Inference) - Causal Inference Mixtape Sessions
 - [scunning1975/advanced_causalinf](https://github.com/scunning1975/advanced_causalinf) - Advanced causal inference and research design course
@@ -1152,7 +1153,7 @@
 ## TypeScript 
 
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - CWC makes it easy to construct coding prompts for chatbots and APIs.
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - CWC makes it easy to construct coding prompts for chatbots and integrate edits in all formats.
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI agent that lives in your terminal.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp) - A Model Context Protocol server that executes commands in the current iTerm session - useful for REPL and CLI assistance
