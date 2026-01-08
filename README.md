@@ -1022,6 +1022,7 @@
 
 ## Rust 
 
+- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [chaqchase/lla](https://github.com/chaqchase/lla) - blazing fast `ls` replacement with superpowers
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
@@ -1153,8 +1154,8 @@
 
 ## TypeScript 
 
-- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - Cherry Studio boosts your productivity with unified AI access, Agent capabilities, and 300+ assistants in one desktop application.
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - CWC makes it easy to construct coding prompts for chatbots and integrate suggested edits.
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI Agent + Coding Agent + 300+ assistants: agentic AI desktop with autonomous coding, intelligent automation, and unified access to frontier LLMs.
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - CWC makes it easy to construct coding prompts for chatbots/APIs and integrate suggested edits.
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI agent that lives in your terminal.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp) - A Model Context Protocol server that executes commands in the current iTerm session - useful for REPL and CLI assistance
