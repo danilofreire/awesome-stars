@@ -1152,7 +1152,7 @@
 ## TypeScript 
 
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI Agent + Coding Agent + 300+ assistants: agentic AI desktop with autonomous coding, intelligent automation, and unified access to frontier LLMs.
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - CWC makes it easy to construct coding prompts for chatbots/APIs and integrate suggested edits. Free and open-source.
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Fast AI coding with chatbots/APIs
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI agent that lives in your terminal.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp) - A Model Context Protocol server that executes commands in the current iTerm session - useful for REPL and CLI assistance
