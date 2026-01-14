@@ -1530,6 +1530,7 @@
 
 ## others 
 
+- [jlcodes99/vscode-antigravity-cockpit](https://github.com/jlcodes99/vscode-antigravity-cockpit) - VS Code extension for monitoring Google Antigravity AI quotas. Features Webview dashboard, QuickPick mode, and quota grouping.
 - [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [andybhall/vbm-replication-extension](https://github.com/andybhall/vbm-replication-extension) - Replication and extension of Thompson et al. (2020) - Created with Claude Code
