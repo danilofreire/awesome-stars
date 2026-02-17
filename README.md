@@ -193,7 +193,6 @@
 - [STAT545-UBC/STAT545-UBC-original-website](https://github.com/STAT545-UBC/STAT545-UBC-original-website) - ⚠️ Old repository for website of STAT 545 @ University of British Columbia
 - [rfordatascience/tidytuesday](https://github.com/rfordatascience/tidytuesday) - Official repo for the #tidytuesday project
 - [stephens999/fiveMinuteStats](https://github.com/stephens999/fiveMinuteStats) - A repo of short "vignettes" illustrating statistical concepts
-- [masspastore/overlapping](https://github.com/masspastore/overlapping) - Estimation of Overlapping in Empirical Distributions.
 - [asadoughi/stat-learning](https://github.com/asadoughi/stat-learning) - Notes and exercise attempts for "An Introduction to Statistical Learning"
 - [tjmahr/MadR_RStanARM](https://github.com/tjmahr/MadR_RStanARM) - Slides and materials for my talk to the Madison R Users Group (September 21st, 2016)
 - [acmeyer/Conjoint-for-Qualtrics-Offline](https://github.com/acmeyer/Conjoint-for-Qualtrics-Offline) - Produces conjoint analysis choice tasks for the Qualtrics offline application.
@@ -514,7 +513,7 @@
 
 ## Python 
 
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude-code for free in the terminal, VSCode extension or via telegram like openclaw
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude-code for free in the terminal, VSCode extension or via discord like openclaw
 - [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - The Ultimate Collection of 800+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
 - [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - Cleanlab's open-source library is the standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
 - [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - A set of ready to use scientific skills for Claude
@@ -852,6 +851,7 @@
 - [business-science/timetk](https://github.com/business-science/timetk) - Time series analysis in the `tidyverse`
 - [ankane/jetpack](https://github.com/ankane/jetpack) - A friendly package manager for R
 - [pos5737/tweets](https://github.com/pos5737/tweets) - A data set of Donald Trump's tweets for students to use to practice data wrangling.
+- [masspastore/overlapping](https://github.com/masspastore/overlapping) - Estimation of Overlapping in Empirical Distributions.
 - [rdrr1990/kerasformula](https://github.com/rdrr1990/kerasformula) - A high-level interface to keras for R that takes advantage of formulas
 - [DeclareDesign/DeclareDesign](https://github.com/DeclareDesign/DeclareDesign) - DeclareDesign: Declare and Diagnose Research Designs
 - [mkearney/tidyversity](https://github.com/mkearney/tidyversity) - 🎓 Tidy tools for academics
