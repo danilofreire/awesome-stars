@@ -459,7 +459,6 @@
 - [rguo12/awesome-causality-algorithms](https://github.com/rguo12/awesome-causality-algorithms) - An index of algorithms for learning causality with data
 - [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
 - [alirezadir/Production-Level-Deep-Learning](https://github.com/alirezadir/Production-Level-Deep-Learning) - A guideline for building practical production-level deep learning systems to be deployed in real world applications.
-- [RobertMyles/awesome-stars](https://github.com/RobertMyles/awesome-stars) - A curated list of my GitHub stars!
 - [gomex/docker-para-desenvolvedores](https://github.com/gomex/docker-para-desenvolvedores) - Código fonte do livro Docker para desenvolvedores
 - [urbanSpatial/classifying_satellite_imagery_in_R](https://github.com/urbanSpatial/classifying_satellite_imagery_in_R) - 
 - [rmcelreath/statrethinking_winter2019](https://github.com/rmcelreath/statrethinking_winter2019) - Statistical Rethinking course at MPI-EVA from Dec 2018 through Feb 2019
@@ -885,7 +884,6 @@
 - [juba/questionr](https://github.com/juba/questionr) - R package to make surveys processing easier
 - [leeper/reggie](https://github.com/leeper/reggie) - Stata-like Regression Functionality for R
 - [tidymodels/infer](https://github.com/tidymodels/infer) - An R package for tidyverse-friendly statistical inference
-- [RobertMyles/IRT](https://github.com/RobertMyles/IRT) - IRT ideal point models in R using Stan
 - [xuyiqing/interflex](https://github.com/xuyiqing/interflex) - Multiplicative Interaction Models Diagnostics and Visualization, Producing Flexible Marginal Effect Estimates
 - [earowang/sugrrants](https://github.com/earowang/sugrrants) - SUpporting GRaphics with R for ANalysing Time Series
 - [njtierney/naniar](https://github.com/njtierney/naniar) - Tidy data structures, summaries, and visualisations for missing data
@@ -1161,10 +1159,10 @@
 ## TypeScript 
 
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
-- [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork, powered by opencode
+- [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork built for teams, powered by opencode
 - [jlcodes99/vscode-antigravity-cockpit](https://github.com/jlcodes99/vscode-antigravity-cockpit) - VS Code extension for monitoring Google Antigravity AI quotas. Features Webview dashboard, QuickPick mode, and quota grouping.
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Free AI coding in chatbots
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - The fastest way to code with AI
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI agent that lives in your terminal.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp) - A Model Context Protocol server that executes commands in the current iTerm session - useful for REPL and CLI assistance
