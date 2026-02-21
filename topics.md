@@ -1551,7 +1551,7 @@
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude-code for free in the terminal, VSCode extension or via discord like openclaw
 - [pedrohcgs/claude-code-my-workflow](https://github.com/pedrohcgs/claude-code-my-workflow) - A ready-to-fork Claude Code template for academics using LaTeX/Beamer + R. Multi-agent review, quality gates, adversarial QA, and replication protocols.
 - [bigguy345/Github-Copilot-Atlas](https://github.com/bigguy345/Github-Copilot-Atlas) - 
-- [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork, powered by opencode
+- [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork built for teams, powered by opencode
 - [blader/humanizer](https://github.com/blader/humanizer) - Claude Code skill that removes signs of AI-generated writing from text
 - [jlcodes99/vscode-antigravity-cockpit](https://github.com/jlcodes99/vscode-antigravity-cockpit) - VS Code extension for monitoring Google Antigravity AI quotas. Features Webview dashboard, QuickPick mode, and quota grouping.
 - [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
@@ -1563,7 +1563,7 @@
 - [bernardo-bruning/ollama-copilot](https://github.com/bernardo-bruning/ollama-copilot) - Proxy that allows you to use ollama as a copilot like Github copilot
 - [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) - Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team.
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Free AI coding in chatbots
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - The fastest way to code with AI
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI agent that lives in your terminal.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [dlab-berkeley/Python-GPT-Fundamentals](https://github.com/dlab-berkeley/Python-GPT-Fundamentals) - D-Lab's 2-hour introduction to Generative Pretrained Transformers (GPT) for beginners. Learn about text encoding, word embeddings, and the transformer architecture upon which GPT is based. Create text
@@ -1802,7 +1802,6 @@
 - [ModelOriented/DrWhy](https://github.com/ModelOriented/DrWhy) - DrWhy is the collection of tools for eXplainable AI (XAI). It's based on shared principles and simple grammar for exploration, explanation and visualisation of predictive models.
 - [tensorflow/model-analysis](https://github.com/tensorflow/model-analysis) - Model analysis tools for TensorFlow
 - [amueller/introduction_to_ml_with_python](https://github.com/amueller/introduction_to_ml_with_python) - Notebooks and code for the book "Introduction to Machine Learning with Python"
-- [RobertMyles/awesome-stars](https://github.com/RobertMyles/awesome-stars) - A curated list of my GitHub stars!
 - [mml-book/mml-book.github.io](https://github.com/mml-book/mml-book.github.io) - Companion webpage to the book "Mathematics For Machine Learning"
 - [k0kubun/md2key](https://github.com/k0kubun/md2key) - Convert markdown to keynote
 - [tidymodels/themis](https://github.com/tidymodels/themis) - Extra recipes steps for dealing with unbalanced data
@@ -2402,7 +2401,6 @@
 - [ropensci/qualtRics](https://github.com/ropensci/qualtRics) - Download ⬇️ Qualtrics survey data directly into R!
 - [juba/questionr](https://github.com/juba/questionr) - R package to make surveys processing easier
 - [leeper/reggie](https://github.com/leeper/reggie) - Stata-like Regression Functionality for R
-- [RobertMyles/IRT](https://github.com/RobertMyles/IRT) - IRT ideal point models in R using Stan
 - [earowang/sugrrants](https://github.com/earowang/sugrrants) - SUpporting GRaphics with R for ANalysing Time Series
 - [salimk/Rcrawler](https://github.com/salimk/Rcrawler) - An R web crawler and scraper
 - [AliciaSchep/gglabeller](https://github.com/AliciaSchep/gglabeller) - Shiny gadget for labeling points on ggplot
