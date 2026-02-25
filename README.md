@@ -146,7 +146,7 @@
 - [Martinomagnifico/quarto-multimodal](https://github.com/Martinomagnifico/quarto-multimodal) - A plugin for Reveal.js to show content like images, video and HTML in modal windows or lightboxes.
 - [umbertomig/qtm151](https://github.com/umbertomig/qtm151) - 
 - [danilofreire/quarto-presentation](https://github.com/danilofreire/quarto-presentation) - A fork of the beautiful Quarto Clean presentation theme
-- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [alshedivat/al-folio](https://github.com/alshedivat/al-folio) - A beautiful, simple, clean, and responsive Jekyll theme for academics
 - [danilofreire/rmarkdown-templates](https://github.com/danilofreire/rmarkdown-templates) - A collection of personal templates for RMarkdown
 - [khlee88/multi_armed_bandit_tutorial](https://github.com/khlee88/multi_armed_bandit_tutorial) - Multi Armed Bandit python code implementation
@@ -514,7 +514,7 @@
 ## Python 
 
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude-code for free in the terminal, VSCode extension or via discord like openclaw
-- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - The Ultimate Collection of 800+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
+- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - The Ultimate Collection of 900+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
 - [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - Cleanlab's open-source library is the standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
 - [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - A set of ready to use scientific skills for Claude
 - [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
