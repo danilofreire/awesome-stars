@@ -64,6 +64,7 @@
 - [education](#education)
 - [electron](#electron)
 - [english](#english)
+- [fastapi](#fastapi)
 - [finance](#finance)
 - [firefox](#firefox)
 - [flask](#flask)
@@ -847,6 +848,10 @@
 ## english 
 
 - [swcarpentry/git-novice](https://github.com/swcarpentry/git-novice) - Version Control with Git
+
+## fastapi 
+
+- [mjhea0/awesome-fastapi](https://github.com/mjhea0/awesome-fastapi) - A curated list of awesome things related to FastAPI
 
 ## finance 
 
