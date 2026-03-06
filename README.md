@@ -244,9 +244,9 @@
 
 ## JavaScript 
 
-- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Cowork, and beyond.
+- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configration.
 - [RamiKrispin/vscode-python-template](https://github.com/RamiKrispin/vscode-python-template) - A template for a dockerized Python development environment for VScode
 - [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ Generate endless answers from all-knowing ChatGPT (on any topic!)
 - [coatless-quarto/pyodide](https://github.com/coatless-quarto/pyodide) - Community developed Quarto extension to enable interactive Python code cells in HTML documents using Pyodide
@@ -517,7 +517,7 @@
 - [ARahim3/mlx-tune](https://github.com/ARahim3/mlx-tune) - Bringing the Unsloth experience to Mac users via Apple's MLX framework
 - [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude-code for free in the terminal, VSCode extension or via discord like openclaw
-- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - The Ultimate Collection of 900+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
+- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - The Ultimate Collection of 1000+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
 - [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - Cleanlab's open-source library is the standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
 - [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
 - [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
