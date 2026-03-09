@@ -86,7 +86,7 @@
 - [susanathey/MCPanel](https://github.com/susanathey/MCPanel) - Matrix Completion Methods for Causal Panel Data Models
 - [facebookresearch/StarSpace](https://github.com/facebookresearch/StarSpace) - Learning embeddings for classification, retrieval and ranking.
 - [h2oai/deepwater](https://github.com/h2oai/deepwater) - Deep Learning in H2O using Native GPU Backends
-- [microsoft/LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tas
+- [lightgbm-org/LightGBM](https://github.com/lightgbm-org/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tas
 - [grf-labs/grf](https://github.com/grf-labs/grf) - Generalized Random Forests
 - [sdllc/Basic-Excel-R-Toolkit](https://github.com/sdllc/Basic-Excel-R-Toolkit) - 
 - [greta-dev/greta](https://github.com/greta-dev/greta) - simple and scalable statistical modelling in R
