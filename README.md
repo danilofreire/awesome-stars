@@ -1223,7 +1223,7 @@
 - [jwkvam/jupyterlab-vim](https://github.com/jwkvam/jupyterlab-vim) - :neckbeard: Vim notebook cell bindings for JupyterLab
 - [googleworkspace/md2googleslides](https://github.com/googleworkspace/md2googleslides) - Generate Google Slides from markdown
 - [tensorflow/playground](https://github.com/tensorflow/playground) - Play with neural networks!
-- [surveyjs/survey-library](https://github.com/surveyjs/survey-library) - SurveyJS is an open-source JavaScript form builder that allows developers to create dynamic forms, multi-step form wizards, and survey applications. It supports React, Angular, and Vue.js (Vue 3), and
+- [surveyjs/survey-library](https://github.com/surveyjs/survey-library) - SurveyJS is an open-source JavaScript form builder library that allows developers to create dynamic forms, multi-step form wizards, and survey applications. It supports React, Angular, and Vue.js (Vue
 
 ## Vim Script 
 
