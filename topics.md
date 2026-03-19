@@ -1837,7 +1837,7 @@
 - [googleworkspace/md2googleslides](https://github.com/googleworkspace/md2googleslides) - Generate Google Slides from markdown
 - [tidymodels/tidymodels](https://github.com/tidymodels/tidymodels) - Easily install and load the tidymodels packages
 - [danieljl/keras-image-captioning](https://github.com/danieljl/keras-image-captioning) - An implementation of image captioning in Keras
-- [ageron/handson-ml2](https://github.com/ageron/handson-ml2) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
+- [ageron/handson-ml2](https://github.com/ageron/handson-ml2) - ⛔️ DEPRECATED – See https://github.com/ageron/handson-ml3 or handson-mlp instead.
 - [cis-ds/course-site](https://github.com/cis-ds/course-site) - Course site for Computing for Information Science (INFO 5940)
 - [JBGruber/rwhatsapp](https://github.com/JBGruber/rwhatsapp) - An R package for working with WhatsApp data 💬
 - [kaicataldo/material.vim](https://github.com/kaicataldo/material.vim) - 🎨 A port of the Material color scheme for Vim/Neovim
