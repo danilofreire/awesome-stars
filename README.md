@@ -349,7 +349,7 @@
 - [amueller/introduction_to_ml_with_python](https://github.com/amueller/introduction_to_ml_with_python) - Notebooks and code for the book "Introduction to Machine Learning with Python"
 - [mml-book/mml-book.github.io](https://github.com/mml-book/mml-book.github.io) - Companion webpage to the book "Mathematics For Machine Learning"
 - [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
-- [ageron/handson-ml2](https://github.com/ageron/handson-ml2) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
+- [ageron/handson-ml2](https://github.com/ageron/handson-ml2) - ⛔️ DEPRECATED – See https://github.com/ageron/handson-ml3 or handson-mlp instead.
 - [cbassa/satellite_analysis](https://github.com/cbassa/satellite_analysis) - Analysis scripts of things related to satellites
 - [shap/shap](https://github.com/shap/shap) - A game theoretic approach to explain the output of any machine learning model.
 - [pysal/esda](https://github.com/pysal/esda) - statistics and classes for exploratory spatial data analysis
