@@ -118,7 +118,7 @@
 
 ## Go 
 
-- [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
+- [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 - [bernardo-bruning/ollama-copilot](https://github.com/bernardo-bruning/ollama-copilot) - Proxy that allows you to use ollama as a copilot like Github copilot
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
@@ -190,7 +190,6 @@
 - [kbenoit/quanteda.dictionaries](https://github.com/kbenoit/quanteda.dictionaries) - Dictionaries for text analysis
 - [brentthorne/posterdown](https://github.com/brentthorne/posterdown) - Use RMarkdown to generate PDF Conference Posters via HTML
 - [NickCH-K/introcausality](https://github.com/NickCH-K/introcausality) - Class materials for "Economics, Causality, and Analytics"
-- [xuyiqing/panelView](https://github.com/xuyiqing/panelView) - Visualizing Panel Data
 - [pols1600/pols1600.github.io](https://github.com/pols1600/pols1600.github.io) - Course repository for POLS 1600 - Political Research Methods (Brown University)
 - [STAT545-UBC/STAT545-UBC-original-website](https://github.com/STAT545-UBC/STAT545-UBC-original-website) - ⚠️ Old repository for website of STAT 545 @ University of British Columbia
 - [rfordatascience/tidytuesday](https://github.com/rfordatascience/tidytuesday) - Official repo for the #tidytuesday project
@@ -824,6 +823,7 @@
 - [danilofreire/prisonbrief](https://github.com/danilofreire/prisonbrief) - An R package that returns tidy data from the World Prison Brief website.
 - [ipeaGIT/geobr](https://github.com/ipeaGIT/geobr) - Easy access to official spatial data sets of Brazil in R and Python
 - [dgrtwo/fuzzyjoin](https://github.com/dgrtwo/fuzzyjoin) - Join tables together on inexact matching
+- [xuyiqing/panelView](https://github.com/xuyiqing/panelView) - Visualizing Panel Data
 - [r-lib/styler](https://github.com/r-lib/styler) - Non-invasive pretty printing of R code
 - [nevrome/wellspell.addin](https://github.com/nevrome/wellspell.addin) - R Package - Quick Spellcheck Addin for RStudio
 - [VerbalExpressions/RVerbalExpressions](https://github.com/VerbalExpressions/RVerbalExpressions) - :speech_balloon: Create regular expressions easily
@@ -1170,7 +1170,7 @@
 - [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork built for teams, powered by opencode
 - [jlcodes99/vscode-antigravity-cockpit](https://github.com/jlcodes99/vscode-antigravity-cockpit) - VS Code extension for monitoring Google Antigravity AI quotas. Features Webview dashboard, QuickPick mode, and quota grouping.
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - The fastest way to code with AI
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Fast AI coding with static context
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI agent that lives in your terminal.
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
