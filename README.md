@@ -629,7 +629,7 @@
 - [QuantGov/quantgov](https://github.com/QuantGov/quantgov) - The QuantGov Library
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos 
 - [machow/siuba](https://github.com/machow/siuba) - Python library for using dplyr like syntax with pandas and SQL
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
 - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [ivan-bilan/The-NLP-Pandect](https://github.com/ivan-bilan/The-NLP-Pandect) - A comprehensive reference for all topics related to Natural Language Processing
