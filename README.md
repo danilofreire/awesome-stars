@@ -47,7 +47,6 @@
 - [Vim Script](#vim-script)
 - [Vim Snippet](#vim-snippet)
 - [Vue](#vue)
-- [Zig](#zig)
 
 ## Assembly 
 
@@ -56,6 +55,7 @@
 ## C 
 
 - [kosukeimai/experiment](https://github.com/kosukeimai/experiment) - R package experiment
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [nalgeon/sqlean.py](https://github.com/nalgeon/sqlean.py) - Python's sqlite3 + extensions
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean) - The ultimate set of SQLite extensions
 - [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt
@@ -1285,10 +1285,6 @@
 ## Vue 
 
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
-
-## Zig 
-
-- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 
 
 ## License
