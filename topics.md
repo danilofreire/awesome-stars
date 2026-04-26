@@ -94,6 +94,7 @@
 - [icon-font](#icon-font)
 - [image-processing](#image-processing)
 - [instagram](#instagram)
+- [ios](#ios)
 - [iot](#iot)
 - [java](#java)
 - [javascript](#javascript)
@@ -1078,6 +1079,10 @@
 
 - [hamada2029/instagram_without_login](https://github.com/hamada2029/instagram_without_login) - Open post and scroll window without login.
 
+## ios 
+
+- [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
+
 ## iot 
 
 - [DT42/BerryNet](https://github.com/DT42/BerryNet) - Deep learning gateway on Raspberry Pi and other edge devices
@@ -1377,6 +1382,7 @@
 
 ## macos 
 
+- [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
 - [momenbasel/PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
 - [ARahim3/mlx-tune](https://github.com/ARahim3/mlx-tune) - Fine-tune LLMs on your Mac with Apple Silicon. SFT, DPO, GRPO, Vision, TTS, STT, Embedding, and OCR fine-tuning — natively on MLX. Unsloth-compatible API.
