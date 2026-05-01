@@ -407,7 +407,7 @@
 ## Others 
 
 - [ForrestKnight/open-source-cs](https://github.com/ForrestKnight/open-source-cs) - Video discussing this curriculum:
-- [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, DEVIN, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
+- [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 - [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [Developer-Y/math-science-video-lectures](https://github.com/Developer-Y/math-science-video-lectures) - List of Science courses with video lectures
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from ChatGPT (GPT-5.5 Thinking), Claude (Opus 4.7, Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, Gemini CLI), Grok (4.3 beta), Perplexity, and more. Updated re
@@ -936,7 +936,7 @@
 - [bgreenwell/pdp](https://github.com/bgreenwell/pdp) - A general framework for constructing partial dependence (i.e., marginal effect) plots from various types machine learning models in R.
 - [zonination/perceptions](https://github.com/zonination/perceptions) - Perceptions of Probability and Numbers
 - [quanteda/spacyr](https://github.com/quanteda/spacyr) - R wrapper to spaCy NLP
-- [mbojan/alluvial](https://github.com/mbojan/alluvial) - Alluvial diagrams
+- [mbojan/alluvial](https://github.com/mbojan/alluvial) - Alluvial diagrams for R
 - [nataliabueno/close_races](https://github.com/nataliabueno/close_races) - Creating Data for Close Races RDDs using Brazilian Electoral Data
 - [paleolimbot/ggspatial](https://github.com/paleolimbot/ggspatial) - Enhancing spatial visualization in ggplot2
 - [paleolimbot/prettymapr](https://github.com/paleolimbot/prettymapr) - Scale Bar, North Arrow, and Pretty Margins in R
