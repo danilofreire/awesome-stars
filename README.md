@@ -118,6 +118,7 @@
 
 ## Go 
 
+- [spotify/save-to-spotify](https://github.com/spotify/save-to-spotify) - Command line interface to save your personal media to Spotify.
 - [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 - [bernardo-bruning/ollama-copilot](https://github.com/bernardo-bruning/ollama-copilot) - Proxy that allows you to use ollama as a copilot like Github copilot
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
