@@ -1748,7 +1748,7 @@
 - [grantmcdermott/quarto-revealjs-clean](https://github.com/grantmcdermott/quarto-revealjs-clean) - A minimalist and elegant presentation theme for Quarto Reveal.js
 - [grantmcdermott/tinyplot](https://github.com/grantmcdermott/tinyplot) - Lightweight extension of the base R graphics system
 - [travistangvh/ChatGPT-Data-Science-Prompts](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts) - A repository of 60 useful data science prompts for ChatGPT
-- [rdpackages/rdrobust](https://github.com/rdpackages/rdrobust) - Statistical inference and graphical procedures for RD designs using local polynomial and partitioning regression methods.
+- [rdpackages/rdrobust](https://github.com/rdpackages/rdrobust) - Robust Local Polynomial Methods for RD designs
 - [xuyiqing/fect_python](https://github.com/xuyiqing/fect_python) - Python version of fixed effects counterfactual estimators
 - [xuyiqing/fect](https://github.com/xuyiqing/fect) - fixed effect counterfactual estimators
 - [keihirano/modern-sampling](https://github.com/keihirano/modern-sampling) - Course Materials for AEA Short Course on Modern Sampling Methods
