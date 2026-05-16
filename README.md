@@ -1112,7 +1112,7 @@
 
 - [andybhall/vbm-replication-extension](https://github.com/andybhall/vbm-replication-extension) - Replication and extension of Thompson et al. (2020) - Created with Claude Code
 - [finite-sample/endorsement](https://github.com/finite-sample/endorsement) - Derive Proportion Supporting A Group From an Endorsement Experiment
-- [rdpackages/rdrobust](https://github.com/rdpackages/rdrobust) - Statistical inference and graphical procedures for RD designs using local polynomial and partitioning regression methods.
+- [rdpackages/rdrobust](https://github.com/rdpackages/rdrobust) - Robust Local Polynomial Methods for RD designs
 - [Mixtape-Sessions/Causal-Inference](https://github.com/Mixtape-Sessions/Causal-Inference) - Causal Inference Mixtape Sessions
 - [scunning1975/advanced_causalinf](https://github.com/scunning1975/advanced_causalinf) - Advanced causal inference and research design course
 - [mpaulacaldas/mixtape](https://github.com/mpaulacaldas/mixtape) - Data for 'Causal Inference: The Mixtape'
