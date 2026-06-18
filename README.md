@@ -146,7 +146,6 @@
 - [dannyallover/llm_forecasting](https://github.com/dannyallover/llm_forecasting) - Forecasting with LLMs
 - [Martinomagnifico/quarto-multimodal](https://github.com/Martinomagnifico/quarto-multimodal) - A plugin for Reveal.js to show content like images, video and HTML in modal windows or lightboxes.
 - [umbertomig/qtm151](https://github.com/umbertomig/qtm151) - 
-- [danilofreire/quarto-presentation](https://github.com/danilofreire/quarto-presentation) - A fork of the beautiful Quarto Clean presentation theme
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [alshedivat/al-folio](https://github.com/alshedivat/al-folio) - A beautiful, simple, clean, and responsive Jekyll theme for academics
 - [danilofreire/rmarkdown-templates](https://github.com/danilofreire/rmarkdown-templates) - A collection of personal templates for RMarkdown
@@ -382,6 +381,7 @@
 - [quarto-ext/fontawesome](https://github.com/quarto-ext/fontawesome) - Use Font Awesome icons in HTML and PDF documents.
 - [wjschne/apaquarto](https://github.com/wjschne/apaquarto) - A quarto extension for creating APA7 documents in .docx, .html, and .pdf formats
 - [danilofreire/quarto-templates](https://github.com/danilofreire/quarto-templates) - A collection of personal templates for Quarto
+- [danilofreire/quarto-presentation](https://github.com/danilofreire/quarto-presentation) - A fork of the beautiful Quarto Clean presentation theme
 
 ## MDX 
 
@@ -726,6 +726,7 @@
 
 ## R 
 
+- [mlverse/mall](https://github.com/mlverse/mall) - Run multiple LLM predictions against a data frame with R and Python
 - [hauselin/ollama-r](https://github.com/hauselin/ollama-r) - R library to run Ollama language models
 - [carloscinelli/dml.sensemakr](https://github.com/carloscinelli/dml.sensemakr) - Sensitivity analysis tools for causal ML
 - [li-xinran/RIQITE](https://github.com/li-xinran/RIQITE) - 
@@ -1013,7 +1014,6 @@
 - [pablobarbera/twitter_ideology](https://github.com/pablobarbera/twitter_ideology) - Estimating Ideological Positions with Twitter Data
 - [atajti/fbpack](https://github.com/atajti/fbpack) - R package for user friendly Facebook scraping
 - [cloudyr/MTurkR](https://github.com/cloudyr/MTurkR) - R Client for the MTurk Requester API
-- [jknowles/datasynthR](https://github.com/jknowles/datasynthR) - Functions to procedurally generate synthetic data in R for testing and collaboration.
 - [qinwf/awesome-R](https://github.com/qinwf/awesome-R) - A curated list of awesome R packages, frameworks and software.
 - [trinker/wakefield](https://github.com/trinker/wakefield) - Generate random data sets
 - [mattblackwell/causalsens](https://github.com/mattblackwell/causalsens) - A sensitivity analysis package for causal effects
@@ -1128,7 +1128,7 @@
 
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [momenbasel/PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
-- [ggml-org/Llama](https://github.com/ggml-org/Llama) - A cosy home for your LLMs.
+- [ggml-org/Llama-macOS](https://github.com/ggml-org/Llama-macOS) - A cosy home for your LLMs.
 - [bitgapp/eqMac](https://github.com/bitgapp/eqMac) - macOS  System-wide Audio Equalizer & Volume Mixer  🎧
 
 ## TSQL 
