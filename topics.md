@@ -243,7 +243,7 @@
 - [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Bridge Neovim and OpenCode AI to stay in your flow.
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. 
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
-- [ggml-org/Llama](https://github.com/ggml-org/Llama) - A cosy home for your LLMs.
+- [ggml-org/Llama-macOS](https://github.com/ggml-org/Llama-macOS) - A cosy home for your LLMs.
 - [hauselin/ollama-r](https://github.com/hauselin/ollama-r) - R library to run Ollama language models
 - [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - A list of free LLM inference resources accessible via API.
 - [RayBytes/ChatMock](https://github.com/RayBytes/ChatMock) - OpenAI & Ollama compatible API powered by Codex
@@ -672,6 +672,7 @@
 
 ## data-science 
 
+- [mlverse/mall](https://github.com/mlverse/mall) - Run multiple LLM predictions against a data frame with R and Python
 - [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - Cleanlab's open-source library is the standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
 - [microsoft/FLAML](https://github.com/microsoft/FLAML) - A fast library for AutoML and tuning. Join our Discord: https://discord.gg/Cppx2vSPVP.
 - [krzjoa/awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science) - Probably the best curated list of data science software in Python.
@@ -1233,6 +1234,7 @@
 
 ## llm 
 
+- [mlverse/mall](https://github.com/mlverse/mall) - Run multiple LLM predictions against a data frame with R and Python
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [UditAkhourii/adhd](https://github.com/UditAkhourii/adhd) - ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deep
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
@@ -1426,7 +1428,7 @@
 - [momenbasel/PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
 - [ARahim3/mlx-tune](https://github.com/ARahim3/mlx-tune) - Fine-tune LLMs on your Mac with Apple Silicon. SFT, DPO, GRPO, Vision, TTS, STT, Embedding, and OCR fine-tuning — natively on MLX. Unsloth-compatible API.
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
-- [ggml-org/Llama](https://github.com/ggml-org/Llama) - A cosy home for your LLMs.
+- [ggml-org/Llama-macOS](https://github.com/ggml-org/Llama-macOS) - A cosy home for your LLMs.
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
@@ -2195,7 +2197,6 @@
 - [retteb/Bayes-2013](https://github.com/retteb/Bayes-2013) - R and JAGS code accompanying the ICPSR summer program course on Applied Bayesian Modeling
 - [atajti/fbpack](https://github.com/atajti/fbpack) - R package for user friendly Facebook scraping
 - [josemvidal/netlogomas](https://github.com/josemvidal/netlogomas) - Multiagent models built using netlogo
-- [jknowles/datasynthR](https://github.com/jknowles/datasynthR) - Functions to procedurally generate synthetic data in R for testing and collaboration.
 - [NetLogo/models](https://github.com/NetLogo/models) - NetLogo Models Library
 - [benmarwick/UW-eScience-reproducibility-social-sciences](https://github.com/benmarwick/UW-eScience-reproducibility-social-sciences) - This repository contains my slides and references for a presentation to the UW eScience Institute on reproducible research in the social sciences (9 April 2014). To view the slides, go to http://benma
 - [mattblackwell/causalsens](https://github.com/mattblackwell/causalsens) - A sensitivity analysis package for causal effects
@@ -2301,6 +2302,7 @@
 
 ## python 
 
+- [mlverse/mall](https://github.com/mlverse/mall) - Run multiple LLM predictions against a data frame with R and Python
 - [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) - End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.
 - [lmstudio-ai/lmstudio-python](https://github.com/lmstudio-ai/lmstudio-python) - LM Studio Python SDK
 - [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for LLMs
@@ -2450,6 +2452,7 @@
 
 ## r 
 
+- [mlverse/mall](https://github.com/mlverse/mall) - Run multiple LLM predictions against a data frame with R and Python
 - [hauselin/ollama-r](https://github.com/hauselin/ollama-r) - R library to run Ollama language models
 - [carloscinelli/dml.sensemakr](https://github.com/carloscinelli/dml.sensemakr) - Sensitivity analysis tools for causal ML
 - [hadley/r4ds](https://github.com/hadley/r4ds) - R for data science: a book
@@ -2783,7 +2786,7 @@
 ## swift 
 
 - [momenbasel/PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
-- [ggml-org/Llama](https://github.com/ggml-org/Llama) - A cosy home for your LLMs.
+- [ggml-org/Llama-macOS](https://github.com/ggml-org/Llama-macOS) - A cosy home for your LLMs.
 - [bitgapp/eqMac](https://github.com/bitgapp/eqMac) - macOS  System-wide Audio Equalizer & Volume Mixer  🎧
 
 ## swiftui 
