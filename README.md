@@ -159,7 +159,6 @@
 - [NickCH-K/CausalitySlides](https://github.com/NickCH-K/CausalitySlides) - Slides for the Seattle University Causal Inference Class
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [worldbank/dime-r-training](https://github.com/worldbank/dime-r-training) - Dime Analytics R Training
-- [bcallaway11/did](https://github.com/bcallaway11/did) - Difference in Differences with Multiple Periods, website: https://bcallaway11.github.io/did
 - [EagerAI/fastai](https://github.com/EagerAI/fastai) - R interface to fast.ai
 - [mattblackwell/qsslearnr](https://github.com/mattblackwell/qsslearnr) - learnr tutorial package for Quantitative Social Science
 - [edrubin/EC524W20](https://github.com/edrubin/EC524W20) - Masters-level applied econometrics course—focusing on prediction—at the University of Oregon (EC424/524 during Winter quarter, 2020 Taught by Ed Rubin
@@ -760,6 +759,7 @@
 - [AdrianAntico/AutoQuant](https://github.com/AdrianAntico/AutoQuant) - Automation framework for machine learning, forecasting, model evaluation, and interpretation.
 - [jooyoungseo/youtubecaption](https://github.com/jooyoungseo/youtubecaption) - Downloading YouTube Subtitle Transcription in a Tidy Tibble Data_Frame in R
 - [QuantGov/regcensus-api-client-R](https://github.com/QuantGov/regcensus-api-client-R) - R client to pull RegCensus data
+- [bcallaway11/did](https://github.com/bcallaway11/did) - Difference in Differences with Multiple Periods, website: https://bcallaway11.github.io/did
 - [johnson-shuffle/mixtape](https://github.com/johnson-shuffle/mixtape) - Data for Causal Inference: The Mixtape by Scott Cunningham
 - [thomas-neitmann/ggcharts](https://github.com/thomas-neitmann/ggcharts) - Get You to Your Desired Plot Faster
 - [rstudio/gradethis](https://github.com/rstudio/gradethis) - Tools for teachers to use with learnr
