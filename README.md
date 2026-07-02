@@ -834,7 +834,7 @@
 - [ellisp/forecastHybrid](https://github.com/ellisp/forecastHybrid) - Convenient functions for ensemble forecasts in R combining approaches from the {forecast} package
 - [marjoleinF/pre](https://github.com/marjoleinF/pre) - an R package for deriving Prediction Rule Ensembles
 - [danilofreire/prisonbrief](https://github.com/danilofreire/prisonbrief) - An R package that returns tidy data from the World Prison Brief website.
-- [ipeaGIT/geobr](https://github.com/ipeaGIT/geobr) - Easy access to official spatial data sets of Brazil in R and Python
+- [ipea/geobr](https://github.com/ipea/geobr) - Easy access to official spatial data sets of Brazil in R and Python
 - [dgrtwo/fuzzyjoin](https://github.com/dgrtwo/fuzzyjoin) - Join tables together on inexact matching
 - [xuyiqing/panelView](https://github.com/xuyiqing/panelView) - Visualizing Panel Data
 - [r-lib/styler](https://github.com/r-lib/styler) - Non-invasive pretty printing of R code
