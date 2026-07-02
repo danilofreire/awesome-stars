@@ -110,6 +110,7 @@
 - [kubernetes](#kubernetes)
 - [language](#language)
 - [latex](#latex)
+- [learn-to-code](#learn-to-code)
 - [learning](#learning)
 - [linux](#linux)
 - [llm](#llm)
@@ -1226,6 +1227,10 @@
 - [abntex/limarka](https://github.com/abntex/limarka) - Escreva seu trabalho de conclusão de curso com as normas da ABNT em Markdown
 - [rstudio/bookdown](https://github.com/rstudio/bookdown) - Authoring Books and Technical Documents with R Markdown
 
+## learn-to-code 
+
+- [kallaway/100-days-of-code](https://github.com/kallaway/100-days-of-code) - Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available)
+
 ## learning 
 
 - [trekhleb/learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
@@ -1918,7 +1923,6 @@
 - [napsternxg/awesome-causality](https://github.com/napsternxg/awesome-causality) - Resources related to causality
 - [cboettig/knitcitations](https://github.com/cboettig/knitcitations) - :package: Generate citations for knitr markdown and html files
 - [integrated-inferences/CausalQueries](https://github.com/integrated-inferences/CausalQueries) - Bayesian inference from binary causal models
-- [kallaway/100-days-of-code](https://github.com/kallaway/100-days-of-code) - Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available)
 - [kjw0612/awesome-random-forest](https://github.com/kjw0612/awesome-random-forest) - Random Forest - a curated list of resources regarding random forest
 - [joanbruna/ir18](https://github.com/joanbruna/ir18) - Inference and Representation (DS-GA-1005, CSCI-GA.2569), fall 18
 - [ArtPoon/ggfree](https://github.com/ArtPoon/ggfree) - ggplot2-style plots with base R graphics
@@ -2400,7 +2404,7 @@
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [jupytext/jupytext](https://github.com/jupytext/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
 - [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
-- [ipeaGIT/geobr](https://github.com/ipeaGIT/geobr) - Easy access to official spatial data sets of Brazil in R and Python
+- [ipea/geobr](https://github.com/ipea/geobr) - Easy access to official spatial data sets of Brazil in R and Python
 - [trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
 - [pymc-devs/pymc](https://github.com/pymc-devs/pymc) - Bayesian Modeling and Probabilistic Programming in Python
 - [catboost/catboost](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computa
@@ -2523,7 +2527,7 @@
 - [avehtari/BDA_R_demos](https://github.com/avehtari/BDA_R_demos) - Bayesian Data Analysis demos for R
 - [ropensci/pdftools](https://github.com/ropensci/pdftools) - Text Extraction, Rendering and Converting of PDF Documents
 - [brentthorne/posterdown](https://github.com/brentthorne/posterdown) - Use RMarkdown to generate PDF Conference Posters via HTML
-- [ipeaGIT/geobr](https://github.com/ipeaGIT/geobr) - Easy access to official spatial data sets of Brazil in R and Python
+- [ipea/geobr](https://github.com/ipea/geobr) - Easy access to official spatial data sets of Brazil in R and Python
 - [r-lib/styler](https://github.com/r-lib/styler) - Non-invasive pretty printing of R code
 - [jasdumas/gramr](https://github.com/jasdumas/gramr) - RStudio Addin, function, & shiny app for the write-good linter  :pencil:
 - [nevrome/wellspell.addin](https://github.com/nevrome/wellspell.addin) - R Package - Quick Spellcheck Addin for RStudio
