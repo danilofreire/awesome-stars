@@ -447,7 +447,6 @@
 - [causaltext/causal-text-papers](https://github.com/causaltext/causal-text-papers) - Curated research at the intersection of causal inference and natural language processing.
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [rstudio-education/r4ds-instructors](https://github.com/rstudio-education/r4ds-instructors) - Instructors' Guide to accompany "R for Data Science"
-- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [quobit/awesome-python-in-education](https://github.com/quobit/awesome-python-in-education) - A curated list about Python in Education :snake: :mortar_board:
 - [jfiksel/github-classroom-for-teachers](https://github.com/jfiksel/github-classroom-for-teachers) - 
 - [erikgahner/awesome-ggplot2](https://github.com/erikgahner/awesome-ggplot2) - A curated list of awesome ggplot2 tutorials, packages etc.
@@ -636,6 +635,7 @@
 - [EpistasisLab/pmlb](https://github.com/EpistasisLab/pmlb) - PMLB: A large, curated repository of benchmark datasets for evaluating supervised machine learning algorithms.
 - [jarun/googler](https://github.com/jarun/googler) - :mag: Google from the terminal
 - [deepcharles/ruptures](https://github.com/deepcharles/ruptures) - ruptures: change point detection in Python
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [QuantGov/quantgov](https://github.com/QuantGov/quantgov) - The QuantGov Library
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos 
 - [machow/siuba](https://github.com/machow/siuba) - Python library for using dplyr like syntax with pandas and SQL
@@ -1046,7 +1046,7 @@
 
 ## Rust 
 
-- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. Private, Simple and extremely powerful.
+- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
