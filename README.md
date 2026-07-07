@@ -157,7 +157,6 @@
 - [facebookresearch/fastText](https://github.com/facebookresearch/fastText) - Library for fast text representation and classification.
 - [NickCH-K/CausalitySlides](https://github.com/NickCH-K/CausalitySlides) - Slides for the Seattle University Causal Inference Class
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
-- [AdrianAntico/AutoQuant](https://github.com/AdrianAntico/AutoQuant) - Automation framework for machine learning, forecasting, model evaluation, and interpretation.
 - [worldbank/dime-r-training](https://github.com/worldbank/dime-r-training) - Dime Analytics R Training
 - [EagerAI/fastai](https://github.com/EagerAI/fastai) - R interface to fast.ai
 - [mattblackwell/qsslearnr](https://github.com/mattblackwell/qsslearnr) - learnr tutorial package for Quantitative Social Science
@@ -757,6 +756,7 @@
 - [t-davidson/computational-sociology](https://github.com/t-davidson/computational-sociology) - SOC577 Computational Sociology, Rutgers University
 - [naoki-egami/DIDdesign](https://github.com/naoki-egami/DIDdesign) - R package DIDdesign: Analyzing Difference-in-Differences Design
 - [brandmaier/ggx](https://github.com/brandmaier/ggx) - ggx
+- [AdrianAntico/AutoQuant](https://github.com/AdrianAntico/AutoQuant) - Automation framework for machine learning, forecasting, model evaluation, and interpretation.
 - [jooyoungseo/youtubecaption](https://github.com/jooyoungseo/youtubecaption) - Downloading YouTube Subtitle Transcription in a Tidy Tibble Data_Frame in R
 - [QuantGov/regcensus-api-client-R](https://github.com/QuantGov/regcensus-api-client-R) - R client to pull RegCensus data
 - [bcallaway11/did](https://github.com/bcallaway11/did) - Difference in Differences with Multiple Periods, website: https://bcallaway11.github.io/did
@@ -1186,6 +1186,7 @@
 
 ## TypeScript 
 
+- [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) - AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.
 - [UditAkhourii/adhd](https://github.com/UditAkhourii/adhd) - ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deep
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.
 - [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki) - LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch e
@@ -1195,7 +1196,7 @@
 - [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork (powered by opencode)
 - [jlcodes99/vscode-antigravity-cockpit](https://github.com/jlcodes99/vscode-antigravity-cockpit) - VS Code extension for monitoring Google Antigravity AI quotas. Features Webview dashboard, QuickPick mode, and quota grouping.
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Connect VS Code with chatbots
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Chatbot-first AI coding for VS Code
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
