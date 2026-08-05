@@ -1714,6 +1714,7 @@
 
 ## others 
 
+- [firecrawl/anydoc](https://github.com/firecrawl/anydoc) - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
 - [acoppock/excheckr](https://github.com/acoppock/excheckr) - Diagnostics for experimental data: balance, attrition, missingness, and outcome checks that stack across many studies
 - [mihail911/modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments) - Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2025)
 - [ipea/brverse](https://github.com/ipea/brverse) - Lista de pacotes de R para acesso a dados brasileiros
