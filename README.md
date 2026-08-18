@@ -755,7 +755,7 @@
 - [rstudio/thematic](https://github.com/rstudio/thematic) - Theme ggplot2, lattice, and base graphics based on a few simple settings.
 - [egap/theory_and_practice_of_field_experiments](https://github.com/egap/theory_and_practice_of_field_experiments) - 'Caramba y zamba la cosa, que vivan los experimentos!' -from 'Me Gustan Los Estudiantes' by Violeta Parra
 - [keyATM/keyATM](https://github.com/keyATM/keyATM) - An R package for Keyword Assisted Topic Models
-- [t-davidson/computational-sociology](https://github.com/t-davidson/computational-sociology) - SOC577 Computational Sociology, Rutgers University
+- [t-davidson/computational-sociology](https://github.com/t-davidson/computational-sociology) - Computational Sociology
 - [naoki-egami/DIDdesign](https://github.com/naoki-egami/DIDdesign) - R package DIDdesign: Analyzing Difference-in-Differences Design
 - [brandmaier/ggx](https://github.com/brandmaier/ggx) - ggx
 - [AdrianAntico/AutoQuant](https://github.com/AdrianAntico/AutoQuant) - Automation framework for machine learning, forecasting, model evaluation, and interpretation.
