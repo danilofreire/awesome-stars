@@ -1880,7 +1880,7 @@
 - [google/model_search](https://github.com/google/model_search) - 
 - [scunning1975/mixtape](https://github.com/scunning1975/mixtape) - Data and Program files for Causal Inference: The Mixtape
 - [tyleransom/DScourseS21](https://github.com/tyleransom/DScourseS21) - ECON 5253: Data Science for Economists, University of Oklahoma (Spring 2021)
-- [t-davidson/computational-sociology](https://github.com/t-davidson/computational-sociology) - SOC577 Computational Sociology, Rutgers University
+- [t-davidson/computational-sociology](https://github.com/t-davidson/computational-sociology) - Computational Sociology
 - [woerman/ResEcon703](https://github.com/woerman/ResEcon703) - Topics in Advanced Econometrics (ResEcon 703). University of Massachusetts Amherst. Taught by Matt Woerman
 - [naoki-egami/DIDdesign](https://github.com/naoki-egami/DIDdesign) - R package DIDdesign: Analyzing Difference-in-Differences Design
 - [aschinchon/abstractions](https://github.com/aschinchon/abstractions) - An experiment to build abstract drawings with #Rstats and physarum model
