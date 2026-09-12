@@ -305,7 +305,7 @@
 - [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) - Claude Code learns from your corrections: self-correcting memory that compounds over 50+ sessions. Context engineering, parallel worktrees, agent teams, and 17 battle-tested skills.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [UditAkhourii/adhd](https://github.com/UditAkhourii/adhd) - ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deep
-- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is an open source personal AI for Mac, Windows and Linux — local-first memory, agent orchestration, and deep research.
+- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 - [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 - [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,115+ agentic skills. Includes CLI, local MCP, catalo
@@ -1287,7 +1287,7 @@
 - [mlverse/mall](https://github.com/mlverse/mall) - Run multiple LLM predictions against a data frame with R and Python
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [UditAkhourii/adhd](https://github.com/UditAkhourii/adhd) - ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deep
-- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is an open source personal AI for Mac, Windows and Linux — local-first memory, agent orchestration, and deep research.
+- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [ARahim3/mlx-tune](https://github.com/ARahim3/mlx-tune) - Fine-tune LLMs on your Mac with Apple Silicon. SFT, DPO, GRPO, Vision, TTS, STT, Embedding, and OCR fine-tuning — natively on MLX. Unsloth-compatible API.
 - [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
@@ -1517,7 +1517,7 @@
 ## mcp 
 
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.
-- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is an open source personal AI for Mac, Windows and Linux — local-first memory, agent orchestration, and deep research.
+- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows
 - [punitarani/fli](https://github.com/punitarani/fli) - Google Flights MCP, CLI and Python Library
 - [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,115+ agentic skills. Includes CLI, local MCP, catalo
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
@@ -2304,7 +2304,7 @@
 
 ## privacy 
 
-- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is an open source personal AI for Mac, Windows and Linux — local-first memory, agent orchestration, and deep research.
+- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows
 - [momenbasel/PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
 - [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 
@@ -2706,7 +2706,7 @@
 
 ## rust 
 
-- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is an open source personal AI for Mac, Windows and Linux — local-first memory, agent orchestration, and deep research.
+- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows
 - [chaqchase/lla](https://github.com/chaqchase/lla) - blazing fast `ls` replacement with superpowers
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
 - [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - GitQL is a extensible SQL-like query language and SDK to perform queries on various data sources such .git files with supports of most of SQL features such as grouping, ordering and aggregation and wi
