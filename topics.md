@@ -1717,7 +1717,7 @@
 - [jmiao24/Paper2Agent](https://github.com/jmiao24/Paper2Agent) - Paper2Agent is a multi-agent AI system that automatically transforms research papers into interactive AI agents.
 - [firecrawl/anydoc](https://github.com/firecrawl/anydoc) - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
 - [acoppock/excheckr](https://github.com/acoppock/excheckr) - Diagnostics for experimental data: balance, attrition, missingness, and outcome checks that stack across many studies
-- [mihail911/modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments) - Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2025)
+- [mihail911/modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments) - Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)
 - [ipea/brverse](https://github.com/ipea/brverse) - Lista de pacotes de R para acesso a dados brasileiros
 - [rdpackages/rdmulti](https://github.com/rdpackages/rdmulti) - Robust Local Polynomial Methods for RD designs with Multiple Cutoffs or Multiple Scores
 - [edunford/tidysynth](https://github.com/edunford/tidysynth) - A tidy implementation of the synthetic control method in R
