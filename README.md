@@ -39,6 +39,7 @@
 - [Spline Font Database](#spline-font-database)
 - [Stan](#stan)
 - [Stata](#stata)
+- [Svelte](#svelte)
 - [Swift](#swift)
 - [TSQL](#tsql)
 - [TeX](#tex)
@@ -240,9 +241,8 @@
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [chrisblattman/claudeblattman](https://github.com/chrisblattman/claudeblattman) - Claude Code for academics — skills, agents, and setup guides
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok B
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Gro
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [RamiKrispin/vscode-python-template](https://github.com/RamiKrispin/vscode-python-template) - A template for a dockerized Python development environment for VScode
 - [coatless-quarto/pyodide](https://github.com/coatless-quarto/pyodide) - Community developed Quarto extension to enable interactive Python code cells in HTML documents using Pyodide
@@ -527,7 +527,7 @@
 - [ARahim3/mlx-tune](https://github.com/ARahim3/mlx-tune) - Fine-tune LLMs on your Mac with Apple Silicon. SFT, DPO, GRPO, Vision, TTS, STT, Embedding, and OCR fine-tuning — natively on MLX. Unsloth-compatible API.
 - [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harne
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,400+ agentic skills. Includes CLI, local MCP, catalo
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,445+ agentic skills. Includes CLI, local MCP, catalo
 - [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
 - [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - Cleanlab's open-source library is the standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
 - [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biolog
@@ -1128,6 +1128,10 @@
 - [worldbank/ietoolkit](https://github.com/worldbank/ietoolkit) - Stata commands designed for Impact Evaluations in particular, but also data work in general
 - [simonheb/ritest](https://github.com/simonheb/ritest) - Stata command to perform randomization inference and permutation tests, allowing for arbitrary randomization procedures with (almost) any Stata command.
 - [vikjam/mostly-harmless-replication](https://github.com/vikjam/mostly-harmless-replication) - Replication of tables and figures from "Mostly Harmless Econometrics" in Stata, R, Python and Julia.
+
+## Svelte 
+
+- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 
 ## Swift 
 
