@@ -264,6 +264,7 @@
 - [gadenbuie/xaringanExtra](https://github.com/gadenbuie/xaringanExtra) - :ferris_wheel: A playground of enhancements and extensions for xaringan slides.
 - [turbio/bracey.vim](https://github.com/turbio/bracey.vim) - live edit html, css, and javascript in vim
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
+- [fannheyward/coc-markdownlint](https://github.com/fannheyward/coc-markdownlint) - markdownlint extension for coc.nvim
 - [tidyverse/datascience-box](https://github.com/tidyverse/datascience-box) - Data Science Course in a Box
 - [cis-ds/course-site](https://github.com/cis-ds/course-site) - Course site for Computing for Information Science (INFO 5940)
 - [nordtheme/iterm2](https://github.com/nordtheme/iterm2) - An arctic, north-bluish clean and elegant iTerm2 color scheme.
@@ -1253,7 +1254,6 @@
 - [neoclide/coc-yaml](https://github.com/neoclide/coc-yaml) - Yaml language server extension for coc.nvim
 - [neoclide/coc-r-lsp](https://github.com/neoclide/coc-r-lsp) - R LSP Client for coc.nvim
 - [neoclide/coc-html](https://github.com/neoclide/coc-html) - Html language server extension for coc.nvim.
-- [fannheyward/coc-markdownlint](https://github.com/fannheyward/coc-markdownlint) - markdownlint extension for coc.nvim
 - [neoclide/coc-emmet](https://github.com/neoclide/coc-emmet) - Emmet extension for coc.nvim
 - [fannheyward/coc-texlab](https://github.com/fannheyward/coc-texlab) - TexLab extension for coc.nvim
 - [neoclide/coc-python](https://github.com/neoclide/coc-python) - Python extension for coc.nvim, fork of vscode-python
