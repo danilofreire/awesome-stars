@@ -744,6 +744,7 @@
 - [hadley/r4ds](https://github.com/hadley/r4ds) - R for data science: a book
 - [grantmcdermott/tinyplot](https://github.com/grantmcdermott/tinyplot) - Lightweight extension of the base R graphics system
 - [andrewheiss/evalsp24.classes.andrewheiss.com](https://github.com/andrewheiss/evalsp24.classes.andrewheiss.com) - 📊 🌐 🧑‍🏫 Website for graduate-level course on program evaluation and causal inference using R, built with Quarto
+- [rdpackages/rdrobust](https://github.com/rdpackages/rdrobust) - Robust Local Polynomial Methods for RD Designs
 - [xuyiqing/fect](https://github.com/xuyiqing/fect) - fixed effect counterfactual estimators
 - [nppackages/scpi](https://github.com/nppackages/scpi) - Synthetic Control Methods
 - [tsrobinson/cjbart](https://github.com/tsrobinson/cjbart) - Heterogeneous effects analysis of conjoint experiments using BART
@@ -1088,7 +1089,7 @@
 
 - [nwilmers/paper_factory](https://github.com/nwilmers/paper_factory) - 
 - [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 600 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, 
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 700 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, 
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [jayphelps/git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
@@ -1124,7 +1125,6 @@
 - [rdpackages/rdmulti](https://github.com/rdpackages/rdmulti) - Robust Local Polynomial Methods for RD designs with Multiple Cutoffs or Multiple Scores
 - [andybhall/vbm-replication-extension](https://github.com/andybhall/vbm-replication-extension) - Replication and extension of Thompson et al. (2020) - Created with Claude Code
 - [finite-sample/endorsement](https://github.com/finite-sample/endorsement) - Derive Proportion Supporting A Group From an Endorsement Experiment
-- [rdpackages/rdrobust](https://github.com/rdpackages/rdrobust) - Robust Local Polynomial Methods for RD Designs
 - [Mixtape-Sessions/Causal-Inference](https://github.com/Mixtape-Sessions/Causal-Inference) - Causal Inference Mixtape Sessions
 - [scunning1975/advanced_causalinf](https://github.com/scunning1975/advanced_causalinf) - Advanced causal inference and research design course
 - [mpaulacaldas/mixtape](https://github.com/mpaulacaldas/mixtape) - Data for 'Causal Inference: The Mixtape'
