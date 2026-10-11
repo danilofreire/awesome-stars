@@ -2209,7 +2209,6 @@
 - [vdorie/dbarts](https://github.com/vdorie/dbarts) - Discrete Bayesian Additive Regression Trees Sampler
 - [danilofreire/homicides-sp-synth](https://github.com/danilofreire/homicides-sp-synth) - Replication materials for the paper "Evaluating the Effect of Homicide Prevention Strategies in São Paulo, Brazil: A Synthetic Control Approach" (2016)
 - [danilofreire/mercatus-fellowship-readings](https://github.com/danilofreire/mercatus-fellowship-readings) - Assigned readings for the 2016-2017 Mercatus Adam Smith Fellowship Programme
-- [geosensing/geo-sampling](https://github.com/geosensing/geo-sampling) - Randomly sample locations on streets
 - [nealjean/predicting-poverty](https://github.com/nealjean/predicting-poverty) - Combining satellite imagery and machine learning to predict poverty
 - [dbroockman/repeated-online-panel-experiments](https://github.com/dbroockman/repeated-online-panel-experiments) - Repository of detailed instructions for running online panel field experiments.
 - [mattblackwell/DirectEffects](https://github.com/mattblackwell/DirectEffects) - An R package for estimating controlled direct effects.
@@ -2481,6 +2480,7 @@
 - [bambinos/bambi](https://github.com/bambinos/bambi) - BAyesian Model-Building Interface (Bambi) in Python.
 - [facebook/prophet](https://github.com/facebook/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
 - [vikjam/mostly-harmless-replication](https://github.com/vikjam/mostly-harmless-replication) - Replication of tables and figures from "Mostly Harmless Econometrics" in Stata, R, Python and Julia.
+- [geosensing/geo-sampling](https://github.com/geosensing/geo-sampling) - Randomly sample locations on streets
 - [rhiever/Data-Analysis-and-Machine-Learning-Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects) - Repository of teaching materials, code, and data for my data analysis and machine learning projects.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [onionshare/onionshare](https://github.com/onionshare/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
