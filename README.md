@@ -88,7 +88,6 @@
 - [lightgbm-org/LightGBM](https://github.com/lightgbm-org/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tas
 - [grf-labs/grf](https://github.com/grf-labs/grf) - Generalized Random Forests
 - [sdllc/Basic-Excel-R-Toolkit](https://github.com/sdllc/Basic-Excel-R-Toolkit) - 
-- [greta-dev/greta](https://github.com/greta-dev/greta) - simple and scalable statistical modelling in R
 - [pbreheny/biglasso](https://github.com/pbreheny/biglasso) - biglasso: Extending Lasso Model Fitting to Big Data in R
 - [nacnudus/tidyxl](https://github.com/nacnudus/tidyxl) - Read untidy Excel files in R https://nacnudus.github.io/tidyxl/
 - [rcppmlpack/RcppMLPACK1](https://github.com/rcppmlpack/RcppMLPACK1) - 
@@ -774,7 +773,7 @@
 - [thomas-neitmann/ggcharts](https://github.com/thomas-neitmann/ggcharts) - Get You to Your Desired Plot Faster
 - [rstudio/gradethis](https://github.com/rstudio/gradethis) - Tools for teachers to use with learnr
 - [mdlincoln/salty](https://github.com/mdlincoln/salty) - Turn Clean Data Into Messy Data
-- [futureverse/parallelly](https://github.com/futureverse/parallelly) - R package: parallelly - Enhancing the 'parallel' Package
+- [futureverse/parallelly](https://github.com/futureverse/parallelly) - ‖ R package: parallelly - Enhancing the 'parallel' Package
 - [liao961120/getable](https://github.com/liao961120/getable) - HTML Tables with Dynamic Data in R Markdown
 - [michaeldorman/mapsapi](https://github.com/michaeldorman/mapsapi) - 'sf'-Compatible Interface to Google Maps APIs
 - [tidyverse/dsbox](https://github.com/tidyverse/dsbox) - Companion R package to Data Science Course in a Box
@@ -950,6 +949,7 @@
 - [decryptr/decryptr](https://github.com/decryptr/decryptr) - An extensible API for breaking captchas
 - [tidyverse/googledrive](https://github.com/tidyverse/googledrive) - Google Drive R API
 - [bgreenwell/pdp](https://github.com/bgreenwell/pdp) - A general framework for constructing partial dependence (i.e., marginal effect) plots from various types machine learning models in R.
+- [greta-dev/greta](https://github.com/greta-dev/greta) - simple and scalable statistical modelling in R
 - [zonination/perceptions](https://github.com/zonination/perceptions) - Perceptions of Probability and Numbers
 - [quanteda/spacyr](https://github.com/quanteda/spacyr) - R wrapper to spaCy NLP
 - [mbojan/alluvial](https://github.com/mbojan/alluvial) - Alluvial diagrams for R
