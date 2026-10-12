@@ -2543,7 +2543,7 @@
 - [AdrianAntico/AutoQuant](https://github.com/AdrianAntico/AutoQuant) - Automation framework for machine learning, forecasting, model evaluation, and interpretation.
 - [thomas-neitmann/ggcharts](https://github.com/thomas-neitmann/ggcharts) - Get You to Your Desired Plot Faster
 - [EagerAI/fastai](https://github.com/EagerAI/fastai) - R interface to fast.ai
-- [futureverse/parallelly](https://github.com/futureverse/parallelly) - R package: parallelly - Enhancing the 'parallel' Package
+- [futureverse/parallelly](https://github.com/futureverse/parallelly) - ‖ R package: parallelly - Enhancing the 'parallel' Package
 - [fastverse/collapse](https://github.com/fastverse/collapse) - Advanced and Fast Data Transformation in R
 - [liao961120/getable](https://github.com/liao961120/getable) - HTML Tables with Dynamic Data in R Markdown
 - [jack-davison/TidyTuesday](https://github.com/jack-davison/TidyTuesday) - 📊 Collection of #TidyTuesday Visualisations! 📈
