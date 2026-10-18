@@ -1054,6 +1054,7 @@
 
 ## Rust 
 
+- [chroma-core/chroma](https://github.com/chroma-core/chroma) - Search infrastructure for AI
 - [firecrawl/anydoc](https://github.com/firecrawl/anydoc) - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS.
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
@@ -1149,6 +1150,7 @@
 
 ## TeX 
 
+- [xuyiqing/regression-lectures](https://github.com/xuyiqing/regression-lectures) - POLI 450A (Stanford): regression lecture slides, worksheets, R code and data
 - [quarto-journals/elsevier](https://github.com/quarto-journals/elsevier) - Quarto template for Elsevier Journals
 - [wjschne/apaquarto](https://github.com/wjschne/apaquarto) - A quarto extension for creating APA7 documents in .docx, .html, and .pdf formats
 - [fcampelo/Design-and-Analysis-of-Experiments](https://github.com/fcampelo/Design-and-Analysis-of-Experiments) - Lecture Notes on Design & Analysis of Experiments
