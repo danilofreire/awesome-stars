@@ -2501,7 +2501,7 @@
 - [bfelbo/DeepMoji](https://github.com/bfelbo/DeepMoji) - State-of-the-art deep learning model for analyzing sentiment, emotion, sarcasm etc.
 - [Scifabric/pybossa](https://github.com/Scifabric/pybossa) - PYBOSSA is the ultimate crowdsourcing framework (aka microtasking) to analyze or enrich data that can't be processed by machines alone.
 - [bambinos/bambi](https://github.com/bambinos/bambi) - BAyesian Model-Building Interface (Bambi) in Python.
-- [facebook/prophet](https://github.com/facebook/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
+- [meta/prophet](https://github.com/meta/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
 - [vikjam/mostly-harmless-replication](https://github.com/vikjam/mostly-harmless-replication) - Replication of tables and figures from "Mostly Harmless Econometrics" in Stata, R, Python and Julia.
 - [geosensing/geo-sampling](https://github.com/geosensing/geo-sampling) - Randomly sample locations on streets
 - [rhiever/Data-Analysis-and-Machine-Learning-Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects) - Repository of teaching materials, code, and data for my data analysis and machine learning projects.
@@ -2672,7 +2672,7 @@
 - [trinker/numform](https://github.com/trinker/numform) - tools to assist in the formatting of numbers and plots for publication
 - [pbreheny/biglasso](https://github.com/pbreheny/biglasso) - biglasso: Extending Lasso Model Fitting to Big Data in R
 - [duarteguilherme/congressbr](https://github.com/duarteguilherme/congressbr) - An R package that returns tidy data from the APIs of the Brazilian Federal Senate and Chamber of Deputies.
-- [facebook/prophet](https://github.com/facebook/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
+- [meta/prophet](https://github.com/meta/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
 - [RobertMyles/tidyRSS](https://github.com/RobertMyles/tidyRSS) - An R package for extracting 'tidy' data frames from RSS, Atom and JSON feeds
 - [ropensci-archive/rtweet](https://github.com/ropensci-archive/rtweet) - 🐦 R client for interacting with Twitter's [stream and REST] APIs
 - [hrbrmstr/ggalt](https://github.com/hrbrmstr/ggalt) - :earth_americas: Extra Coordinate Systems, Geoms,  Statistical Transformations & Scales for 'ggplot2'
