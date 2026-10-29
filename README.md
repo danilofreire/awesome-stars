@@ -91,7 +91,6 @@
 - [pbreheny/biglasso](https://github.com/pbreheny/biglasso) - biglasso: Extending Lasso Model Fitting to Big Data in R
 - [nacnudus/tidyxl](https://github.com/nacnudus/tidyxl) - Read untidy Excel files in R https://nacnudus.github.io/tidyxl/
 - [rcppmlpack/RcppMLPACK1](https://github.com/rcppmlpack/RcppMLPACK1) - 
-- [vdorie/dbarts](https://github.com/vdorie/dbarts) - Discrete Bayesian Additive Regression Trees Sampler
 - [twitter/BreakoutDetection](https://github.com/twitter/BreakoutDetection) - Breakout Detection via Robust E-Statistics
 
 ## CSS 
@@ -717,7 +716,7 @@
 - [Cepesp-Fgv/tse-dados](https://github.com/Cepesp-Fgv/tse-dados) - Esse projeto tem como objetivo visualizar e avaliar os dados de votação do Tse
 - [Scifabric/pybossa](https://github.com/Scifabric/pybossa) - PYBOSSA is the ultimate crowdsourcing framework (aka microtasking) to analyze or enrich data that can't be processed by machines alone.
 - [bambinos/bambi](https://github.com/bambinos/bambi) - BAyesian Model-Building Interface (Bambi) in Python.
-- [facebook/prophet](https://github.com/facebook/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
+- [meta/prophet](https://github.com/meta/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
 - [maxbbraun/trump2cash](https://github.com/maxbbraun/trump2cash) - A stock trading bot powered by Trump tweets
 - [kieferk/dfply](https://github.com/kieferk/dfply) - dplyr-style piping operations for pandas dataframes
 - [geosensing/geo-sampling](https://github.com/geosensing/geo-sampling) - Randomly sample locations on streets
@@ -985,6 +984,7 @@
 - [kosukeimai/CBPS](https://github.com/kosukeimai/CBPS) - R package: CBPS
 - [rstudio/blogdown](https://github.com/rstudio/blogdown) - Create Blogs and Websites with R Markdown
 - [njtierney/ukpolice](https://github.com/njtierney/ukpolice) - :uk: :police_car: R package to pull police data from the uk police data repository :police_car: :uk:
+- [vdorie/dbarts](https://github.com/vdorie/dbarts) - Discrete Bayesian Additive Regression Trees Sampler
 - [tidyverse/tidyverse](https://github.com/tidyverse/tidyverse) - Easily install and load packages from the tidyverse
 - [haozhu233/giphyr](https://github.com/haozhu233/giphyr) - A R package for giphy API
 - [tidyverse/forcats](https://github.com/tidyverse/forcats) - 🐈🐈🐈🐈: tools for working with categorical variables (factors)
