@@ -2918,7 +2918,6 @@
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AW
 - [rish-16/sight](https://github.com/rish-16/sight) - 👁 Sightseer: TensorFlow library for state-of-the-art Computer Vision and Object Detection models
-- [DT42/BerryNet](https://github.com/DT42/BerryNet) - Deep learning gateway on Raspberry Pi and other edge devices
 - [keras-rl/keras-rl](https://github.com/keras-rl/keras-rl) - Deep Reinforcement Learning for Keras.
 - [sol-eng/tensorflow-w-r](https://github.com/sol-eng/tensorflow-w-r) - TensorFlow with R
 - [r-tensorflow/autokeras](https://github.com/r-tensorflow/autokeras) - Package: R Interface to AutoKeras
