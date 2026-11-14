@@ -638,7 +638,7 @@
 - [uber/causalml](https://github.com/uber/causalml) - Uplift modeling and causal inference with machine learning algorithms
 - [google/model_search](https://github.com/google/model_search) - 
 - [pytorch-tabular/pytorch_tabular](https://github.com/pytorch-tabular/pytorch_tabular) - A unified framework for Deep Learning Models on tabular data
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The agent-native framework for data apps and dashboards.
 - [EpistasisLab/pmlb](https://github.com/EpistasisLab/pmlb) - PMLB: A large, curated repository of benchmark datasets for evaluating supervised machine learning algorithms.
 - [jarun/googler](https://github.com/jarun/googler) - :mag: Google from the terminal
 - [deepcharles/ruptures](https://github.com/deepcharles/ruptures) - ruptures: change point detection in Python
