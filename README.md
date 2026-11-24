@@ -481,7 +481,6 @@
 - [Kyubyong/nlp_tasks](https://github.com/Kyubyong/nlp_tasks) - Natural Language Processing Tasks and References
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [juliohm/awesome-brazil-data](https://github.com/juliohm/awesome-brazil-data) - Curated list of Brazilian datasets for anyone interested in studying the country.
-- [swcarpentry/git-novice](https://github.com/swcarpentry/git-novice) - Version Control with Git
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [danilofreire/mercatus-fellowship-readings](https://github.com/danilofreire/mercatus-fellowship-readings) - Assigned readings for the 2016-2017 Mercatus Adam Smith Fellowship Programme
 - [ZuzooVn/machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - A complete daily plan for studying to become a machine learning engineer.
@@ -514,6 +513,8 @@
 
 ## Python 
 
+- [RikiyaT/lm_understand-logs](https://github.com/RikiyaT/lm_understand-logs) - Complete logs of the experiments in the blog post 'LLMs can understand and write neural network weights'
+- [mbzuai-oryx/LoopedWSP](https://github.com/mbzuai-oryx/LoopedWSP) - Looped Weight-Space Programming: LLM-Written Transformers for Long Algorithmic Reasoning
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [pinzek/HMM-cnfutures](https://github.com/pinzek/HMM-cnfutures) - 
 - [lyramakesmusic/neuron-explorer](https://github.com/lyramakesmusic/neuron-explorer) - Steering-first neuron explorer for Qwen3.5-4B: push every MLP neuron, keep every rollout, browse the results
@@ -1115,6 +1116,7 @@
 - [Wandmalfarbe/pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template) - A pandoc LaTeX template to convert markdown files to PDF or LaTeX.
 - [daviddalpiaz/r4sl](https://github.com/daviddalpiaz/r4sl) - :chart_with_upwards_trend: Machine Learning from the perspective of a Statistician using R
 - [trishume/dotfiles](https://github.com/trishume/dotfiles) - My dotfiles for Linux and Mac.
+- [swcarpentry/git-novice](https://github.com/swcarpentry/git-novice) - Version Control with Git
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [reynhout/chrx](https://github.com/reynhout/chrx) - Chromebook Unix
 - [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment (EOL)
