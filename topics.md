@@ -587,6 +587,7 @@
 
 ## claude 
 
+- [mbzuai-oryx/LoopedWSP](https://github.com/mbzuai-oryx/LoopedWSP) - Looped Weight-Space Programming: LLM-Written Transformers for Long Algorithmic Reasoning
 - [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) - Claude Code learns from your corrections: self-correcting memory that compounds over 50+ sessions. Context engineering, parallel worktrees, agent teams, and 17 battle-tested skills.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [Nanako0129/coralline](https://github.com/Nanako0129/coralline) - 🪸 Powerlevel10k-inspired statusline for Claude Code — paste one prompt and your AI interviews you, then installs it
@@ -1342,6 +1343,7 @@
 
 ## llm 
 
+- [mbzuai-oryx/LoopedWSP](https://github.com/mbzuai-oryx/LoopedWSP) - Looped Weight-Space Programming: LLM-Written Transformers for Long Algorithmic Reasoning
 - [mlabonne/llm-datasets](https://github.com/mlabonne/llm-datasets) - Curated list of datasets and tools for post-training.
 - [mlverse/mall](https://github.com/mlverse/mall) - Run multiple LLM predictions against a data frame with R and Python
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
@@ -1801,6 +1803,7 @@
 
 ## others 
 
+- [RikiyaT/lm_understand-logs](https://github.com/RikiyaT/lm_understand-logs) - Complete logs of the experiments in the blog post 'LLMs can understand and write neural network weights'
 - [pinzek/HMM-cnfutures](https://github.com/pinzek/HMM-cnfutures) - 
 - [lyramakesmusic/neuron-explorer](https://github.com/lyramakesmusic/neuron-explorer) - Steering-first neuron explorer for Qwen3.5-4B: push every MLP neuron, keep every rollout, browse the results
 - [xuyiqing/regression-lectures](https://github.com/xuyiqing/regression-lectures) - POLI 450A (Stanford): regression lecture slides, worksheets, R code and data
